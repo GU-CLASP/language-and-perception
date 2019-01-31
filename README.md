@@ -13,19 +13,19 @@ In 2018 we also organised (together with the Dialogue group) Workshop on Dialogu
 Members of the group: 
 
 Researchers:
-Simon Dobnik (group leader)
-Robin Cooper
-Staffan Larsson
-Shalom Lappin
-Christine Howes
-Ellen Breitholtz
-Sharid Loáiciga
+- Simon Dobnik (group leader)
+- Robin Cooper
+- Staffan Larsson
+- Shalom Lappin
+- Christine Howes
+- Ellen Breitholtz
+- Sharid Loáiciga
 
 
 PhD students:
-Mehdi Ghanimifard
-Wafia Adouane
-Yuri Bizzoni
-Sylvie Saget
-Vladislav Maraev
-Bill Noble
+- Mehdi Ghanimifard
+- Wafia Adouane
+- Yuri Bizzoni
+- Sylvie Saget
+- Vladislav Maraev
+- Bill Noble
