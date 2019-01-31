@@ -4,6 +4,8 @@ title: Reading group
 permalink: /meetings/
 ---
 
+Imported from the wiki: https://wiki.clasp.gu.se/doku.php?id=projects:apl:meetings:start
+
 ### Next
 
   * G. Collell, L. V. Gool, and M. Moens. Acquiring common sense spatial knowledge through implicit spatial templates. arXiv, arXiv:1711.06821 [cs.AI]:1–8, 2017. [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16232/16259)
