@@ -72,7 +72,7 @@ Trends in Cognitive Science, , 17(11), pp. 585-596. (recommended by Sylvie)
 ##### 2017-02-14: Mehdi: Learning to compose spatial relations with grounded recurrent neural language models
 
   - Mehdi, Haris, Stegrios, Jean-Philippe, Chris, Robin, Yuri and Simon
-  - Several interesting papers to read: [[https://docs.google.com/document/d/1MNzmOq0yAzmNaKSs5RJ6BcOiqEZdVLu5VzbCdg4SktQ/edit?usp=sharing | list of cited papers]]
+  - Several interesting papers to read: [list of cited papers](https://docs.google.com/document/d/1MNzmOq0yAzmNaKSs5RJ6BcOiqEZdVLu5VzbCdg4SktQ/edit?usp=sharing)
 
 ##### 2017-02-06: First, kick-off meeting
 
