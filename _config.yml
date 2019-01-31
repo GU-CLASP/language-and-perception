@@ -1,5 +1,7 @@
 theme: minima
 title: "Situated Language and Perception Research Group"
+author: " "
+description: " "
 header_pages:
   - index.md
   - meetings.md
