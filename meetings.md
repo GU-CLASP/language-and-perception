@@ -74,7 +74,7 @@ Trends in Cognitive Science, , 17(11), pp. 585-596. (recommended by Sylvie)
   - Mehdi, Haris, Stegrios, Jean-Philippe, Chris, Robin, Yuri and Simon
   - Several interesting papers to read: [[https://docs.google.com/document/d/1MNzmOq0yAzmNaKSs5RJ6BcOiqEZdVLu5VzbCdg4SktQ/edit?usp=sharing | list of cited papers]]
 
-#####2017-02-06: First, kick-off meeting
+##### 2017-02-06: First, kick-off meeting
 
   - Mehdi, Haris, Chris, Robin and Simon
   - Areas of language and perception
