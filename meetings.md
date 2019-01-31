@@ -1,4 +1,4 @@
-# Language and perception reading group
+# The reading group
 
 ### Next
 
