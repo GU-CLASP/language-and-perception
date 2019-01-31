@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Situated Language and Perception Research Group
 
-You can use the [editor on GitHub](https://github.com/GU-CLASP/language-and-perception/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In the Language and Perception research group we are looking at formal and distributional models (and anything in between) of language used by situated agents interacting with each other and with the physical world around them through action and perception. We investigate areas such representations of meaning in computational approaches to language, action, and perception, for example of spatial descriptions, generations and interpretation of scene description, multi-modal communication, situated dialogue systems, and other.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+The group runs a bi-weekly [reading group](https://wiki.clasp.gu.se/doku.php?id=projects:apl:meetings:start) and offers two standing PhD courses: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Language, Action, and Perception (for more info: [English](https://gul.gu.se/public/courseId/82742/lang-en/publicPage.do) and [Swedish](https://flov.gu.se/digitalAssets/1578/1578779_spr--k--handling-och-perception--7-5-hp.pdf)). 
+- Representation of Meaning (for more info: [English](https://gul.gu.se/public/courseId/82744/lang-en/publicPage.do) and [Swedish](https://flov.gu.se/digitalAssets/1578/1578778_representationer-av-spr--klig-betydelse--7-5-hp.pdf)).
 
-```markdown
-Syntax highlighted code block
+In 2018 we also organised (together with the Dialogue group) Workshop on Dialogue and Perception. For more details, please see [here](https://clasp.gu.se/news-events/workshop-on-dialogue-and-perception-2018).
 
-# Header 1
-## Header 2
-### Header 3
+Members of the group: 
 
-- Bulleted
-- List
+Researchers:
+Simon Dobnik (group leader)
+Robin Cooper
+Staffan Larsson
+Shalom Lappin
+Christine Howes
+Ellen Breitholtz
+Sharid Loáiciga
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GU-CLASP/language-and-perception/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+PhD students:
+Mehdi Ghanimifard
+Wafia Adouane
+Yuri Bizzoni
+Sylvie Saget
+Vladislav Maraev
+Bill Noble
