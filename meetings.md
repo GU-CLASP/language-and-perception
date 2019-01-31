@@ -1,4 +1,8 @@
-# The reading group
+---
+layout: page
+title: Reading group
+permalink: /meetings/
+---
 
 ### Next
 
