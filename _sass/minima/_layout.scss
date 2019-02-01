@@ -3,10 +3,10 @@
  */
 .site-header {
   border-top: 5px solid $gu-blue;
-  border-bottom: 1px solid $gu-blue;
+  border-bottom: 1px solid $gu-black;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
-  background: $gu-blue;
+  background: $gu-white;
   
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -18,7 +18,7 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-  color: $gu-white;
+  color: $gu-blue;
     
   @include media-query($on-palm) {
     padding-right: 45px;
@@ -26,7 +26,7 @@
 
   &,
   &:visited {
-    color: $gu-white;
+    color: $gu-blue;
   }
 }
 
@@ -76,7 +76,7 @@
   }
 
   .page-link {
-    color: $gu-white;
+    color: $gu-blue;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
@@ -126,13 +126,13 @@
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
-  background: $gu-black;
+  //background: $gu-white;
 }
 
 .footer-heading {
   @include relative-font-size(1.125);
   margin-bottom: $spacing-unit / 2;
-  color: $gu-white;
+  //color: $gu-white;
 }
 
 .contact-list,
@@ -143,7 +143,7 @@
 
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
-  color: $gu-white;
+  //color: $gu-white;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
