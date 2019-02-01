@@ -3,6 +3,8 @@ layout: home
 title: About
 ---
 
+<img align="right" src="pics/blue-apple.jpg">
+
 In the Language and Perception research group we are looking at formal and distributional models (and anything in between) of language used by situated agents interacting with each other and with the physical world around them through action and perception. We investigate areas such representations of meaning in computational approaches to language, action, and perception, for example of spatial descriptions, generations and interpretation of scene description, multi-modal communication, situated dialogue systems, and other.
 
 
@@ -32,3 +34,6 @@ PhD students:
 - Sylvie Saget
 - Vladislav Maraev
 - Bill Noble
+
+
+Picture of the blue apple taken from [here](https://s-media-cache-ak0.pinimg.com/736x/06/ea/40/06ea407e5694ba51977d65aaafe428ea.jpg).
