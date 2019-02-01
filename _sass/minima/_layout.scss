@@ -2,11 +2,12 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  border-top: 5px solid $gu-black;
+  border-bottom: 1px solid $gu-blue;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
-
+  background: $gu-blue;
+  
   // Positioning context for the mobile navigation icon
   position: relative;
 }
@@ -17,7 +18,8 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-
+  color: $gu-white;
+    
   @include media-query($on-palm) {
     padding-right: 45px;
   }
@@ -74,7 +76,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: $gu-white;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
