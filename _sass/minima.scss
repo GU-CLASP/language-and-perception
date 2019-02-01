@@ -29,6 +29,11 @@ $on-laptop:        800px !default;
 $on-medium:        $on-palm !default;
 $on-large:         $on-laptop !default;
 
+// GU colors (By Mehdi Ghanimifard)
+$gu-blue:       #004b89 !default;
+$gu-black:      #000000 !default;
+$gu-white:      #ffffff !default;
+
 // Use media queries like this:
 // @include media-query($on-palm) {
 //   .wrapper {
