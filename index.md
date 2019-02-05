@@ -37,6 +37,6 @@ In 2018 we also organised (together with the Dialogue group) Workshop on Dialogu
 
 ##News
 
-  - Check out the draft of the report of the group's activities on the wiki.
+  - Check out the draft of the report of the group's activities on [the wiki](https://github.com/GU-CLASP/language-and-perception/wiki/Annual-report-2018).
   
 Picture of the blue apple taken from [here](https://s-media-cache-ak0.pinimg.com/736x/06/ea/40/06ea407e5694ba51977d65aaafe428ea.jpg).
