@@ -14,6 +14,10 @@ Imported from the wiki: https://wiki.clasp.gu.se/doku.php?id=projects:apl:meetin
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * J. Li, X. Chen, E. H. Hovy, and D. Jurafsky. Visualizing and understanding neural models in NLP. arXiv, [arXiv:1506.01066 [cs.CL]](http://arxiv.org/abs/1506.01066):1–10, 2015. (recommended by Felix)
+  
+  * L. Arras, F. Horn, G. Montavon, K.-R. Müller, and W. Samek. [”What is relevant in a text document?”:](https://doi.org/10.1371/journal.pone.0181142) An interpretable machine learning approach. PLOS ONE, 12(8):1–23, 08 2017. (recommended by Felix)
+
   * S. Kottur, J. M. Moura, D. Parikh, D. Batra, and M. Rohrbach. Visual coreference resolution in visual dialog using neural module networks. In Proceedings of the European Conference on Computer Vision (ECCV), pages 153–169, 2018. (recommended by Sharid and Simon) [link](http://openaccess.thecvf.com/content_ECCV_2018/papers/Satwik_Kottur_Visual_Coreference_Resolution_ECCV_2018_paper.pdf)
 
   * M. Janner, K. Narasimhan, and R. Barzilay. Representation learning for grounded spatial reasoning. Transactions of the Association for Computational Linguistics, 6:49–61, 2018. (recommended by Mehdi) [link](https://www.transacl.org/ojs/index.php/tacl/article/view/1234)
