@@ -6,7 +6,7 @@ permalink: /meetings/
 
 ### Next
 
-  * Li, Jiwei, et al. "Visualizing and understanding neural models in NLP." arXiv preprint arXiv:1506.01066 (2015). [link](http://www.aclweb.org/anthology/N16-1082) (recommended by Felix Morger) 2019-02-22
+  * Li, J., Chen, X., Hovy, E., & Jurafsky, D. (2016). Visualizing and Understanding Neural Models in NLP. In Proceedings of NAACL-HLT (pp. 681-691). [link](http://www.aclweb.org/anthology/N16-1082) (recommended by Felix Morger) 2019-02-22
 
   * Forestier S, Oudeyer P-Y.  (2017)  A Unified Model of Speech and Tool Use Early Development. Proceedings of the 39th Annual Meeting of the Cognitive Science Society. [link](http://sforestier.com/node/32) (recommended by Sylvie Saget) 2019-03-08
 
