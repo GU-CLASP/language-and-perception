@@ -8,7 +8,9 @@ Imported from the wiki: https://wiki.clasp.gu.se/doku.php?id=projects:apl:meetin
 
 ### Next
 
-  * G. Collell, L. V. Gool, and M. Moens. Acquiring common sense spatial knowledge through implicit spatial templates. arXiv, arXiv:1711.06821 [cs.AI]:1–8, 2017. [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16232/16259)
+  * Li, Jiwei, et al. "Visualizing and understanding neural models in NLP." arXiv preprint arXiv:1506.01066 (2015). (recommended by Felix Morger) 2019-02-22
+
+  * Forestier S, Oudeyer P-Y.  (2017)  A Unified Model of Speech and Tool Use Early Development. Proceedings of the 39th Annual Meeting of the Cognitive Science Society. [link](http://sforestier.com/node/32) (recommended by Sylvie Saget) 2019-03-08
 
 ### Suggestions
 
@@ -40,6 +42,8 @@ Gottlieb, J., Oudeyer, P-Y., Lopes, M., Baranes, A. (2013)
 Trends in Cognitive Science, , 17(11), pp. 585-596. (recommended by Sylvie)
 
 ### Read
+
+  * G. Collell, L. V. Gool, and M. Moens. Acquiring common sense spatial knowledge through implicit spatial templates. arXiv, arXiv:1711.06821 [cs.AI]:1–8, 2017. [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16232/16259) 2019-02-08
 
   * N. Schneider, J. D. Hwang, V. Srikumar, J. Prange, A. Blodgett, S. R. Moeller, A. Stern, A. Bitan, and O. Abend. Comprehensive supersense disambiguation of English prepositions and possessives. arXiv, arXiv:1805.04905 [cs.CL], 2018. (recommended by Bill) 2018-12-06
 
