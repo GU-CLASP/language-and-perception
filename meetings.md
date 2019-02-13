@@ -4,8 +4,6 @@ title: Reading group
 permalink: /meetings/
 ---
 
-Imported from the wiki: https://wiki.clasp.gu.se/doku.php?id=projects:apl:meetings:start
-
 ### Next
 
   * Li, Jiwei, et al. "Visualizing and understanding neural models in NLP." arXiv preprint arXiv:1506.01066 (2015). [link](http://www.aclweb.org/anthology/N16-1082) (recommended by Felix Morger) 2019-02-22
