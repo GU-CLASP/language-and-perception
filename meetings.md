@@ -11,9 +11,6 @@ permalink: /meetings/
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
-
-  * Forestier S, Oudeyer P-Y.  (2017)  A Unified Model of Speech and Tool Use Early Development. Proceedings of the 39th Annual Meeting of the Cognitive Science Society. [link](http://sforestier.com/node/32) (recommended by Sylvie Saget) 2019-03-08
-  * J. Li, X. Chen, E. H. Hovy, and D. Jurafsky. Visualizing and understanding neural models in NLP. arXiv, arXiv:1506.01066 [cs.CL]:1–10, 2015. [paper](http://arxiv.org/abs/1506.01066) (recommended by Felix)
   
   * L. Arras, F. Horn, G. Montavon, K.-R. Müller, and W. Samek. ”What is relevant in a text document?”: An interpretable machine learning approach. PLOS ONE, 12(8):1–23, 08 2017. [paper](https://doi.org/10.1371/journal.pone.0181142) (recommended by Felix)
 
@@ -39,6 +36,8 @@ Gottlieb, J., Oudeyer, P-Y., Lopes, M., Baranes, A. (2013)
 Trends in Cognitive Science, , 17(11), pp. 585-596. (recommended by Sylvie)
 
 ### Read
+
+  * Forestier S, Oudeyer P-Y.  (2017)  A Unified Model of Speech and Tool Use Early Development. Proceedings of the 39th Annual Meeting of the Cognitive Science Society. [link](http://sforestier.com/node/32) (recommended by Sylvie Saget) 2019-03-08
 
   * Li, J., Chen, X., Hovy, E., & Jurafsky, D. (2016). Visualizing and Understanding Neural Models in NLP. In Proceedings of NAACL-HLT (pp. 681-691). [link](http://www.aclweb.org/anthology/N16-1082) (recommended by Felix Morger) 2019-02-22
 
