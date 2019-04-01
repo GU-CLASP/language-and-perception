@@ -35,7 +35,7 @@ It offers two standing PhD courses:
 
 In 2018 we also organised (together with the Dialogue group) Workshop on Dialogue and Perception. For more details, please see [here](https://clasp.gu.se/news-events/workshop-on-dialogue-and-perception-2018).
 
-##News
+### News
 
   - Check out the draft of the report of the group's activities on [the wiki](https://github.com/GU-CLASP/language-and-perception/wiki/Annual-report-2018).
   
