@@ -6,12 +6,13 @@ permalink: /meetings/
 
 ### Next
 
-  * Forestier S, Oudeyer P-Y.  (2017)  A Unified Model of Speech and Tool Use Early Development. Proceedings of the 39th Annual Meeting of the Cognitive Science Society. [link](http://sforestier.com/node/32) (recommended by Sylvie Saget) 2019-03-08
+  * Pragst, Louisa, et al. “On the Vector Representation of Utterances in Dialogue Context.” Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC-2018), European Language Resource Association, 2018. [link](http://aclweb.org/anthology/L18-1124) (recommended by Bill Nobel) 2019-04-05
 
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * Forestier S, Oudeyer P-Y.  (2017)  A Unified Model of Speech and Tool Use Early Development. Proceedings of the 39th Annual Meeting of the Cognitive Science Society. [link](http://sforestier.com/node/32) (recommended by Sylvie Saget) 2019-03-08
   * J. Li, X. Chen, E. H. Hovy, and D. Jurafsky. Visualizing and understanding neural models in NLP. arXiv, arXiv:1506.01066 [cs.CL]:1–10, 2015. [paper](http://arxiv.org/abs/1506.01066) (recommended by Felix)
   
   * L. Arras, F. Horn, G. Montavon, K.-R. Müller, and W. Samek. ”What is relevant in a text document?”: An interpretable machine learning approach. PLOS ONE, 12(8):1–23, 08 2017. [paper](https://doi.org/10.1371/journal.pone.0181142) (recommended by Felix)
