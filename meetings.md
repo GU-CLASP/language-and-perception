@@ -67,9 +67,9 @@ Trends in Cognitive Science, , 17(11), pp. 585-596. (recommended by Sylvie)
 
   * J. Pustejovsky. From affordances to events: Communicating action through language and gesture. Paper manuscript, Department of Computer Science, Brandeis University, Waltham, MA USA, January 2018. (recommended by Robin)
 
-  * Fodor, J. (1998). There are no recognitional concepts; not even RED. Philosophical issues, 9, 1-14. (recommended by Staffan)
+  * Fodor, J. (1998). There are no recognitional concepts; not even RED. Philosophical issues, 9, 1-14. (recommended by Staffan)  (2018-01-12)
 
-  * J. Johnson, B. Hariharan, L. van der Maaten, J. Hoffman, F. Li, C. L. Zitnick, and R. B. Girshick. Inferring and executing programs for visual reasoning. CoRR, abs/1705.03633(n):n, 2017. [link](https://arxiv.org/abs/1705.03633) (recommended by Mehdi)
+  * J. Johnson, B. Hariharan, L. van der Maaten, J. Hoffman, F. Li, C. L. Zitnick, and R. B. Girshick. Inferring and executing programs for visual reasoning. CoRR, abs/1705.03633(n):n, 2017. [link](https://arxiv.org/abs/1705.03633) (recommended by Mehdi) 2017-12-08
 
   * A. Lücking. Modeling co-verbal gesture perception in type theory with records. In Computer Science and Information Systems (FedCSIS), 2016 Federated Conference on, pages 383–392. IEEE, 2016. (recommended by Vlad)
 
