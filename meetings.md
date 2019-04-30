@@ -6,7 +6,7 @@ permalink: /meetings/
 
 ### Next
 
-  * Pragst, Louisa, et al. “On the Vector Representation of Utterances in Dialogue Context.” Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC-2018), European Language Resource Association, 2018. [link](http://aclweb.org/anthology/L18-1124) (recommended by Bill Nobel) 2019-04-05
+  * Peters, Matthew E., et al. "Dissecting contextual word embeddings: Architecture and representation." Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, pages 1499–1509 Brussels, Belgium, October 31 - November 4, 2018. [link](https://aclweb.org/anthology/D18-1179) (recommended by Felix) 2019-05-03
 
 ### Suggestions
 
@@ -36,6 +36,8 @@ Gottlieb, J., Oudeyer, P-Y., Lopes, M., Baranes, A. (2013)
 Trends in Cognitive Science, , 17(11), pp. 585-596. (recommended by Sylvie)
 
 ### Read
+
+  * Pragst, Louisa, et al. “On the Vector Representation of Utterances in Dialogue Context.” Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC-2018), European Language Resource Association, 2018. [link](http://aclweb.org/anthology/L18-1124) (recommended by Bill Nobel) 2019-04-05
 
   * Forestier S, Oudeyer P-Y.  (2017)  A Unified Model of Speech and Tool Use Early Development. Proceedings of the 39th Annual Meeting of the Cognitive Science Society. [link](http://sforestier.com/node/32) (recommended by Sylvie Saget) 2019-03-08
 
