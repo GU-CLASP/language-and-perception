@@ -6,7 +6,6 @@ permalink: /meetings/
 
 ### Next
 
-  * Peters, Matthew E., et al. "Dissecting contextual word embeddings: Architecture and representation." Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, pages 1499–1509 Brussels, Belgium, October 31 - November 4, 2018. [link](https://aclweb.org/anthology/D18-1179) (recommended by Felix) 2019-05-03
 
 ### Suggestions
 
@@ -37,6 +36,8 @@ Trends in Cognitive Science, , 17(11), pp. 585-596. (recommended by Sylvie)
 
 ### Read
 
+  * Peters, Matthew E., et al. "Dissecting contextual word embeddings: Architecture and representation." Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, pages 1499–1509 Brussels, Belgium, October 31 - November 4, 2018. [link](https://aclweb.org/anthology/D18-1179) (recommended by Felix) 2019-05-03
+
   * Pragst, Louisa, et al. “On the Vector Representation of Utterances in Dialogue Context.” Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC-2018), European Language Resource Association, 2018. [link](http://aclweb.org/anthology/L18-1124) (recommended by Bill Nobel) 2019-04-05
 
   * Forestier S, Oudeyer P-Y.  (2017)  A Unified Model of Speech and Tool Use Early Development. Proceedings of the 39th Annual Meeting of the Cognitive Science Society. [link](http://sforestier.com/node/32) (recommended by Sylvie Saget) 2019-03-08
@@ -55,7 +56,7 @@ Trends in Cognitive Science, , 17(11), pp. 585-596. (recommended by Sylvie)
 
   * I. Vulić and N. Mrkšić. Specialising word vectors for lexical entailment. In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers), pages 1134–1145. Association for Computational Linguistics, 2018 (recommended by Bill) 2018-10-08 [link](http://aclweb.org/anthology/N18-1103)
 
-  * ACL 2018 report by Mehdi Ghanimifard: [link](https://docs.google.com/presentation/d/13zAcf5jFV516Q-fL9gwS_0NahTc5_EWxLkap3sShc4E/edit?usp=sharing)
+  * ACL 2018 report by Mehdi Ghanimifard 2018-09-21: [link](https://docs.google.com/presentation/d/13zAcf5jFV516Q-fL9gwS_0NahTc5_EWxLkap3sShc4E/edit?usp=sharing)
 
   * Matteo Mossio and Dario Taraborelli. Action-dependent perceptual invariants: From ecological to sensorimotor approaches. Consciousness and cognition, 17(4):1324-1340, 2008. (recommended by Sylvie) 2018-06-01
 
