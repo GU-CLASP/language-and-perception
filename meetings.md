@@ -10,6 +10,9 @@ permalink: /meetings/
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
+
+  * W. N. Havard, J.-P. Chevrot, and L. Besacier. Models of visually grounded speech signal pay attention to nouns: a bilingual experiment on english and japanese. arXic, arXiv:1902.03052 [cs.CL]:1–5, 2019. [paper](https://arxiv.org/abs/1902.03052) (recommended by Sylvie)
+
   
   * L. Arras, F. Horn, G. Montavon, K.-R. Müller, and W. Samek. ”What is relevant in a text document?”: An interpretable machine learning approach. PLOS ONE, 12(8):1–23, 08 2017. [paper](https://doi.org/10.1371/journal.pone.0181142) (recommended by Felix)
 
