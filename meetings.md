@@ -11,6 +11,9 @@ permalink: /meetings/
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * [What are the differences between neural networks and the brain?](https://youtu.be/P4wI938mx00) panel discussion from 
+Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
+
   * W. N. Havard, J.-P. Chevrot, and L. Besacier. Models of visually grounded speech signal pay attention to nouns: a bilingual experiment on english and japanese. arXic, arXiv:1902.03052 [cs.CL]:1–5, 2019. [paper](https://arxiv.org/abs/1902.03052) (recommended by Sylvie)
 
   
