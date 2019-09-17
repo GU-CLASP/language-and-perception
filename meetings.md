@@ -6,6 +6,8 @@ permalink: /meetings/
 
 ### Next
 
+  * J. M. Cano Sant ́ın. Fast visual grounding in interaction: bringing few-shot learning with neural networks to an interactive robot. Masters in language technology (mlt), 30 hec, Department of Philosophy, Lin- guistics and Theory of Science (FLOV), University of Gothenburg, Gothenburg, Sweden, September 18 2019. Supervisor: Simon Dobnik and Mehdi Ghanimifard, examiner: Aarne Ranta. 2019-09-18
+
 
 ### Suggestions
 
