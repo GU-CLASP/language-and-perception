@@ -43,7 +43,7 @@ Trends in Cognitive Science, , 17(11), pp. 585-596. (recommended by Sylvie)
 
 ### Read
 
-* J. M. Cano Sant ́ın. Fast visual grounding in interaction: bringing few-shot learning with neural networks to an interactive robot. Masters in language technology (mlt), 30 hec, Department of Philosophy, Lin- guistics and Theory of Science (FLOV), University of Gothenburg, Gothenburg, Sweden, September 18 2019. Supervisor: Simon Dobnik and Mehdi Ghanimifard, examiner: Aarne Ranta. 2019-09-18
+  * J. M. Cano Sant ́ın. Fast visual grounding in interaction: bringing few-shot learning with neural networks to an interactive robot. Masters in language technology (mlt), 30 hec, Department of Philosophy, Lin- guistics and Theory of Science (FLOV), University of Gothenburg, Gothenburg, Sweden, September 18 2019. Supervisor: Simon Dobnik and Mehdi Ghanimifard, examiner: Aarne Ranta. 2019-09-18
 
   * Peters, Matthew E., et al. "Dissecting contextual word embeddings: Architecture and representation." Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, pages 1499–1509 Brussels, Belgium, October 31 - November 4, 2018. [link](https://aclweb.org/anthology/D18-1179) (recommended by Felix) 2019-05-03
 
