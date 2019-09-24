@@ -6,9 +6,8 @@ permalink: /meetings/
 
 ### Next
 
-  * J. M. Cano Sant ́ın. Fast visual grounding in interaction: bringing few-shot learning with neural networks to an interactive robot. Masters in language technology (mlt), 30 hec, Department of Philosophy, Lin- guistics and Theory of Science (FLOV), University of Gothenburg, Gothenburg, Sweden, September 18 2019. Supervisor: Simon Dobnik and Mehdi Ghanimifard, examiner: Aarne Ranta. 2019-09-18
-
-
+* S. Kottur, J. M. Moura, D. Parikh, D. Batra, and M. Rohrbach. Visual coreference resolution in visual dialog using neural module networks. In Proceedings of the European Conference on Computer Vision (ECCV), pages 153–169, 2018. (recommended by Sharid and Simon) [link](http://openaccess.thecvf.com/content_ECCV_2018/papers/Satwik_Kottur_Visual_Coreference_Resolution_ECCV_2018_paper.pdf) 2019-10-04
+  
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
@@ -21,10 +20,7 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
   * W. N. Havard, J.-P. Chevrot, and L. Besacier. Models of visually grounded speech signal pay attention to nouns: a bilingual experiment on english and japanese. arXic, arXiv:1902.03052 [cs.CL]:1–5, 2019. [paper](https://arxiv.org/abs/1902.03052) (recommended by Sylvie)
 
-  
   * L. Arras, F. Horn, G. Montavon, K.-R. Müller, and W. Samek. ”What is relevant in a text document?”: An interpretable machine learning approach. PLOS ONE, 12(8):1–23, 08 2017. [paper](https://doi.org/10.1371/journal.pone.0181142) (recommended by Felix)
-
-  * S. Kottur, J. M. Moura, D. Parikh, D. Batra, and M. Rohrbach. Visual coreference resolution in visual dialog using neural module networks. In Proceedings of the European Conference on Computer Vision (ECCV), pages 153–169, 2018. (recommended by Sharid and Simon) [link](http://openaccess.thecvf.com/content_ECCV_2018/papers/Satwik_Kottur_Visual_Coreference_Resolution_ECCV_2018_paper.pdf)
 
   * M. Janner, K. Narasimhan, and R. Barzilay. Representation learning for grounded spatial reasoning. Transactions of the Association for Computational Linguistics, 6:49–61, 2018. (recommended by Mehdi) [link](https://www.transacl.org/ojs/index.php/tacl/article/view/1234)
 
@@ -46,6 +42,8 @@ Gottlieb, J., Oudeyer, P-Y., Lopes, M., Baranes, A. (2013)
 Trends in Cognitive Science, , 17(11), pp. 585-596. (recommended by Sylvie)
 
 ### Read
+
+* J. M. Cano Sant ́ın. Fast visual grounding in interaction: bringing few-shot learning with neural networks to an interactive robot. Masters in language technology (mlt), 30 hec, Department of Philosophy, Lin- guistics and Theory of Science (FLOV), University of Gothenburg, Gothenburg, Sweden, September 18 2019. Supervisor: Simon Dobnik and Mehdi Ghanimifard, examiner: Aarne Ranta. 2019-09-18
 
   * Peters, Matthew E., et al. "Dissecting contextual word embeddings: Architecture and representation." Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, pages 1499–1509 Brussels, Belgium, October 31 - November 4, 2018. [link](https://aclweb.org/anthology/D18-1179) (recommended by Felix) 2019-05-03
 
