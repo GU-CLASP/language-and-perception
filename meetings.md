@@ -4,7 +4,11 @@ title: Reading group
 permalink: /meetings/
 ---
 
-You can add your own suggestions to this page by going [here](https://github.com/GU-CLASP/language-and-perception/blob/master/meetings.md). Copies of papers are available [here](https://linux.dobnik.net/cloud/index.php/s/stdzY57oB3tQW2P).
+From here you can also:
+
+  - add [your paper suggestions](https://github.com/GU-CLASP/language-and-perception/blob/master/meetings.md)
+  - get [a local copy of a paper](https://linux.dobnik.net/cloud/index.php/s/stdzY57oB3tQW2P)
+  - add [a paper](https://linux.dobnik.net/cloud/index.php/s/Z2iPGa28Mexyz24)
 
 ### Next
 
