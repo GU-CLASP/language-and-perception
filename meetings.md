@@ -4,6 +4,8 @@ title: Reading group
 permalink: /meetings/
 ---
 
+You can add your own suggestions to this page by going [here](https://github.com/GU-CLASP/language-and-perception/blob/master/meetings.md). Copies of papers are available [here](https://linux.dobnik.net/cloud/index.php/s/stdzY57oB3tQW2P).
+
 ### Next
 
 * S. Kottur, J. M. Moura, D. Parikh, D. Batra, and M. Rohrbach. Visual coreference resolution in visual dialog using neural module networks. In Proceedings of the European Conference on Computer Vision (ECCV), pages 153–169, 2018. (recommended by Sharid and Simon) [link](http://openaccess.thecvf.com/content_ECCV_2018/papers/Satwik_Kottur_Visual_Coreference_Resolution_ECCV_2018_paper.pdf) 2019-10-04
@@ -13,7 +15,6 @@ permalink: /meetings/
 Please add here any papers (with links) you would like to suggest for the reading group.
 
   * J. Thomason, M. Murray, M. Cakmak, and L. Zettlemoyer. Vision-and-dialog navigation. In Conference on Robot Learning (CoRL), 2019. [paper](https://arxiv.org/abs/1907.04957) (recommended by Simon)
-
 
   * [What are the differences between neural networks and the brain?](https://youtu.be/P4wI938mx00) panel discussion from 
 Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
