@@ -17,6 +17,8 @@ From here you can also:
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * J. A. Bateman, M. Pomarlan, and G. Kazhoyan. Embodied contextualization: Towards a multistratal ontological treatment. Applied Ontology, Pre-press:1–35, 2 October 2019. [paper](https://content.iospress.com/articles/applied-ontology/ao190218)
+
   * J. Thomason, M. Murray, M. Cakmak, and L. Zettlemoyer. Vision-and-dialog navigation. In Conference on Robot Learning (CoRL), 2019. [paper](https://arxiv.org/abs/1907.04957) (recommended by Simon)
 
   * [What are the differences between neural networks and the brain?](https://youtu.be/P4wI938mx00) panel discussion from 
