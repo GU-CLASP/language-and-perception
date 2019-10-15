@@ -11,12 +11,12 @@ From here you can also:
 
 ### Next
 
-* S. Kottur, J. M. Moura, D. Parikh, D. Batra, and M. Rohrbach. Visual coreference resolution in visual dialog using neural module networks. In Proceedings of the European Conference on Computer Vision (ECCV), pages 153–169, 2018. (recommended by Sharid and Simon) [link](http://openaccess.thecvf.com/content_ECCV_2018/papers/Satwik_Kottur_Visual_Coreference_Resolution_ECCV_2018_paper.pdf) 2019-10-04
-  
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * Marcus, G. (2018). Deep learning: A critical appraisal. [paper](https://arxiv.org/pdf/1801.00631.pdf); [video comments](https://www.youtube.com/watch?v=wh_IZNHH2S0); (recommended by Mehdi)
+  
   * J. A. Bateman, M. Pomarlan, and G. Kazhoyan. Embodied contextualization: Towards a multistratal ontological treatment. Applied Ontology, Pre-press:1–35, 2 October 2019. [paper](https://content.iospress.com/articles/applied-ontology/ao190218)
 
   * J. Thomason, M. Murray, M. Cakmak, and L. Zettlemoyer. Vision-and-dialog navigation. In Conference on Robot Learning (CoRL), 2019. [paper](https://arxiv.org/abs/1907.04957) (recommended by Simon)
@@ -48,6 +48,8 @@ Gottlieb, J., Oudeyer, P-Y., Lopes, M., Baranes, A. (2013)
 Trends in Cognitive Science, , 17(11), pp. 585-596. (recommended by Sylvie)
 
 ### Read
+
+ * S. Kottur, J. M. Moura, D. Parikh, D. Batra, and M. Rohrbach. Visual coreference resolution in visual dialog using neural module networks. In Proceedings of the European Conference on Computer Vision (ECCV), pages 153–169, 2018. (recommended by Sharid and Simon) [link](http://openaccess.thecvf.com/content_ECCV_2018/papers/Satwik_Kottur_Visual_Coreference_Resolution_ECCV_2018_paper.pdf) 2019-10-04
 
   * J. M. Cano Sant ́ın. Fast visual grounding in interaction: bringing few-shot learning with neural networks to an interactive robot. Masters in language technology (mlt), 30 hec, Department of Philosophy, Lin- guistics and Theory of Science (FLOV), University of Gothenburg, Gothenburg, Sweden, September 18 2019. Supervisor: Simon Dobnik and Mehdi Ghanimifard, examiner: Aarne Ranta. 2019-09-18
 
