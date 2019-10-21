@@ -15,6 +15,8 @@ From here you can also:
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * Herbelot, A., & Vecchi, E. M. (2015). Building a shared world: Mapping distributional to model-theoretic semantic spaces. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (pp. 22-32).(https://www.cl.cam.ac.uk/~ah433/emnlp2015.pdf); (recommended by Staffan)
+
   * Marcus, G. (2018). Deep learning: A critical appraisal. [paper](https://arxiv.org/pdf/1801.00631.pdf); [video comments](https://www.youtube.com/watch?v=wh_IZNHH2S0); (recommended by Mehdi)
   
   * J. A. Bateman, M. Pomarlan, and G. Kazhoyan. Embodied contextualization: Towards a multistratal ontological treatment. Applied Ontology, Pre-press:1–35, 2 October 2019. [paper](https://content.iospress.com/articles/applied-ontology/ao190218)
