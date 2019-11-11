@@ -13,6 +13,9 @@ From here you can also:
 
 ### Next
 
+  * F. Cavicchio, D. Melcher, and M. Poesio. The effect of linguistic and visual salience in visual world studies. Frontiers in Psychology, 5:176, 2014. [paper](https://www.frontiersin.org/article/10.3389/fpsyg.2014.00176) (recommended by Sharid and Simon)
+
+
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
