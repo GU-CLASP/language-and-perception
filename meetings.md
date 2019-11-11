@@ -4,6 +4,8 @@ title: Reading group
 permalink: /meetings/
 ---
 
+The situated language and perception reading group meets on even Fridays 10-12 in the seminar room of Dicksonsgatan 4.
+
 From here you can also:
 
   - add [your paper suggestions](https://github.com/GU-CLASP/language-and-perception/blob/master/meetings.md)
