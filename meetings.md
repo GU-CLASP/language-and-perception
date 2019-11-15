@@ -20,6 +20,8 @@ From here you can also:
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * Malt, B. C., Sloman, S. A., Gennari, S., Shi, M., & Wang, Y. (1999). Knowing versus naming: Similarity and the linguistic categorization of artifacts. Journal of Memory and Language, 40(2), 230-262. [paper](https://1b7a2906-a-62cb3a1a-s-sites.googlegroups.com/site/slomanlab/malt_et_al_jml.pdf?attachauth=ANoY7co8b_1l8eshBxSMrD65NRkjgq0cFvJZ-9XwdEVW9r2gOx-a8rOnyZPPV19Ngnx8x4hD2M7huNSJ8NlKz1XV6Zok8U9QutTZgyfoz4AB_k9hVNMjbmk3Skd1vFCOXTiW4f_PuvL3nQxEgVud3jdUqP_9nYWmNuL0aiMYohD9Kq8DiVFd1ywotrzNsTYzM0k5hygIkNyADjIXTGxZnaT80bobVBNp5Q%3D%3D&attredirects=0); (recommended by Staffan)
+
   * Herbelot, A., & Vecchi, E. M. (2015). Building a shared world: Mapping distributional to model-theoretic semantic spaces. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (pp. 22-32).(https://www.cl.cam.ac.uk/~ah433/emnlp2015.pdf); (recommended by Staffan)
 
   * Marcus, G. (2018). Deep learning: A critical appraisal. [paper](https://arxiv.org/pdf/1801.00631.pdf); [video comments](https://www.youtube.com/watch?v=wh_IZNHH2S0); (recommended by Mehdi)
