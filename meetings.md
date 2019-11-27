@@ -13,7 +13,7 @@ From here you can also:
 
 ### Next
 
-  * F. Cavicchio, D. Melcher, and M. Poesio. The effect of linguistic and visual salience in visual world studies. Frontiers in Psychology, 5:176, 2014. [paper](https://www.frontiersin.org/article/10.3389/fpsyg.2014.00176) (recommended by Sharid and Simon)
+  * 
 
 
 ### Suggestions
@@ -54,11 +54,10 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 [video](https://www.youtube.com/watch?v=2TWS_d843ys)
 (recommended by Mehdi)
 
-  * Information Seeking, Curiosity and Attention: Computational and Neural Mechanisms
-Gottlieb, J., Oudeyer, P-Y., Lopes, M., Baranes, A. (2013)
-Trends in Cognitive Science, , 17(11), pp. 585-596. (recommended by Sylvie)
 
 ### Read
+
+  * F. Cavicchio, D. Melcher, and M. Poesio. The effect of linguistic and visual salience in visual world studies. Frontiers in Psychology, 5:176, 2014. [paper](https://www.frontiersin.org/article/10.3389/fpsyg.2014.00176) (recommended by Sharid and Simon)
 
  * S. Kottur, J. M. Moura, D. Parikh, D. Batra, and M. Rohrbach. Visual coreference resolution in visual dialog using neural module networks. In Proceedings of the European Conference on Computer Vision (ECCV), pages 153–169, 2018. (recommended by Sharid and Simon) [link](http://openaccess.thecvf.com/content_ECCV_2018/papers/Satwik_Kottur_Visual_Coreference_Resolution_ECCV_2018_paper.pdf) 2019-10-04
 
