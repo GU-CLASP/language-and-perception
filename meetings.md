@@ -13,7 +13,7 @@ From here you can also:
 
 ### Next
 
-  * X. Yu, H. Zhang, Y. Song, Y. Song, and C. Zhang. What you see is what you get: Visual pronoun coreference resolution in dialogues. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), pages 5122–5131, Hong Kong, China, Nov. 2019. Association for Computational Linguistics. [paper](https://www.aclweb.org/anthology/D19-1516) 2019-12-13 (recommended by Sharid and Simon)
+  * X. Yu, H. Zhang, Y. Song, Y. Song, and C. Zhang. What you see is what you get: Visual pronoun coreference resolution in dialogues. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), pages 5122–5131, Hong Kong, China, Nov. 2019. Association for Computational Linguistics. [paper](https://www.aclweb.org/anthology/D19-1516) (recommended by Sharid and Simon) 2019-12-13 
 
 
 ### Suggestions
