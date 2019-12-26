@@ -20,6 +20,8 @@ From here you can also:
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * Mollica, F. et al. (2019). Composition is the core driver of the language-selective network [Paper](https://www.biorxiv.org/content/10.1101/436204v2) (recommended by Mehdi)
+
   * Pezzelle, S., & Fernández, R. (2019). Is the Red Square Big? MALeViC: Modeling Adjectives Leveraging Visual Contexts. arXiv preprint arXiv:1908.10285. [paper](https://arxiv.org/pdf/1908.10285.pdf) (recommended by Staffan)
   
   * Malt, B. C., Sloman, S. A., Gennari, S., Shi, M., & Wang, Y. (1999). Knowing versus naming: Similarity and the linguistic categorization of artifacts. Journal of Memory and Language, 40(2), 230-262. [paper](https://1b7a2906-a-62cb3a1a-s-sites.googlegroups.com/site/slomanlab/malt_et_al_jml.pdf?attachauth=ANoY7co8b_1l8eshBxSMrD65NRkjgq0cFvJZ-9XwdEVW9r2gOx-a8rOnyZPPV19Ngnx8x4hD2M7huNSJ8NlKz1XV6Zok8U9QutTZgyfoz4AB_k9hVNMjbmk3Skd1vFCOXTiW4f_PuvL3nQxEgVud3jdUqP_9nYWmNuL0aiMYohD9Kq8DiVFd1ywotrzNsTYzM0k5hygIkNyADjIXTGxZnaT80bobVBNp5Q%3D%3D&attredirects=0) (recommended by Staffan)
