@@ -20,6 +20,8 @@ From here you can also:
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * Moro, D., Black, S., & Kennington, C. (2019). Composing and Embedding the Words-as-Classifiers Model of Grounded Semantics. arXiv preprint arXiv:1911.03283. (https://arxiv.org/pdf/1911.03283.pdf) (recommended by Staffan)
+
   * Mollica, F. et al. (2019). Composition is the core driver of the language-selective network [Paper](https://www.biorxiv.org/content/10.1101/436204v2) (recommended by Mehdi)
 
   * Pezzelle, S., & Fernández, R. (2019). Is the Red Square Big? MALeViC: Modeling Adjectives Leveraging Visual Contexts. arXiv preprint arXiv:1908.10285. [paper](https://arxiv.org/pdf/1908.10285.pdf) (recommended by Staffan)
