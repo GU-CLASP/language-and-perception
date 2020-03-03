@@ -13,7 +13,7 @@ From here you can also:
 
 ### Next
 
-  * Anonymous (2020) Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data
+  * Anonymous (2020), Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data.
 [paper](https://openreview.net/forum?id=GKTvAcb12b)
 
 
