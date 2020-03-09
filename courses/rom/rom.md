@@ -4,7 +4,7 @@ title: Representations of Meaning (ROM)
 permalink: /courses/rom/
 ---
 
-<img align="right" width="300" src="/language-and-perception/pics/rom-img_5624.jpg"/>
+<img align="right" width="300" src="pics/rom-img_5624.jpg"/>
 
 ROM HT18, Representations of meaning, 7.5 HEC, Representationer av
 språklig betydelse, 7,5hp, part of [Doctoral Degree in Computational
