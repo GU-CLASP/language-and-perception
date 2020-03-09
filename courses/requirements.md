@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Requirements for doctoral courses
+title: Course requirements
+permalink: /courses/rom/
 ---
 
 The course can be taken as (i) an individual reading course; (ii) a
 seminar course with other students; (iii) partially overlapping with a
 corresponding masters course; or (iv) a combination of the
-above. Participation in summer schools (for which you have not already
-obtained credit) may also be counted here.
+previous. Participation in summer schools (for which you have not
+already obtained credit) may also be counted here.
 
 This means that each course participant will have an individual plan
 of activities. Please make sure that you get in touch with the course
@@ -56,6 +57,11 @@ quality of a workshop paper that could be later submitted to a
 workshop or a conference.
 
 
+## Mix and match
+
+Here are [some examples](https://docs.google.com/spreadsheets/d/1w7ObJOotRcF75bqOBpPg046iF87qDfRkXnxDpbnd4gI/edit?usp=sharing) of possible combinations.
+
+
 ## How much work is required?
 
 An individual plan will be agreed with each student at the start
@@ -63,6 +69,16 @@ making sure that equal amount of work is required to pass the course
 whichever option is followed. Generally, as this is a 7.5 HEC course
 it means that you would spend working on it for 5 weeks full-time or
 10 weeks half-time (60 HEC is 40 weeks).
+
+
+## Submission of work
+
+Please submit your work through Github. I created an outline git
+project containing folders and supplementary files which will help you
+with submissions and which you can find
+[here](https://github.com/sdobnik/rom). Have a look at [the following
+instructions](https://github.com/sdobnik/rom/blob/master/library/git-instructions.md)
+how to use it.
 
 
 ## Grading
