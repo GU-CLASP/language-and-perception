@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Representations of Meaning (ROM)
+title: Representations of Meaning (RoM)
+short_title: RoM
 permalink: /courses/rom/
 ---
 
