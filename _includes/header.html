@@ -27,7 +27,9 @@
                 <div class="dropdown-content">
                   {%- for path_inner in path.sub_pages -%}
                     {%- assign my_page_inner = site.pages | where: "path", path_inner | first -%}
-                    {%- if my_page_inner.title -%}
+                    {%- if my_page_inner.short_title -%}
+                      <a class="page-link" href="{{ my_page_inner.url | relative_url }}">{{ my_page_inner.short_title | escape }}</a>
+                    {%- elsif my_page_inner.title -%}
                       <a class="page-link" href="{{ my_page_inner.url | relative_url }}">{{ my_page_inner.title | escape }}</a>
                     {%- endif -%}
                   {%- endfor -%}
