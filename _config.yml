@@ -3,6 +3,9 @@ title: "Situated Language and Perception Research Group"
 author: " "
 description: " "
 header_pages:
-  - index.md
-  - meetings.md
-  - courses.md
+  - path: index.md
+  - path: meetings.md
+  - path: courses.md
+    sub_pages:
+      - rom.md
+      - apl.md
