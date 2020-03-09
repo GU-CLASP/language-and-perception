@@ -61,6 +61,7 @@ workshop or a conference.
 
 Here are [some examples](https://docs.google.com/spreadsheets/d/1w7ObJOotRcF75bqOBpPg046iF87qDfRkXnxDpbnd4gI/edit?usp=sharing) of possible combinations.
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIlBzgtagmIaVQIh-g0PXzZoQUbtb4gKO_bw_nqZOaq6UoYC-YpqhyUl2u4AMCKltGVL2TtiEPop5n/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## How much work is required?
 
