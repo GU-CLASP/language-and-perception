@@ -15,6 +15,7 @@ of activities. Please make sure that you get in touch with the course
 organiser(s) as soon as you decide to take this course to agree on a
 plan. Subsequent integration of activities may not always be possible.
 
+
 ## Individual course
 
 The course is organised as individual discussions based on your
@@ -54,6 +55,11 @@ so you should exemplify a higher quality and sophistication of work,
 appropriate for the PhD level. For example, the project should be of a
 quality of a workshop paper that could be later submitted to a
 workshop or a conference.
+
+
+## Mix and match
+
+Here are [some examples](https://docs.google.com/spreadsheets/d/1w7ObJOotRcF75bqOBpPg046iF87qDfRkXnxDpbnd4gI/edit?usp=sharing) of possible combinations.
 
 
 ## How much work is required?
