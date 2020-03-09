@@ -7,5 +7,4 @@ header_pages:
   - path: meetings.md
   - path: courses.md
     sub_pages:
-      - rom.md
-      - apl.md
+      - courses/requirements.md
