@@ -59,7 +59,7 @@ workshop or a conference.
 
 ## Mix and match
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIlBzgtagmIaVQIh-g0PXzZoQUbtb4gKO_bw_nqZOaq6UoYC-YpqhyUl2u4AMCKltGVL2TtiEPop5n/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe style="width:100%;height: 400px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIlBzgtagmIaVQIh-g0PXzZoQUbtb4gKO_bw_nqZOaq6UoYC-YpqhyUl2u4AMCKltGVL2TtiEPop5n/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 ## How much work is required?
