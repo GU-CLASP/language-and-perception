@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course requirements
-permalink: /courses/rom/
+permalink: /courses/requirements/
 ---
 
 The course can be taken as (i) an individual reading course; (ii) a
