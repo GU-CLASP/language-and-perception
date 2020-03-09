@@ -46,19 +46,18 @@ Course syllabus
 
 ## Requirements
 
-Please read [this document](../requiements.md) and talk to Simon.
+Please read [this document](../requirements.md) and talk to Simon.
 
 
 ## Lecturers
-
-In the order of apperance...
 
   - [Simon Dobnik](https://clasp.gu.se/about/people/simon-dobnik) (course organiser), office hours: by appointment
 
 
 ## Course literature
 
-For a list of suggested readings please see here. Individual readings will be suggested for each meeting.
+For a list of suggested readings please see [here](reading-list.pdf). Individual readings will be suggested for each meeting.
+
 
 ## Schedule and course materials
 
@@ -103,6 +102,6 @@ For a list of suggested readings please see here. Individual readings will be su
 	* Bill (presenter), Robin, Felix and Simon
 
 
-## Individual readings
+## Topics for individual readings
 
 You can find some topics for individual reading [here](readings.md).
