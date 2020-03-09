@@ -6,3 +6,6 @@ header_pages:
   - index.md
   - meetings.md
   - courses.md
+    sub_pages:
+      - rom.md
+      - apl.md
