@@ -13,10 +13,7 @@ From here you can also:
 
 ### Next
 
-  * Anonymous (2020), Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data.
-[paper](https://openreview.net/forum?id=GKTvAcb12b)
-
-
+  * 
 
 ### Suggestions
 
@@ -66,6 +63,9 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
 
 ### Read
+
+  * Anonymous (2020), Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data.
+[paper](https://openreview.net/forum?id=GKTvAcb12b) (recommended by Mehdi) 2020-03-06 
 
   * X. Yu, H. Zhang, Y. Song, Y. Song, and C. Zhang. What you see is what you get: Visual pronoun coreference resolution in dialogues. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), pages 5122–5131, Hong Kong, China, Nov. 2019. Association for Computational Linguistics. [paper](https://www.aclweb.org/anthology/D19-1516) (recommended by Sharid and Simon) 2019-12-13 
   
