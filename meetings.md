@@ -4,7 +4,7 @@ title: Reading group
 permalink: /meetings/
 ---
 
-The situated language and perception reading group meets on even Fridays 10-12 in the seminar room on the 5th floor of Humanistiska fakulteten, Renströmsgatan 6. Sometimes we meet [online](https://gu-se.zoom.us/j/726750116)
+The situated language and perception reading group meets on even Fridays 10-12 in the seminar room on the 5th floor of Humanistiska fakulteten, Renströmsgatan 6. Sometimes we meet [online](https://gu-se.zoom.us/j/726750116), requires GU-login.
 
 From here you can also:
 
