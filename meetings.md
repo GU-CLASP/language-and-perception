@@ -13,15 +13,13 @@ From here you can also:
 
 ### Next
 
-  * 
+  * Cohn-Gordon, R., Goodman, N., & Potts, C. (2018). Pragmatically Informative Image Captioning with Character-Level Inference. [paper](http://arxiv.org/abs/1804.05417) (recommended by Nikolai) 
 
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
   * Tan, H., Dernoncourt, F., Lin, Z., Bui, T., & Bansal, M. (2019). Expressing Visual Relationships via Language. [paper](https://www.aclweb.org/anthology/P19-1182.pdf) (recommended by Nikolai)
-
-  * Cohn-Gordon, R., Goodman, N., & Potts, C. (2018). Pragmatically Informative Image Captioning with Character-Level Inference. [paper](http://arxiv.org/abs/1804.05417) (recommended by Nikolai)
 
   * Thomason, J., Padmakumar, A., Sinapov, J., Walker, N., Jiang, Y., Yedidsion, H., ... & Mooney, R. J. (2020). Jointly improving parsing and perception for natural language commands through human-robot dialog. Journal of Artificial Intelligence Research, 67, 1-48. [paper](https://jair.org/index.php/jair/article/view/11485/26562) (recommended by Mehdi)
   
