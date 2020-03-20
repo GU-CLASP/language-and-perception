@@ -17,9 +17,9 @@ From here you can also:
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
-  * Goodman, N. D., & Stuhlmüller, A. (2013). Knowledge and Implicature: Modeling Language Understanding as Social Cognition. Topics in Cognitive Science. https://doi.org/10.1111/tops.12007 (recommended by Bill)
+  * Goodman, N. D., & Stuhlmüller, A. (2013). Knowledge and Implicature: Modeling Language Understanding as Social Cognition. Topics in Cognitive Science. [paper](https://web.stanford.edu/~ngoodman/papers/GS-TopiCS-2013.pdf) (recommended by Bill)
   
-  * Goodman, N. D., & Frank, M. C. (2016). Pragmatic Language Interpretation as Probabilistic Inference. In Trends in Cognitive Sciences. https://doi.org/10.1016/j.tics.2016.08.005 (recommended by Nikolai)
+  * Goodman, N. D., & Frank, M. C. (2016). Pragmatic Language Interpretation as Probabilistic Inference. In Trends in Cognitive Sciences. [paper](http://langcog.stanford.edu/papers_new/goodman-2016-underrev.pdf) (recommended by Nikolai)
 
   * Tan, H., Dernoncourt, F., Lin, Z., Bui, T., & Bansal, M. (2019). Expressing Visual Relationships via Language. [paper](https://www.aclweb.org/anthology/P19-1182.pdf) (recommended by Nikolai)
 
