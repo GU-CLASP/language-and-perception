@@ -13,11 +13,13 @@ From here you can also:
 
 ### Next
 
-  * Cohn-Gordon, R., Goodman, N., & Potts, C. (2018). Pragmatically Informative Image Captioning with Character-Level Inference. [paper](http://arxiv.org/abs/1804.05417) (recommended by Nikolai) 
-
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
+
+  * Goodman, N. D., & Stuhlmüller, A. (2013). Knowledge and Implicature: Modeling Language Understanding as Social Cognition. Topics in Cognitive Science. https://doi.org/10.1111/tops.12007 (recommended by Bill)
+  
+  * Goodman, N. D., & Frank, M. C. (2016). Pragmatic Language Interpretation as Probabilistic Inference. In Trends in Cognitive Sciences. https://doi.org/10.1016/j.tics.2016.08.005 (recommended by Nikolai)
 
   * Tan, H., Dernoncourt, F., Lin, Z., Bui, T., & Bansal, M. (2019). Expressing Visual Relationships via Language. [paper](https://www.aclweb.org/anthology/P19-1182.pdf) (recommended by Nikolai)
 
@@ -63,6 +65,8 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
 
 ### Read
+
+  * Cohn-Gordon, R., Goodman, N., & Potts, C. (2018). Pragmatically Informative Image Captioning with Character-Level Inference. [paper](http://arxiv.org/abs/1804.05417) (recommended by Nikolai) 2020-03-20
 
   * Anonymous (2020), Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data.
 [paper](https://openreview.net/forum?id=GKTvAcb12b) (recommended by Mehdi) 2020-03-06 
