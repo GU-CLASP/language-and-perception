@@ -4,7 +4,9 @@ title: Reading group
 permalink: /meetings/
 ---
 
-The situated language and perception reading group meets on even Fridays 10-12 in the seminar room on the 5th floor of Humanistiska fakulteten, Renströmsgatan 6. Sometimes we meet [online](https://gu-se.zoom.us/j/726750116), requires GU-login.
+The situated language and perception reading group meets on even Fridays 10-12 in the seminar room on the 5th floor of Humanistiska fakulteten, Renströmsgatan 6. 
+
+Sometimes, and more recently we meet [online on Zoom](https://gu-se.zoom.us/j/726750116), requires GU-login.
 
 From here you can also:
 
@@ -13,7 +15,8 @@ From here you can also:
 
 ### Next
 
- * Tai, Kai & Socher, Richard & Manning, Christoper. (2015). Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks. 1. 10.3115/v1/P15-1150. [paper](https://arxiv.org/abs/1503.00075) (recommended by Axel)
+ * Tai, Kai & Socher, Richard & Manning, Christoper. (2015). Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks. 1. 10.3115/v1/P15-1150. [paper](https://arxiv.org/abs/1503.00075) (recommended by Axel, gives credit for ROM)
+
 
 ### Suggestions
 
