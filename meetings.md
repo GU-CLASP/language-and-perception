@@ -13,14 +13,14 @@ From here you can also:
 
 ### Next
 
+ * Tai, Kai & Socher, Richard & Manning, Christoper. (2015). Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks. 1. 10.3115/v1/P15-1150. [paper](https://arxiv.org/abs/1503.00075) (recommended by Axel)
+
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
   * Akbik, Alan & Blythe, Duncan & Vollgraf, Roland. (2018). Contextual String Embeddings for Sequence Labeling. 
   [paper](https://www.aclweb.org/anthology/C18-1139/) (recommended by Axel)
- 
- * Tai, Kai & Socher, Richard & Manning, Christoper. (2015). Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks. 1. 10.3115/v1/P15-1150. [paper](https://arxiv.org/abs/1503.00075) (recommended by Axel)
   
   * Nguyen, Phi & Joty, Shafiq & Hoi, Steven & Socher, Richard. (2020). Tree-structured Attention with Hierarchical Accumulation. [paper](https://openreview.net/forum?id=HJxK5pEYvr) (recommended by Axel)
 
