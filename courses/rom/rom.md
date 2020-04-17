@@ -65,7 +65,7 @@ For a list of suggested readings please see [here](reading-list.pdf). Individual
   - **Structure learning**
   	* 2020-04-03, Zoom
 	* Tai, Kai & Socher, Richard & Manning, Christoper. (2015). [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks.](https://arxiv.org/abs/1503.00075) 1. 10.3115/v1/P15-1150. 
-	* Axel (presenter), Robin, Tewodros, Bill, Maryam, and Simon
+	* Axel (presenter), Robin, Tewodros, Bill, Maryam, and Simon (**check**)
 
   - **Meaning representations**
 	* 2020-03-06 10-12 Humanisten
