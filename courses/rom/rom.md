@@ -8,7 +8,7 @@ permalink: /courses/rom/
 <img align="right" width="300" src="pics/rom-img_5624.jpg"/>
 
 ROM HT18, Representations of meaning, 7.5 HEC, Representationer av
-språklig betydelse, 7,5hp, part of [Doctoral Degree in Computational
+språklig betydelse, 7,5hp, part of [Doctoral Degree in Computational
 Linguistics](https://flov.gu.se/digitalAssets/1605/1605989_asp-fd-datalingvistik-2016ver2.pdf).
 
 The course gives a survey of theory and computational implementations
@@ -61,6 +61,11 @@ For a list of suggested readings please see [here](reading-list.pdf). Individual
 
 
 ## Schedule and course materials
+
+  - **Structure learning**
+  	* 2020-04-03, Zoom
+	* Tai, Kai & Socher, Richard & Manning, Christoper. (2015). Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks. 1. 10.3115/v1/P15-1150. [paper](https://arxiv.org/abs/1503.00075)
+	* Axel (presenter), Robin, Tewodros, Bill, Maryam, and Simon
 
   - **Meaning representations**
 	* 2020-10-08 15-17 Humanisten
