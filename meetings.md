@@ -15,7 +15,7 @@ From here you can also:
 
 ### Next
 
-  * Krause, J., Johnson, J., Krishna, R., & Fei-Fei, L. (2016). A Hierarchical Approach for Generating Descriptive Image Paragraphs. [paper](https://arxiv.org/pdf/1611.06607.pdf) (recommended by Nikolai)
+  *
 
 ### Suggestions
 
@@ -76,6 +76,8 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
 
 ### Read
+
+* J. Krause, J. Johnson, R. Krishna, and L. Fei-Fei. A hierarchical approach for generating descriptive image paragraphs. In 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pages 3337–3345, July 21–26 2017. [paper](https://arxiv.org/pdf/1611.06607.pdf) (recommended by Nikolai)
 
  * Tai, Kai & Socher, Richard & Manning, Christoper. (2015). Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks. 1. 10.3115/v1/P15-1150. [paper](https://arxiv.org/abs/1503.00075) (recommended by Axel) 2020-04-03
 
