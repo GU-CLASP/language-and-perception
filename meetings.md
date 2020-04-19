@@ -15,7 +15,7 @@ From here you can also:
 
 ### Next
 
-  *
+  * Talk: David Alfter: Visual features in textual complexity classification: a case study on pictograms  [paper](https://gubox.box.com/shared/static/nuyn4p02bcj8pok1lmd9huf54wfmt8an.pdf)
 
 ### Suggestions
 
