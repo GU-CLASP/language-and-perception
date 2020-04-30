@@ -15,11 +15,15 @@ From here you can also:
 
 ### Next
 
-  * Talk: David Alfter: Visual features in textual complexity classification: a case study on pictograms  [paper](https://gubox.box.com/shared/static/nuyn4p02bcj8pok1lmd9huf54wfmt8an.pdf) 2020-04-30
+  * 
 
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
+
+  * Joyce Y. Chai, Rui Fang, Changsong Liu, and Lanbo She. 2017. Collaborative language grounding to- ward situated human-robot dialogue. AI Magazine, 37(4):32–45.
+
+  * Joyce Y. Chai, Qiaozi Gao, Lanbo She, Shaohua Yang, Sari Saba-Sadiya, and Guangyue Xu. 2018. Lan- guage to action: Towards interactive task learning with physical agents. In Proceedings of the Twenty- Seventh International Joint Conference on Artificial Intelligence (IJCAI-18).
 
   * Akbik, Alan & Blythe, Duncan & Vollgraf, Roland. (2018). Contextual String Embeddings for Sequence Labeling. 
   [paper](https://www.aclweb.org/anthology/C18-1139/) (recommended by Axel)
@@ -76,6 +80,8 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
 
 ### Read
+
+ * Talk: David Alfter: Visual features in textual complexity classification: a case study on pictograms  [paper](https://gubox.box.com/shared/static/nuyn4p02bcj8pok1lmd9huf54wfmt8an.pdf) and  Y. Bisk, A. Holtzman, J. Thomason, J. Andreas, Y. Bengio, J. Chai, M. Lapata, A. Lazaridou, J. May, A. Nisnevich, N. Pinto, and J. Turian. Experience grounds language. arXiv, arXiv:2004.10151 [cs.CL], 2020. [paper](https://arxiv.org/abs/2004.10151) 2020-04-30
 
 * J. Krause, J. Johnson, R. Krishna, and L. Fei-Fei. A hierarchical approach for generating descriptive image paragraphs. In 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pages 3337–3345, July 21–26 2017. [paper](https://arxiv.org/pdf/1611.06607.pdf) (recommended by Nikolai)
 
