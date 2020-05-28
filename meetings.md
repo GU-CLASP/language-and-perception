@@ -15,13 +15,17 @@ From here you can also:
 
 ### Next
 
-  * Talk: Míriam Sánchez-Alcón: The significance of applying attention to Visual Question Answering  [paper](https://gubox.app.box.com/s/djn8w0k2qlmkgbdsr8yk0dsz22r1fjsj) and  Wu, J., & Mooney, R. J. (2018). Faithful Multimodal Explanation for Visual Question Answering [cs.CL], 2020. [paper](http://arxiv.org/abs/1809.02805) (recommended by Nikolai) 2020-05-29
+  * Talk: Míriam Sánchez-Alcón: The significance of applying attention to Visual Question Answering  [paper](https://gubox.app.box.com/s/djn8w0k2qlmkgbdsr8yk0dsz22r1fjsj) and  Wu, J., & Mooney, R. J. (2018). Faithful Multimodal Explanation for Visual Question Answering [cs.CL], 2020. [paper](http://arxiv.org/abs/1809.02805) (recommended by Simon) 2020-05-29
   
   * Pezzelle, S., & Fernández, R. (2019). Is the Red Square Big? MALeViC: Modeling Adjectives Leveraging Visual Contexts. arXiv preprint arXiv:1908.10285. [paper](https://arxiv.org/pdf/1908.10285.pdf) (recommended by Staffan) 2020-06-12
 
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
+
+  * Tan, H., & Bansal, M. (2019). LXMERT: Learning Cross-Modality Encoder Representations from Transformers. https://arxiv.org/abs/1908.07490 (recommended by Simon)
+
+  * Wu, J., & Mooney, R. J. (2019). Self-Critical Reasoning for Robust Visual Question Answering. http://arxiv.org/abs/1905.09998 (recommended by Simon)
 
   * Joyce Y. Chai, Rui Fang, Changsong Liu, and Lanbo She. 2017. Collaborative language grounding to- ward situated human-robot dialogue. AI Magazine, 37(4):32–45.
 
