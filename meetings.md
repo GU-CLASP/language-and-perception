@@ -15,7 +15,9 @@ From here you can also:
 
 ### Next
 
-  * 
+  * Talk: Míriam Sánchez-Alcón: The significance of applying attention to Visual Question Answering  [paper](https://gubox.app.box.com/s/djn8w0k2qlmkgbdsr8yk0dsz22r1fjsj) and  Wu, J., & Mooney, R. J. (2018). Faithful Multimodal Explanation for Visual Question Answering [cs.CL], 2020. [paper](http://arxiv.org/abs/1809.02805) (recommended by Nikolai) 2020-05-29
+  
+  * Pezzelle, S., & Fernández, R. (2019). Is the Red Square Big? MALeViC: Modeling Adjectives Leveraging Visual Contexts. arXiv preprint arXiv:1908.10285. [paper](https://arxiv.org/pdf/1908.10285.pdf) (recommended by Staffan) 2020-06-12
 
 ### Suggestions
 
@@ -33,8 +35,6 @@ Please add here any papers (with links) you would like to suggest for the readin
   * Wang, Bin & Chen, Fenxiao & Wang, Yuncheng & Kuo, C.. (2020). Efficient Sentence Embedding via Semantic Subspace Analysis. [paper](https://arxiv.org/abs/2002.09620) (recommended by Axel)
 
   * Goodman, N. D., & Stuhlmüller, A. (2013). Knowledge and Implicature: Modeling Language Understanding as Social Cognition. Topics in Cognitive Science. [paper](https://web.stanford.edu/~ngoodman/papers/GS-TopiCS-2013.pdf) (recommended by Bill)
-  
-  * Goodman, N. D., & Frank, M. C. (2016). Pragmatic Language Interpretation as Probabilistic Inference. In Trends in Cognitive Sciences. [paper](http://langcog.stanford.edu/papers_new/goodman-2016-underrev.pdf) (recommended by Nikolai)
 
   * Tan, H., Dernoncourt, F., Lin, Z., Bui, T., & Bansal, M. (2019). Expressing Visual Relationships via Language. [paper](https://www.aclweb.org/anthology/P19-1182.pdf) (recommended by Nikolai)
 
@@ -43,8 +43,6 @@ Please add here any papers (with links) you would like to suggest for the readin
   * Moro, D., Black, S., & Kennington, C. (2019). Composing and Embedding the Words-as-Classifiers Model of Grounded Semantics. arXiv preprint arXiv:1911.03283. (https://arxiv.org/pdf/1911.03283.pdf) (recommended by Staffan)
 
   * Mollica, F. et al. (2019). Composition is the core driver of the language-selective network [Paper](https://www.biorxiv.org/content/10.1101/436204v2) (recommended by Mehdi)
-
-  * Pezzelle, S., & Fernández, R. (2019). Is the Red Square Big? MALeViC: Modeling Adjectives Leveraging Visual Contexts. arXiv preprint arXiv:1908.10285. [paper](https://arxiv.org/pdf/1908.10285.pdf) (recommended by Staffan)
   
   * Malt, B. C., Sloman, S. A., Gennari, S., Shi, M., & Wang, Y. (1999). Knowing versus naming: Similarity and the linguistic categorization of artifacts. Journal of Memory and Language, 40(2), 230-262. [paper](https://1b7a2906-a-62cb3a1a-s-sites.googlegroups.com/site/slomanlab/malt_et_al_jml.pdf?attachauth=ANoY7co8b_1l8eshBxSMrD65NRkjgq0cFvJZ-9XwdEVW9r2gOx-a8rOnyZPPV19Ngnx8x4hD2M7huNSJ8NlKz1XV6Zok8U9QutTZgyfoz4AB_k9hVNMjbmk3Skd1vFCOXTiW4f_PuvL3nQxEgVud3jdUqP_9nYWmNuL0aiMYohD9Kq8DiVFd1ywotrzNsTYzM0k5hygIkNyADjIXTGxZnaT80bobVBNp5Q%3D%3D&attredirects=0) (recommended by Staffan)
 
@@ -80,6 +78,8 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
 
 ### Read
+
+  * Goodman, N. D., & Frank, M. C. (2016). Pragmatic Language Interpretation as Probabilistic Inference. In Trends in Cognitive Sciences. [paper](http://langcog.stanford.edu/papers_new/goodman-2016-underrev.pdf) (recommended by Bill) 2020-05-15
 
  * Talk: David Alfter: Visual features in textual complexity classification: a case study on pictograms  [paper](https://gubox.box.com/shared/static/nuyn4p02bcj8pok1lmd9huf54wfmt8an.pdf) and  Y. Bisk, A. Holtzman, J. Thomason, J. Andreas, Y. Bengio, J. Chai, M. Lapata, A. Lazaridou, J. May, A. Nisnevich, N. Pinto, and J. Turian. Experience grounds language. arXiv, arXiv:2004.10151 [cs.CL], 2020. [paper](https://arxiv.org/abs/2004.10151) 2020-04-30
 
