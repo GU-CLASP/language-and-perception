@@ -64,7 +64,7 @@ For a list of suggested readings please see [here](reading-list.pdf). Individual
 
   - **Probabilistic semantics and pragmatics**
   	* 2020-05-15, Zoom
-	* Goodman, N. D., & Frank, M. C. (2016). [Pragmatic Language Interpretation as Probabilistic Inference. In Trends in Cognitive Sciences.](http://langcog.stanford.edu/papers_new/goodman-2016-underrev.pdf) paper (recommended by Bill) 2020-05-15
+	* Goodman, N. D., & Frank, M. C. (2016). [Pragmatic Language Interpretation as Probabilistic Inference. In Trends in Cognitive Sciences.](http://langcog.stanford.edu/papers_new/goodman-2016-underrev.pdf) (recommended by Bill) 2020-05-15
 	* Bill (presenter), Vlad, Mehdi, Nikolai, Robin, Staffan, Ellen, Simon
   - **Structure learning**
   	* 2020-04-03, Zoom
