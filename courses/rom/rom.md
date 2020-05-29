@@ -62,6 +62,10 @@ For a list of suggested readings please see [here](reading-list.pdf). Individual
 
 ## Schedule and course materials
 
+  - **Probabilistic semantics and pragmatics**
+  	* 2020-05-15
+	* Goodman, N. D., & Frank, M. C. (2016). [Pragmatic Language Interpretation as Probabilistic Inference. In Trends in Cognitive Sciences.](http://langcog.stanford.edu/papers_new/goodman-2016-underrev.pdf) paper (recommended by Bill) 2020-05-15
+	* Bill (presenter), Vlad, Mehdi, Nikolai, Robin, Staffan, Ellen, Simon
   - **Structure learning**
   	* 2020-04-03, Zoom
 	* Tai, Kai & Socher, Richard & Manning, Christoper. (2015). [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks.](https://arxiv.org/abs/1503.00075) 1. 10.3115/v1/P15-1150. 
