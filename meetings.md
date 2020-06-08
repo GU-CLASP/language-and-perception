@@ -16,10 +16,14 @@ From here you can also:
 ### Next
   
   * Pezzelle, S., & Fernández, R. (2019). Is the Red Square Big? MALeViC: Modeling Adjectives Leveraging Visual Contexts. arXiv preprint arXiv:1908.10285. [paper](https://arxiv.org/pdf/1908.10285.pdf) (recommended by Staffan) 2020-06-12
+  
+  * Parizi, A. H., & Cook, P. (2020). Evaluating Sub-word embeddings in cross-lingual models. Proceedings ofthe 12th Conference on Language Resources and Evaluation (LREC 2020), May, 2712–2719. [paper](https://www.aclweb.org/anthology/2020.lrec-1.330.pdf) (recommended by Tewodros) 2020-06-26
 
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
+
+  * Sellam, T., Das, D., & Parikh, A. P. (2020). BLEURT: Learning Robust Metrics for Text Generation. https://arxiv.org/abs/2004.04696 (recommended by Nikolai)
 
   * Tan, H., & Bansal, M. (2019). LXMERT: Learning Cross-Modality Encoder Representations from Transformers. https://arxiv.org/abs/1908.07490 (recommended by Simon)
 
