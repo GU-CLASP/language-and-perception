@@ -33,7 +33,7 @@ In order to follow the course, the participants should at least have experience 
 
 Course syllabus
 
-  - [In Swedish](https://flov.gu.se/digitalAssets/1578/1578778_representationer-av-spr--klig-betydelse--7-5-hp.pdf)
+  - [In Swedish](https://flov.gu.se/digitalAssets/1578/1578779_spr--k--handling-och-perception--7-5-hp.pdf)
 
 
 ## Requirements
