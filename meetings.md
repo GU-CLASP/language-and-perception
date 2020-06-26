@@ -12,14 +12,21 @@ From here you can also:
 
   - add [your paper suggestions](https://github.com/GU-CLASP/language-and-perception/blob/master/meetings.md)
   - add [a paper](https://linux.dobnik.net/cloud/index.php/s/Z2iPGa28Mexyz24)
+  - when adding a paper, please use a link to the published (e.g. ACL) version rather than arXiV if the former exists
+  
 
 ### Next
   
-  * Parizi, A. H., & Cook, P. (2020). Evaluating Sub-word embeddings in cross-lingual models. Proceedings ofthe 12th Conference on Language Resources and Evaluation (LREC 2020), May, 2712–2719. [paper](https://www.aclweb.org/anthology/2020.lrec-1.330.pdf) (recommended by Tewodros) 2020-06-26
+  * V&L paper
 
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
+
+  * M. Artetxe, G. Labaka, and E. Agirre. [Learning bilingual word embeddings with (almost) no bilingual data.](https://www.aclweb.org/anthology/P17-1042/) In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Vol- ume 1: Long Papers), pages 451–462, Vancouver, Canada, July 2017. Association for Computational Linguistics. (comes with a video and slides)
+
+  * M. Artetxe, G. Labaka, and E. Agirre. [A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings.](https://www.aclweb.org/anthology/P18-1073) In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 789–798, Melbourne, Australia, July 2018. Association for Computational Linguistics. (comes with a video and slides)
+
 
   * Sellam, T., Das, D., & Parikh, A. P. (2020). BLEURT: Learning Robust Metrics for Text Generation. https://arxiv.org/abs/2004.04696 (recommended by Nikolai)
 
@@ -84,6 +91,8 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
 
 ### Read
+
+  * Parizi, A. H., & Cook, P. (2020). [Evaluating Sub-word embeddings in cross-lingual models.](https://www.aclweb.org/anthology/2020.lrec-1.330.pdf) Proceedings ofthe 12th Conference on Language Resources and Evaluation (LREC 2020), May, 2712–2719. (recommended by Tewodros) 2020-06-26
 
   * Pezzelle, S., & Fernández, R. (2019). Is the Red Square Big? MALeViC: Modeling Adjectives Leveraging Visual Contexts. arXiv preprint arXiv:1908.10285. [paper](https://arxiv.org/pdf/1908.10285.pdf) (recommended by Staffan) 2020-06-12
 
