@@ -9,3 +9,5 @@ header_pages:
     sub_pages:
       - courses/rom/rom.md
       - courses/apl/apl.md
+      - courses/csoc/csoc.md
+      - courses/ml-vl/ml-vl.md
