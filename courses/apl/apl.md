@@ -91,4 +91,4 @@ For a list of suggested readings please see [here](https://gu-clasp.github.io/la
       * Sylvie (presenter), Felix, Mehdi, Bill, Robin, Stergios, Simon
 
 
-You can find  an earlier version of this webpage [here](documents/archived-v1.zip).
+You can find  an earlier version of this webpage [here](documents/archived.zip).
