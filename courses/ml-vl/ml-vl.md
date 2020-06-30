@@ -31,7 +31,7 @@ Course prerequisites:
 
 Course syllabus
 
-  - [In English]()
+  - [In English](./documents/course-plan-ml-vl.pdf)
 
 
 ## Requirements
