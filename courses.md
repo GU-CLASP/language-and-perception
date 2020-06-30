@@ -8,6 +8,8 @@ Courses given within [the Doctoral Programme in Computational Linguistics](https
 
   - [Representations of Meaning (ROM)](/courses/rom/rom.md)
   - [Language, Action, and Perception (APL)](/courses/apl/apl.md)
+  - [Sociolinguistics and bilinguilism for natural language processing (CSoc)](/courses/csoc/csoc.md)
+  - [Machine Learning Methods For Vision and Language (ML-V&L)](/courses/ml-vl/ml-vl.md)
 
 
 
