@@ -5,7 +5,7 @@ short_title: ML-V&L
 permalink: /courses/ml-vl/
 ---
 
-<img align="right" width="300" src="pics/tree.jpeg"/>
+<img align="right" width="320" src="pics/tree.jpeg"/>
 
 ML-V&L HT18 and onwards, Machine Leanring for Vision and Language, 7.5 HEC, Maskininlärningsmetoder för datorseende och språkteknologi, 7,5hp, part of [Doctoral Degree in Computational
 Linguistics](https://flov.gu.se/digitalAssets/1605/1605989_asp-fd-datalingvistik-2016ver2.pdf).
