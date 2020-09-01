@@ -17,7 +17,8 @@ From here you can also:
 
 ### Next
   
-  * V&L paper
+  * A. Knott and M. Takac. [Roles for event representations in sensorimotor experience, memory formation, and language processing.](https://doi.org/10.1111/tops.12497) Topics in Cognitive Science, 2020. ([local copy](https://slack-files.com/files-pri-safe/TU15D2JSX-F019M7Z47RA/knott-takac-tops20.pdf?c=1598966339-11af60792c469780)) (recommended by Robin) 2020-09-04
+
 
 ### Suggestions
 
