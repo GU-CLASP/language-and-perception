@@ -53,6 +53,11 @@ For a list of suggested readings please see [here](https://gu-clasp.github.io/la
 
 ## Schedule and course materials
 
+  - **Cognitive representations of actions**
+    * 2020-09-04, Zoom
+    * A. Knott and M. Takac. [Roles for event representations in sensorimotor experience, memory formation, and language processing.](https://doi.org/10.1111/tops.12497) Topics in Cognitive Science, 2020. ([local copy](https://slack-files.com/files-pri-safe/TU15D2JSX-F019M7Z47RA/knott-takac-tops20.pdf?c=1598966339-11af60792c469780)) (recommended by Robin) 2020-09-04
+    * Robin (presenter), Vidya, Staffan, and Simon
+    
   - **Contextual referrring expressions** 
       * 2020-06-12, Zoom
       * Pezzelle, S., & Fernández, R. (2019). [Is the Red Square Big? MALeViC: Modeling Adjectives Leveraging Visual Contexts.](https://arxiv.org/pdf/1908.10285.pdf) arXiv preprint arXiv:1908.10285. (recommended by Staffan) 2020-06-12 
