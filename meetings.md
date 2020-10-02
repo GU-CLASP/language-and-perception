@@ -34,10 +34,6 @@ Please add here any papers (with links) you would like to suggest for the readin
 
   * Wu, J., & Mooney, R. J. (2019). Self-Critical Reasoning for Robust Visual Question Answering. http://arxiv.org/abs/1905.09998 (recommended by Simon)
 
-  * Joyce Y. Chai, Rui Fang, Changsong Liu, and Lanbo She. 2017. Collaborative language grounding to- ward situated human-robot dialogue. AI Magazine, 37(4):32–45.
-
-  * Joyce Y. Chai, Qiaozi Gao, Lanbo She, Shaohua Yang, Sari Saba-Sadiya, and Guangyue Xu. 2018. Lan- guage to action: Towards interactive task learning with physical agents. In Proceedings of the Twenty- Seventh International Joint Conference on Artificial Intelligence (IJCAI-18).
-
   * Akbik, Alan & Blythe, Duncan & Vollgraf, Roland. (2018). Contextual String Embeddings for Sequence Labeling. 
   [paper](https://www.aclweb.org/anthology/C18-1139/) (recommended by Axel)
   
@@ -91,6 +87,8 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
 
 ### Read
+
+  * J. Y. Chai, Q. Gao, L. She, S. Yang, S. Saba-Sadiya, and G. Xu. [Language to action: Towards interactive task learning with physical agents.](https://doi.org/10.24963/ijcai.2018/1) In Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence, IJCAI-18, pages 2–9. International Joint Conferences on Artificial Intelligence Organization, 7 2018. 2020-10-02 [Talk](https://slideslive.com/38929802/situated-humanmachine-communication), [workshop with the talk](https://nli-acl2020.github.io/)
 
   * J. Pustejovsky and N. Krishnaswamy. [Situated meaning in multimodal dialogue: Human-robot and human-computer interactions.](http://www.voxicon.net/wp-content/uploads/2020/07/TAL_2020-13.pdf) Journal article manuscript, Department of Computer Science, Brandeis University, July 2020. (recommneded by Bill and Nikolai) 2020-09-21 [Talk](https://www.youtube.com/watch?v=IwIvn64mT3U)
 
