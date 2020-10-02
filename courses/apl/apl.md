@@ -53,6 +53,10 @@ For a list of suggested readings please see [here](https://gu-clasp.github.io/la
 
 ## Schedule and course materials
 
+  - **Situated comminication with robots**
+    * J. Y. Chai, Q. Gao, L. She, S. Yang, S. Saba-Sadiya, and G. Xu. [Language to action: Towards interactive task learning with physical agents.](https://doi.org/10.24963/ijcai.2018/1) In Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence, IJCAI-18, pages 2–9. International Joint Conferences on Artificial Intelligence Organization, 7 2018. 2020-10-02 [Talk](https://slideslive.com/38929802/situated-humanmachine-communication), [workshop with the talk](https://nli-acl2020.github.io/)
+    * Nikolai, Vidya, Vlad, Robin, and Simon (presenter) 
+
   - **Neuro-symbolic representations of affordances and actions**
     * 2020-09-21, Zoom
     * J. Pustejovsky and N. Krishnaswamy. [Situated meaning in multimodal dialogue: Human-robot and human-computer interactions.](http://www.voxicon.net/wp-content/uploads/2020/07/TAL_2020-13.pdf) Journal article manuscript, Department of Computer Science, Brandeis University, July 2020. (recommneded by Bill and Nikolai) 2020-09-21 [Talk](https://www.youtube.com/watch?v=IwIvn64mT3U)
