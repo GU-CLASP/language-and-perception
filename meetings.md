@@ -27,8 +27,6 @@ Please add here any papers (with links) you would like to suggest for the readin
   
   * Vig, J., & Belinkov, Y. (2019). [Analyzing the Structure of Attention in a Transformer Language Model.](https://www.aclweb.org/anthology/W19-4808.pdf). In Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP, pages 63-76, Florence, Italy, August 2019. (recommended by Nikolai)
 
-  * M. Artetxe, G. Labaka, and E. Agirre. [Learning bilingual word embeddings with (almost) no bilingual data.](https://www.aclweb.org/anthology/P17-1042/) In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 451–462, Vancouver, Canada, July 2017. Association for Computational Linguistics. (comes with a video and slides)
-
   * M. Artetxe, G. Labaka, and E. Agirre. [A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings.](https://www.aclweb.org/anthology/P18-1073) In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 789–798, Melbourne, Australia, July 2018. Association for Computational Linguistics. (comes with a video and slides)
 
 
@@ -91,6 +89,8 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
 
 ### Read
+
+  * M. Artetxe, G. Labaka, and E. Agirre. [Learning bilingual word embeddings with (almost) no bilingual data.](https://www.aclweb.org/anthology/P17-1042/) In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 451–462, Vancouver, Canada, July 2017. Association for Computational Linguistics. (comes with a video and slides) (recommended by Axel and Adam) 2020-10-16
 
   * J. Y. Chai, Q. Gao, L. She, S. Yang, S. Saba-Sadiya, and G. Xu. [Language to action: Towards interactive task learning with physical agents.](https://doi.org/10.24963/ijcai.2018/1) In Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence, IJCAI-18, pages 2–9. International Joint Conferences on Artificial Intelligence Organization, 7 2018. 2020-10-02 [Talk](https://slideslive.com/38929802/situated-humanmachine-communication), [workshop with the talk](https://nli-acl2020.github.io/)
 
