@@ -23,6 +23,8 @@ From here you can also:
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * M. Artetxe, G. Labaka, and E. Agirre. (2019). [Bilingual Lexicon Induction through Unsupervised Machine Translation] (https://arxiv.org/abs/1907.10761) ACL 2019 (recommended by Adam)
+
   * Caglayan, O., Ive, J., Haralampieva, V., Madhyastha, P., Barrault, L., & Specia, L. (2020). [Simultaneous Machine Translation with Visual Context.](http://arxiv.org/abs/2009.07310). EMNLP 2020. (recommended by Nikolai)
   
   * Vig, J., & Belinkov, Y. (2019). [Analyzing the Structure of Attention in a Transformer Language Model.](https://www.aclweb.org/anthology/W19-4808.pdf). In Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP, pages 63-76, Florence, Italy, August 2019. (recommended by Nikolai)
