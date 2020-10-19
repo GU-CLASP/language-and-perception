@@ -23,6 +23,8 @@ From here you can also:
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * Katrin Erk and Aurélie Herbelot (2020) How to Marry a Star: probabilistic constraints for meaning in context, https://arxiv.org/pdf/2009.07936.pdf (recommended by Robin)
+
   * M. Artetxe, G. Labaka, and E. Agirre. (2019). [Bilingual Lexicon Induction through Unsupervised Machine Translation] (https://arxiv.org/abs/1907.10761) ACL 2019 (recommended by Adam)
 
   * Caglayan, O., Ive, J., Haralampieva, V., Madhyastha, P., Barrault, L., & Specia, L. (2020). [Simultaneous Machine Translation with Visual Context.](http://arxiv.org/abs/2009.07310). EMNLP 2020. (recommended by Nikolai)
