@@ -22,6 +22,9 @@ From here you can also:
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
+  * Ben Bogin, Sanjay Subramanian, Matt Gardner, Jonathan Berant (2020) [Latent Compositional Representations Improve Systematic Generalization in Grounded Question Answering](https://arxiv.org/pdf/2007.00266.pdf) (Recommended by Adam)
+
+  * Paula Czarnowska, Sebastian Ruder, Ryan Cotterell, Ann Copestake (2020) [Morphologically Aware Word-Level Translation](https://arxiv.org/pdf/2011.07593.pdf) (Recommended by Adam)
 
   * Conneau, A., Lample, G., Ranzato, M. A., Denoyer, L., & Jégou, H. (2017). [Word translation without parallel data.](https://arxiv.org/pdf/1710.04087.pdf)  (Recommended by Adam)
 
