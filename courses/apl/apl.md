@@ -54,7 +54,7 @@ For a list of suggested readings please see [here](https://gu-clasp.github.io/la
 ## Schedule and course materials
 
   - **Grounded neural language models and VQA**
-    ** 2020-12-04, Zoom
+    * 2020-12-04, Zoom
     T. Scialom, P. Bordes, P.-A. Dray, J. Staiano, and P. Gallinari. [What BERT sees: Cross-modal transfer for visual question generation.](https://arxiv.org/abs/2002.10832) arXiv, arXiv:2002.10832 [cs.CL]:1–11, November 2 2020. (recommended by Nikolai), 2020-12-04
     * Nikolai (presenter), Eleni, Maryam, and Simon
 
