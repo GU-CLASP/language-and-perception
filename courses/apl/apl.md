@@ -53,6 +53,11 @@ For a list of suggested readings please see [here](https://gu-clasp.github.io/la
 
 ## Schedule and course materials
 
+  - **Grounded neural language models and VQA**
+    ** 2020-12-04, Zoom
+    T. Scialom, P. Bordes, P.-A. Dray, J. Staiano, and P. Gallinari. [What BERT sees: Cross-modal transfer for visual question generation.](https://arxiv.org/abs/2002.10832) arXiv, arXiv:2002.10832 [cs.CL]:1–11, November 2 2020. (recommended by Nikolai), 2020-12-04
+    * Nikolai (presenter), Eleni, Maryam, and Simon
+
   - **Situated comminication with robots**
     * 2020-10-02, Zoom
     * J. Y. Chai, Q. Gao, L. She, S. Yang, S. Saba-Sadiya, and G. Xu. [Language to action: Towards interactive task learning with physical agents.](https://doi.org/10.24963/ijcai.2018/1) In Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence, IJCAI-18, pages 2–9. International Joint Conferences on Artificial Intelligence Organization, 7 2018. 2020-10-02 [Talk](https://slideslive.com/38929802/situated-humanmachine-communication), [workshop with the talk](https://nli-acl2020.github.io/)
