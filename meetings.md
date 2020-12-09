@@ -4,20 +4,18 @@ title: Reading group
 permalink: /meetings/
 ---
 
-The situated language and perception reading group meets on even Fridays 10-12 in the seminar room on the 5th floor of Humanistiska fakulteten, Renströmsgatan 6. 
+  - The situated language and perception reading group meets on even Fridays 10-12 in the seminar room on the 5th floor of Humanistiska fakulteten, Renströmsgatan 6. 
 
-Sometimes, and more recently we meet [online on Zoom](https://gu-se.zoom.us/j/726750116), requires GU-login.
+  - Sometimes, and more recently, we meet [online on Zoom](https://gu-se.zoom.us/j/726750116), requires GU-login.
 
-From here you can also:
+  - Participating gives you [course credit](https://gu-clasp.github.io/language-and-perception/courses/).
 
-  - add [your paper suggestions](https://github.com/GU-CLASP/language-and-perception/blob/master/meetings.md)
-  - add [a paper](https://linux.dobnik.net/cloud/index.php/s/Z2iPGa28Mexyz24)
-  - when adding a paper, please use a link to the published (e.g. ACL) version rather than arXiV if the former exists
-  
+  - To add a paper suggestion, simply edit me [here](https://github.com/GU-CLASP/language-and-perception/blob/master/meetings.md). If avaiable, prefer links to the published (e.g. ACL) rather than arXiV versions. Papers that are not published online can be uploaded [here](https://linux.dobnik.net/cloud/index.php/s/Z2iPGa28Mexyz24).
+
 
 ### Next
   
-  * 
+  * Conneau, A., Lample, G., Ranzato, M. A., Denoyer, L., & Jégou, H. (2017). [Word translation without parallel data.](https://arxiv.org/pdf/1710.04087.pdf)  (Recommended by Adam) 2020-12-11
 
 ### Suggestions
 
@@ -25,8 +23,6 @@ Please add here any papers (with links) you would like to suggest for the readin
   * Ben Bogin, Sanjay Subramanian, Matt Gardner, Jonathan Berant (2020) [Latent Compositional Representations Improve Systematic Generalization in Grounded Question Answering](https://arxiv.org/pdf/2007.00266.pdf) (Recommended by Adam)
 
   * Paula Czarnowska, Sebastian Ruder, Ryan Cotterell, Ann Copestake (2020) [Morphologically Aware Word-Level Translation](https://arxiv.org/pdf/2011.07593.pdf) (Recommended by Adam)
-
-  * Conneau, A., Lample, G., Ranzato, M. A., Denoyer, L., & Jégou, H. (2017). [Word translation without parallel data.](https://arxiv.org/pdf/1710.04087.pdf)  (Recommended by Adam)
 
   * Katrin Erk and Aurélie Herbelot (2020) How to Marry a Star: probabilistic constraints for meaning in context, https://arxiv.org/pdf/2009.07936.pdf, [revised version](https://drive.google.com/file/d/1BW9VCFAPZdUcO0qRIUNVSDAx3SQwDuy3/view?usp=sharing) from Katrin (recommended by Robin)
 
