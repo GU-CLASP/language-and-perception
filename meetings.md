@@ -4,7 +4,7 @@ title: Reading group
 permalink: /meetings/
 ---
 
-  - The situated language and perception reading group meets on even Fridays 10-12 in the seminar room on the 5th floor of Humanistiska fakulteten, Renströmsgatan 6. 
+  - The reading group meets on even Fridays 10-12 in the seminar room on the 5th floor of Humanistiska fakulteten, Renströmsgatan 6.
 
   - Sometimes, and more recently, we meet [online on Zoom](https://gu-se.zoom.us/j/726750116), requires GU-login.
 
@@ -13,9 +13,9 @@ permalink: /meetings/
   - To add a paper suggestion, simply edit me [here](https://github.com/GU-CLASP/language-and-perception/blob/master/meetings.md). If avaiable, prefer links to the published (e.g. ACL) rather than arXiV versions. Papers that are not published online can be uploaded [here](https://linux.dobnik.net/cloud/index.php/s/Z2iPGa28Mexyz24).
 
 
-### Next
+### Next, 2020-12-11
   
-  * Conneau, A., Lample, G., Ranzato, M. A., Denoyer, L., & Jégou, H. (2017). [Word translation without parallel data.](https://arxiv.org/pdf/1710.04087.pdf)  (Recommended by Adam) 2020-12-11
+  * Conneau, A., Lample, G., Ranzato, M. A., Denoyer, L., & Jégou, H. (2017). [Word translation without parallel data.](https://arxiv.org/pdf/1710.04087.pdf)  (Recommended by Adam, credit for ROM) 2020-12-11
 
 ### Suggestions
 
