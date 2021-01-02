@@ -20,6 +20,8 @@ permalink: /meetings/
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
+  * Aitor Ormazabal,  Mikel Artetxe,  Aitor Soroa,  Gorka Labaka,  Eneko Agirre [Beyond Offline Mapping: Learning Cross Lingual Word Embeddings through Context Anchoring](https://arxiv.org/pdf/2012.15715.pdf) (Recommended by Adam)
+ 
   * Ben Bogin, Sanjay Subramanian, Matt Gardner, Jonathan Berant (2020) [Latent Compositional Representations Improve Systematic Generalization in Grounded Question Answering](https://arxiv.org/pdf/2007.00266.pdf) (Recommended by Adam)
 
   * Paula Czarnowska, Sebastian Ruder, Ryan Cotterell, Ann Copestake (2020) [Morphologically Aware Word-Level Translation](https://arxiv.org/pdf/2011.07593.pdf) (Recommended by Adam)
