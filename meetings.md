@@ -20,6 +20,9 @@ permalink: /meetings/
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
+
+  * Yuchen Liang, Chaitanya Ryali, Benjamin Hoover, Saket Navlakha, Leopold Grinberg, Mohammed J Zaki, Dmitry Krotov [Can a Fruit Fly Learn Word Embeddings?] (https://arxiv.org/pdf/2101.06887.pdf) (Recommended by Adam)
+    
   * Aitor Ormazabal,  Mikel Artetxe,  Aitor Soroa,  Gorka Labaka,  Eneko Agirre [Beyond Offline Mapping: Learning Cross Lingual Word Embeddings through Context Anchoring](https://arxiv.org/pdf/2012.15715.pdf) (Recommended by Adam)
  
   * Ben Bogin, Sanjay Subramanian, Matt Gardner, Jonathan Berant (2020) [Latent Compositional Representations Improve Systematic Generalization in Grounded Question Answering](https://arxiv.org/pdf/2007.00266.pdf) (Recommended by Adam)
