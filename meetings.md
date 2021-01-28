@@ -11,6 +11,8 @@ permalink: /meetings/
   - Participating gives you [course credit](https://gu-clasp.github.io/language-and-perception/courses/).
 
   - To add a paper suggestion, simply edit me [here](https://github.com/GU-CLASP/language-and-perception/blob/master/meetings.md). If avaiable, prefer links to the published (e.g. ACL) rather than arXiV versions. Papers that are not published online can be uploaded [here](https://linux.dobnik.net/cloud/index.php/s/Z2iPGa28Mexyz24).
+  
+  - Subscribe to [our mailing list](https://listserv.gu.se/sympa/subscribe/cogsys) to follow the discussions.
 
 
 ### Next
