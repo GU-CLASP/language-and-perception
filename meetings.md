@@ -15,7 +15,7 @@ permalink: /meetings/
 
 ### Next, 2020-12-11
   
-  * [1] J. D. Hwang, C. Bhagavatula, R. L. Bras, J. Da, K. Sakaguchi, A. Bosselut, and Y. Choi. [Comet-atomic 2020: On symbolic and neural commonsense knowledge graphs.](https://arxiv.org/abs/2010.05953) arXiv, arXiv:2010.05953 [cs.CL]:1–17, 2020. [Video of a talk.](https://youtu.be/h2wzQKRAdA8) (Recommended by Nikolai, credit for either APL or ROM) 2021-01-29
+  * J. D. Hwang, C. Bhagavatula, R. L. Bras, J. Da, K. Sakaguchi, A. Bosselut, and Y. Choi. [Comet-atomic 2020: On symbolic and neural commonsense knowledge graphs.](https://arxiv.org/abs/2010.05953) arXiv, arXiv:2010.05953 [cs.CL]:1–17, 2020. [Video of a talk.](https://youtu.be/h2wzQKRAdA8) (Recommended by Nikolai, credit for either APL or ROM) 2021-01-29
 
 ### Suggestions
 
