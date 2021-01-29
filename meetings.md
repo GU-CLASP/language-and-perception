@@ -23,6 +23,8 @@ permalink: /meetings/
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * Gao, J., Peng, B., Li, C., Li, J., Shayandeh, S., Liden, L., & Shum, H. Y. (2020). Robust conversational ai with grounded text generation. arXiv preprint arXiv:2009.03457. https://arxiv.org/abs/2009.03457 (Recommended by Staffan)
+
   * Yuchen Liang, Chaitanya Ryali, Benjamin Hoover, Saket Navlakha, Leopold Grinberg, Mohammed J Zaki, Dmitry Krotov [Can a Fruit Fly Learn Word Embeddings?] (https://arxiv.org/pdf/2101.06887.pdf) (Recommended by Adam)
     
   * Aitor Ormazabal,  Mikel Artetxe,  Aitor Soroa,  Gorka Labaka,  Eneko Agirre [Beyond Offline Mapping: Learning Cross Lingual Word Embeddings through Context Anchoring](https://arxiv.org/pdf/2012.15715.pdf) (Recommended by Adam)
