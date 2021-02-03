@@ -66,6 +66,11 @@ For a list of suggested readings please see [here](reading-list.pdf). Individual
   	* 2021-01-29, Zoom
 	* ++++++++ J. D. Hwang, C. Bhagavatula, R. L. Bras, J. Da, K. Sakaguchi, A. Bosselut, and Y. Choi. [Comet-atomic 2020: On symbolic and neural commonsense knowledge graphs.](https://arxiv.org/abs/2010.05953) arXiv, arXiv:2010.05953 [cs.CL]:1–17, 2020. [Video of a talk.](https://youtu.be/h2wzQKRAdA8) (Recommended by Nikolai, credit for either APL or ROM, would like to read: Nikolai, Anna, Felix, Axel, Robin, Staffan, Ellen, Simon) 2021-01-29
 	* ROM: Anna, Felix, Axel, APL: Nikolai
+	
+  - **Learning embeddings accross languages**
+  	* 2020-12-11, Zoom
+	* Conneau, A., Lample, G., Ranzato, M. A., Denoyer, L., & Jégou, H. (2017). [Word translation without parallel data.](https://arxiv.org/pdf/1710.04087.pdf)  (Recommended by Adam, credit for ROM) 2020-12-11
+	* Axel, Felix, Adam, and Simon
 
   - **Learning word embeddings across languages**
       * 2020-10-16, Zoom
