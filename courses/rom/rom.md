@@ -77,6 +77,11 @@ For a list of suggested readings please see [here](reading-list.pdf). Individual
       *  M. Artetxe, G. Labaka, and E. Agirre. [Learning bilingual word embeddings with (almost) no bilingual data.](https://www.aclweb.org/anthology/P17-1042/) In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 451–462, Vancouver, Canada, July 2017. Association for Computational Linguistics. (comes with a video and slides) (recommended by Axel and Adam) 2020-10-16
       * Axel, Adam, and Simon
 
+  - **Learning word embeddings across languages**
+  	* 2020-06-26, Zoom	  
+	* Parizi, A. H., & Cook, P. (2020). [Evaluating Sub-word embeddings in cross-lingual models.](https://www.aclweb.org/anthology/2020.lrec-1.330.pdf) Proceedings ofthe 12th Conference on Language Resources and Evaluation (LREC 2020), May, 2712–2719. (recommended by Tewodros) 2020-06-26
+	* ?
+
   - **Probabilistic semantics and pragmatics** 
   	* 2020-05-15, Zoom
 	* Goodman, N. D., & Frank, M. C. (2016). [Pragmatic Language Interpretation as Probabilistic Inference. In Trends in Cognitive Sciences.](http://langcog.stanford.edu/papers_new/goodman-2016-underrev.pdf) (recommended by Bill) 2020-05-15
