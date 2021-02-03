@@ -53,6 +53,11 @@ For a list of suggested readings please see [here](https://gu-clasp.github.io/la
 
 ## Schedule and course materials
 
+  - **Integrating symbolic common-sense knowledge**
+  	* 2021-01-29, Zoom
+	* ++++++++ J. D. Hwang, C. Bhagavatula, R. L. Bras, J. Da, K. Sakaguchi, A. Bosselut, and Y. Choi. [Comet-atomic 2020: On symbolic and neural commonsense knowledge graphs.](https://arxiv.org/abs/2010.05953) arXiv, arXiv:2010.05953 [cs.CL]:1–17, 2020. [Video of a talk.](https://youtu.be/h2wzQKRAdA8) (Recommended by Nikolai, credit for either APL or ROM, would like to read: Nikolai, Anna, Felix, Axel, Robin, Staffan, Ellen, Simon) 2021-01-29
+	* ROM: Anna, Felix, Axel, APL: Nikolai
+
   - **Grounded neural language models and VQA**
     * 2020-12-04, Zoom
     T. Scialom, P. Bordes, P.-A. Dray, J. Staiano, and P. Gallinari. [What BERT sees: Cross-modal transfer for visual question generation.](https://arxiv.org/abs/2002.10832) arXiv, arXiv:2002.10832 [cs.CL]:1–11, November 2 2020. (recommended by Nikolai), 2020-12-04
