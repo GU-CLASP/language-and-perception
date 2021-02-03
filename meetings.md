@@ -12,12 +12,14 @@ permalink: /meetings/
 
   - To add a paper suggestion, simply edit me [here](https://github.com/GU-CLASP/language-and-perception/blob/master/meetings.md). If avaiable, prefer links to the published (e.g. ACL) rather than arXiV versions. Papers that are not published online can be uploaded [here](https://linux.dobnik.net/cloud/index.php/s/Z2iPGa28Mexyz24).
   
+  - To vote for papers, add a + before its entry and write your name in the bracket at the end of the entry. For an example see (Hwang et al. 2020) below.
+  
   - Subscribe to [our mailing list](https://listserv.gu.se/sympa/subscribe/cogsys) to follow discussions.
 
 
 ### Next
-  
-  * +++++ J. D. Hwang, C. Bhagavatula, R. L. Bras, J. Da, K. Sakaguchi, A. Bosselut, and Y. Choi. [Comet-atomic 2020: On symbolic and neural commonsense knowledge graphs.](https://arxiv.org/abs/2010.05953) arXiv, arXiv:2010.05953 [cs.CL]:1–17, 2020. [Video of a talk.](https://youtu.be/h2wzQKRAdA8) (Recommended by Nikolai, credit for either APL or ROM) 2021-01-29
+
+   *
 
 ### Suggestions
 
@@ -105,6 +107,8 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
 
 ### Read
+
+* ++++++++ J. D. Hwang, C. Bhagavatula, R. L. Bras, J. Da, K. Sakaguchi, A. Bosselut, and Y. Choi. [Comet-atomic 2020: On symbolic and neural commonsense knowledge graphs.](https://arxiv.org/abs/2010.05953) arXiv, arXiv:2010.05953 [cs.CL]:1–17, 2020. [Video of a talk.](https://youtu.be/h2wzQKRAdA8) (Recommended by Nikolai, credit for either APL or ROM, would like to read: Nikolai, Anna, Felix, Axel, Robin, Staffan, Ellen, Simon) 2021-01-29
 
   * Conneau, A., Lample, G., Ranzato, M. A., Denoyer, L., & Jégou, H. (2017). [Word translation without parallel data.](https://arxiv.org/pdf/1710.04087.pdf)  (Recommended by Adam, credit for ROM) 2020-12-11
 
