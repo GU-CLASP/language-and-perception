@@ -86,7 +86,8 @@ For a list of suggested readings please see [here](reading-list.pdf). Individual
   	* 2020-05-15, Zoom
 	* Goodman, N. D., & Frank, M. C. (2016). [Pragmatic Language Interpretation as Probabilistic Inference. In Trends in Cognitive Sciences.](http://langcog.stanford.edu/papers_new/goodman-2016-underrev.pdf) (recommended by Bill) 2020-05-15
 	* Bill (presenter), Vlad, Mehdi, Nikolai, Robin, Staffan, Ellen, Simon
-  - **Structure learning**
+
+- **Structure learning**
   	* 2020-04-03, Zoom
 	* Tai, Kai & Socher, Richard & Manning, Christoper. (2015). [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks.](https://arxiv.org/abs/1503.00075) 1. 10.3115/v1/P15-1150. 
 	* Axel (presenter), Robin, Tewodros, Bill, Maryam, and Simon (**check**)
