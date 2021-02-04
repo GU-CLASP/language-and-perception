@@ -27,9 +27,9 @@ Please add here any papers (with links) you would like to suggest for the readin
 
   * Vulić, Ivan, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš, and Anna Korhonen. (2020) "Probing pretrained language models for lexical semantics." https://www.aclweb.org/anthology/2020.emnlp-main.586.pdf (Recommended by Felix)
 
-  * + Gao, J., Peng, B., Li, C., Li, J., Shayandeh, S., Liden, L., & Shum, H. Y. (2020). Robust conversational ai with grounded text generation. arXiv preprint arXiv:2009.03457. https://arxiv.org/abs/2009.03457 (Recommended by Staffan, would like to read: Robin)
+  * \+ Gao, J., Peng, B., Li, C., Li, J., Shayandeh, S., Liden, L., & Shum, H. Y. (2020). Robust conversational ai with grounded text generation. arXiv preprint arXiv:2009.03457. https://arxiv.org/abs/2009.03457 (Recommended by Staffan, would like to read: Robin)
 
-  * + Yuchen Liang, Chaitanya Ryali, Benjamin Hoover, Saket Navlakha, Leopold Grinberg, Mohammed J Zaki, Dmitry Krotov [Can a Fruit Fly Learn Word Embeddings?] (https://arxiv.org/pdf/2101.06887.pdf) (Recommended by Adam, would like to read: Robin)
+  * \+ Yuchen Liang, Chaitanya Ryali, Benjamin Hoover, Saket Navlakha, Leopold Grinberg, Mohammed J Zaki, Dmitry Krotov [Can a Fruit Fly Learn Word Embeddings?] (https://arxiv.org/pdf/2101.06887.pdf) (Recommended by Adam, would like to read: Robin)
     
   * Aitor Ormazabal,  Mikel Artetxe,  Aitor Soroa,  Gorka Labaka,  Eneko Agirre [Beyond Offline Mapping: Learning Cross Lingual Word Embeddings through Context Anchoring](https://arxiv.org/pdf/2012.15715.pdf) (Recommended by Adam)
  
@@ -55,7 +55,7 @@ Please add here any papers (with links) you would like to suggest for the readin
   * Akbik, Alan & Blythe, Duncan & Vollgraf, Roland. (2018). Contextual String Embeddings for Sequence Labeling. 
   [paper](https://www.aclweb.org/anthology/C18-1139/) (recommended by Axel)
   
-  * + Nguyen, Phi & Joty, Shafiq & Hoi, Steven & Socher, Richard. (2020). Tree-structured Attention with Hierarchical Accumulation. [paper](https://openreview.net/forum?id=HJxK5pEYvr) (recommended by Axel, would like to read: Robin)
+  * \+ Nguyen, Phi & Joty, Shafiq & Hoi, Steven & Socher, Richard. (2020). Tree-structured Attention with Hierarchical Accumulation. [paper](https://openreview.net/forum?id=HJxK5pEYvr) (recommended by Axel, would like to read: Robin)
 
   * Wang, Bin & Chen, Fenxiao & Wang, Yuncheng & Kuo, C.. (2020). Efficient Sentence Embedding via Semantic Subspace Analysis. [paper](https://arxiv.org/abs/2002.09620) (recommended by Axel)
 
@@ -63,7 +63,7 @@ Please add here any papers (with links) you would like to suggest for the readin
 
   * Tan, H., Dernoncourt, F., Lin, Z., Bui, T., & Bansal, M. (2019). Expressing Visual Relationships via Language. [paper](https://www.aclweb.org/anthology/P19-1182.pdf) (recommended by Nikolai)
 
-  * + Thomason, J., Padmakumar, A., Sinapov, J., Walker, N., Jiang, Y., Yedidsion, H., ... & Mooney, R. J. (2020). Jointly improving parsing and perception for natural language commands through human-robot dialog. Journal of Artificial Intelligence Research, 67, 1-48. [paper](https://jair.org/index.php/jair/article/view/11485/26562) (recommended by Mehdi, would like to read: Robin)
+  * \+ Thomason, J., Padmakumar, A., Sinapov, J., Walker, N., Jiang, Y., Yedidsion, H., ... & Mooney, R. J. (2020). Jointly improving parsing and perception for natural language commands through human-robot dialog. Journal of Artificial Intelligence Research, 67, 1-48. [paper](https://jair.org/index.php/jair/article/view/11485/26562) (recommended by Mehdi, would like to read: Robin)
   
   * + Moro, D., Black, S., & Kennington, C. (2019). Composing and Embedding the Words-as-Classifiers Model of Grounded Semantics. arXiv preprint arXiv:1911.03283. (https://arxiv.org/pdf/1911.03283.pdf) (recommended by Staffan, would like to read: Robin)
 
