@@ -55,8 +55,6 @@ Please add here any papers (with links) you would like to suggest for the readin
 
   * Akbik, Alan & Blythe, Duncan & Vollgraf, Roland. (2018). Contextual String Embeddings for Sequence Labeling. 
   [paper](https://www.aclweb.org/anthology/C18-1139/) (recommended by Axel)
-  
-  * \+\+  Nguyen, Phi & Joty, Shafiq & Hoi, Steven & Socher, Richard. (2020). Tree-structured Attention with Hierarchical Accumulation. [paper](https://openreview.net/forum?id=HJxK5pEYvr) (recommended by Axel, would like to read: Robin, Axel)
 
   * Wang, Bin & Chen, Fenxiao & Wang, Yuncheng & Kuo, C.. (2020). Efficient Sentence Embedding via Semantic Subspace Analysis. [paper](https://arxiv.org/abs/2002.09620) (recommended by Axel)
 
