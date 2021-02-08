@@ -41,7 +41,7 @@ Please add here any papers (with links) you would like to suggest for the readin
 
   * Caglayan, O., Ive, J., Haralampieva, V., Madhyastha, P., Barrault, L., & Specia, L. (2020). [Simultaneous Machine Translation with Visual Context.](http://arxiv.org/abs/2009.07310). EMNLP 2020. (recommended by Nikolai)
   
-  * \+ Vig, J., & Belinkov, Y. (2019). [Analyzing the Structure of Attention in a Transformer Language Model.](https://www.aclweb.org/anthology/W19-4808.pdf). In Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP, pages 63-76, Florence, Italy, August 2019. (recommended by Nikolai, would like to read: Axel)
+  * \+\+ Vig, J., & Belinkov, Y. (2019). [Analyzing the Structure of Attention in a Transformer Language Model.](https://www.aclweb.org/anthology/W19-4808.pdf). In Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP, pages 63-76, Florence, Italy, August 2019. (recommended by Nikolai, would like to read: Axel, Felix)
 
   * M. Artetxe, G. Labaka, and E. Agirre. [A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings.](https://www.aclweb.org/anthology/P18-1073) In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 789–798, Melbourne, Australia, July 2018. Association for Computational Linguistics. (comes with a video and slides)
 
