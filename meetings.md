@@ -65,13 +65,13 @@ Please add here any papers (with links) you would like to suggest for the readin
 
   * \+ Thomason, J., Padmakumar, A., Sinapov, J., Walker, N., Jiang, Y., Yedidsion, H., ... & Mooney, R. J. (2020). Jointly improving parsing and perception for natural language commands through human-robot dialog. Journal of Artificial Intelligence Research, 67, 1-48. [paper](https://jair.org/index.php/jair/article/view/11485/26562) (recommended by Mehdi, would like to read: Robin)
   
-  * + Moro, D., Black, S., & Kennington, C. (2019). Composing and Embedding the Words-as-Classifiers Model of Grounded Semantics. arXiv preprint arXiv:1911.03283. (https://arxiv.org/pdf/1911.03283.pdf) (recommended by Staffan, would like to read: Robin)
+  * \+ Moro, D., Black, S., & Kennington, C. (2019). Composing and Embedding the Words-as-Classifiers Model of Grounded Semantics. arXiv preprint arXiv:1911.03283. (https://arxiv.org/pdf/1911.03283.pdf) (recommended by Staffan, would like to read: Robin)
 
-  * + Mollica, F. et al. (2019). Composition is the core driver of the language-selective network [Paper](https://www.biorxiv.org/content/10.1101/436204v2) (recommended by Mehdi, would like to read: Robin)
+  * \+ Mollica, F. et al. (2019). Composition is the core driver of the language-selective network [Paper](https://www.biorxiv.org/content/10.1101/436204v2) (recommended by Mehdi, would like to read: Robin)
   
-  * + Malt, B. C., Sloman, S. A., Gennari, S., Shi, M., & Wang, Y. (1999). Knowing versus naming: Similarity and the linguistic categorization of artifacts. Journal of Memory and Language, 40(2), 230-262. [paper](https://1b7a2906-a-62cb3a1a-s-sites.googlegroups.com/site/slomanlab/malt_et_al_jml.pdf?attachauth=ANoY7co8b_1l8eshBxSMrD65NRkjgq0cFvJZ-9XwdEVW9r2gOx-a8rOnyZPPV19Ngnx8x4hD2M7huNSJ8NlKz1XV6Zok8U9QutTZgyfoz4AB_k9hVNMjbmk3Skd1vFCOXTiW4f_PuvL3nQxEgVud3jdUqP_9nYWmNuL0aiMYohD9Kq8DiVFd1ywotrzNsTYzM0k5hygIkNyADjIXTGxZnaT80bobVBNp5Q%3D%3D&attredirects=0) (recommended by Staffan, would like to read: Robin)
+  * \+ Malt, B. C., Sloman, S. A., Gennari, S., Shi, M., & Wang, Y. (1999). Knowing versus naming: Similarity and the linguistic categorization of artifacts. Journal of Memory and Language, 40(2), 230-262. [paper](https://1b7a2906-a-62cb3a1a-s-sites.googlegroups.com/site/slomanlab/malt_et_al_jml.pdf?attachauth=ANoY7co8b_1l8eshBxSMrD65NRkjgq0cFvJZ-9XwdEVW9r2gOx-a8rOnyZPPV19Ngnx8x4hD2M7huNSJ8NlKz1XV6Zok8U9QutTZgyfoz4AB_k9hVNMjbmk3Skd1vFCOXTiW4f_PuvL3nQxEgVud3jdUqP_9nYWmNuL0aiMYohD9Kq8DiVFd1ywotrzNsTYzM0k5hygIkNyADjIXTGxZnaT80bobVBNp5Q%3D%3D&attredirects=0) (recommended by Staffan, would like to read: Robin)
 
-  * + Herbelot, A., & Vecchi, E. M. (2015). Building a shared world: Mapping distributional to model-theoretic semantic spaces. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (pp. 22-32).(https://www.cl.cam.ac.uk/~ah433/emnlp2015.pdf) (recommended by Staffan, would like to read: Robin)
+  * \+ Herbelot, A., & Vecchi, E. M. (2015). Building a shared world: Mapping distributional to model-theoretic semantic spaces. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (pp. 22-32).(https://www.cl.cam.ac.uk/~ah433/emnlp2015.pdf) (recommended by Staffan, would like to read: Robin)
 
   * Marcus, G. (2018). Deep learning: A critical appraisal. [paper](https://arxiv.org/pdf/1801.00631.pdf); [video comments](https://www.youtube.com/watch?v=wh_IZNHH2S0); (recommended by Mehdi)
   
