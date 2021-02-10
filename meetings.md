@@ -19,7 +19,7 @@ permalink: /meetings/
 
 ### Next
 
-  *   * \+\+\+ Vig, J., & Belinkov, Y. (2019). [Analyzing the Structure of Attention in a Transformer Language Model.](https://www.aclweb.org/anthology/W19-4808.pdf). In Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP, pages 63-76, Florence, Italy, August 2019. (recommended by Nikolai, would like to read: Axel, Felix, Anna)
+  * \+\+\+ Vig, J., & Belinkov, Y. (2019). [Analyzing the Structure of Attention in a Transformer Language Model.](https://www.aclweb.org/anthology/W19-4808.pdf). In Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP, pages 63-76, Florence, Italy, August 2019. (recommended by Nikolai, would like to read: Axel, Felix, Anna)
 
 ### Suggestions
 
@@ -42,6 +42,8 @@ Please add here any papers (with links) you would like to suggest for the readin
   * \+ Malt, B. C., Sloman, S. A., Gennari, S., Shi, M., & Wang, Y. (1999). Knowing versus naming: Similarity and the linguistic categorization of artifacts. Journal of Memory and Language, 40(2), 230-262. [paper](https://1b7a2906-a-62cb3a1a-s-sites.googlegroups.com/site/slomanlab/malt_et_al_jml.pdf?attachauth=ANoY7co8b_1l8eshBxSMrD65NRkjgq0cFvJZ-9XwdEVW9r2gOx-a8rOnyZPPV19Ngnx8x4hD2M7huNSJ8NlKz1XV6Zok8U9QutTZgyfoz4AB_k9hVNMjbmk3Skd1vFCOXTiW4f_PuvL3nQxEgVud3jdUqP_9nYWmNuL0aiMYohD9Kq8DiVFd1ywotrzNsTYzM0k5hygIkNyADjIXTGxZnaT80bobVBNp5Q%3D%3D&attredirects=0) (recommended by Staffan, would like to read: Robin)
 
   * \+ Herbelot, A., & Vecchi, E. M. (2015). Building a shared world: Mapping distributional to model-theoretic semantic spaces. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (pp. 22-32).(https://www.cl.cam.ac.uk/~ah433/emnlp2015.pdf) (recommended by Staffan, would like to read: Robin)
+  
+  * \+ J. Zwarts and Y. Winter. Vector space semantics: A model-theoretic analysis of locative prepositions. Journal of Logic, Language and Information, 9:169–211, 2000. (recommended by all, would like to read: Robin)
 
   * Vulić, Ivan, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš, and Anna Korhonen. (2020) "Probing pretrained language models for lexical semantics." https://www.aclweb.org/anthology/2020.emnlp-main.586.pdf (Recommended by Felix)
     
@@ -88,8 +90,6 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
   * Yatskar, M., Zettlemoyer, L., & Farhadi, A. (2016). Situation recognition: Visual semantic role labeling for image understanding. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 5534-5542). [link](https://homes.cs.washington.edu/~my89/publications/situations.pdf) (recommended by Mehdi)
   
   * Mei, H., Bansal, M., & Walter, M. R. (2016, February). Listen, Attend, and Walk: Neural Mapping of Navigational Instructions to Action Sequences. In AAAI (pp. 2772-2778). [link](https://arxiv.org/abs/1506.04089) (recommended by Mehdi)
-
-  * + J. Zwarts and Y. Winter. Vector space semantics: A model-theoretic analysis of locative prepositions. Journal of Logic, Language and Information, 9:169–211, 2000. (recommended by all, would like to read: Robin)
 
   * one of the papers on this page (Oxford robotics & vision group): [link](http://www.robots.ox.ac.uk/~nsid/publications.html) (recommended by Staffan)
   Link broken
