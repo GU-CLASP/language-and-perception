@@ -62,6 +62,11 @@ For a list of suggested readings please see [here](reading-list.pdf). Individual
 
 ## Schedule and course materials
 
+  - **Interpretability of neural language models**
+  	* 2021-02-11**
+	  * \+\+\+\+ Vig, J., & Belinkov, Y. (2019). [Analyzing the Structure of Attention in a Transformer Language Model.](https://www.aclweb.org/anthology/W19-4808.pdf). In Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP, pages 63-76, Florence, Italy, August 2019. (recommended by Nikolai, would like to read: Axel, Felix, Anna, Simon) 2021-02-12
+	  * Nikolai, Adam, Anna, Felix, Aram, and Simon
+
   - **Integrating symbolic common-sense knowledge**
   	* 2021-01-29, Zoom
 	* ++++++++ J. D. Hwang, C. Bhagavatula, R. L. Bras, J. Da, K. Sakaguchi, A. Bosselut, and Y. Choi. [Comet-atomic 2020: On symbolic and neural commonsense knowledge graphs.](https://arxiv.org/abs/2010.05953) arXiv, arXiv:2010.05953 [cs.CL]:1–17, 2020. [Video of a talk.](https://youtu.be/h2wzQKRAdA8) (Recommended by Nikolai, credit for either APL or ROM, would like to read: Nikolai, Anna, Felix, Axel, Robin, Staffan, Ellen, Simon) 2021-01-29
