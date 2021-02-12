@@ -64,8 +64,8 @@ For a list of suggested readings please see [here](reading-list.pdf). Individual
 
   - **Interpretability of neural language models**
   	* 2021-02-11**
-	  * \+\+\+\+ Vig, J., & Belinkov, Y. (2019). [Analyzing the Structure of Attention in a Transformer Language Model.](https://www.aclweb.org/anthology/W19-4808.pdf). In Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP, pages 63-76, Florence, Italy, August 2019. (recommended by Nikolai, would like to read: Axel, Felix, Anna, Simon) 2021-02-12
-	  * Nikolai, Adam, Anna, Felix, Aram, and Simon
+	* \+\+\+\+ Vig, J., & Belinkov, Y. (2019). [Analyzing the Structure of Attention in a Transformer Language Model.](https://www.aclweb.org/anthology/W19-4808.pdf). In Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP, pages 63-76, Florence, Italy, August 2019. (recommended by Nikolai, would like to read: Axel, Felix, Anna, Simon) 2021-02-12
+	* Nikolai, Adam, Anna, Felix, Aram, and Simon
 
   - **Integrating symbolic common-sense knowledge**
   	* 2021-01-29, Zoom
