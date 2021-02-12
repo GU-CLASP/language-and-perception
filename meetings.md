@@ -25,6 +25,10 @@ permalink: /meetings/
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * J. Bastings and K. Filippova. [The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?](https://www.aclweb.org/anthology/2020.blackboxnlp-1.14) In Proceedings of the Third BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP, pages 149–155, Online, Nov. 2020. Association for Computational Linguistics.
+
+  * K. Clark, U. Khandelwal, O. Levy, and C. D. Manning. [What does BERT look at? an analysis of BERT’s attention.](https://www.aclweb.org/anthology/W19-4828) In Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP, pages 276–286, Florence, Italy, Aug. 2019. Association for Computational Linguistics.
+
   * \+\+\+ Gao, J., Peng, B., Li, C., Li, J., Shayandeh, S., Liden, L., & Shum, H. Y. (2020). Robust conversational ai with grounded text generation. arXiv preprint arXiv:2009.03457. https://arxiv.org/abs/2009.03457 (Recommended by Staffan, would like to read: Robin, Nikolai, Simon)
   
   * \+\+\+\+  Nguyen, Phi & Joty, Shafiq & Hoi, Steven & Socher, Richard. (2020). Tree-structured Attention with Hierarchical Accumulation. [paper](https://openreview.net/forum?id=HJxK5pEYvr) (recommended by Axel, would like to read: Robin, Axel, Simon, Adam)
