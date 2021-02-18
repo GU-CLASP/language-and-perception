@@ -25,6 +25,8 @@ permalink: /meetings/
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * Radford, A., Kim, J. W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., ... & Sutskever, I. (2021). [Learning transferable visual models from natural language supervision.](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf) Image, 2, T2. (recommended by Mehdi)
+
   * \+ J. Bastings and K. Filippova. [The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?](https://www.aclweb.org/anthology/2020.blackboxnlp-1.14) In Proceedings of the Third BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP, pages 149–155, Online, Nov. 2020. Association for Computational Linguistics. (recommended by Felix, would like to read: Adam)
 
   * \+ K. Clark, U. Khandelwal, O. Levy, and C. D. Manning. [What does BERT look at? an analysis of BERT’s attention.](https://www.aclweb.org/anthology/W19-4828) In Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP, pages 276–286, Florence, Italy, Aug. 2019. Association for Computational Linguistics. (recommended by Felix, would like to read: Adam)
