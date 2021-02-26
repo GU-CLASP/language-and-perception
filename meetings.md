@@ -19,11 +19,12 @@ permalink: /meetings/
 
 ### Next
 
-  * \+\+\+\+ Gao, J., Peng, B., Li, C., Li, J., Shayandeh, S., Liden, L., & Shum, H. Y. (2020). Robust conversational ai with grounded text generation. arXiv preprint arXiv:2009.03457. https://arxiv.org/abs/2009.03457 (Recommended by Staffan, would like to read: Robin, Nikolai, Simon, Anna)
 
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
+
+  * \+\+ Licheng Yu, Xinlei Chen, Georgia Gkioxari, Mohit Bansal, Tamara L. Berg, & Dhruv Batra. (2019). Multi-Target Embodied Question Answering (recommended by Simon and Nikolai, would like to read: Simon, Nikolai)
 
   * Radford, A., Kim, J. W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., ... & Sutskever, I. (2021). [Learning transferable visual models from natural language supervision.](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf) Image, 2, T2. (recommended by Mehdi)
 
@@ -105,6 +106,8 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
 
 ### Read
+
+  * \+\+\+\+ Gao, J., Peng, B., Li, C., Li, J., Shayandeh, S., Liden, L., & Shum, H. Y. (2020). Robust conversational ai with grounded text generation. arXiv preprint arXiv:2009.03457. https://arxiv.org/abs/2009.03457 (Recommended by Staffan, would like to read: Robin, Nikolai, Simon, Anna)
 
   * \+\+\+\+ Vig, J., & Belinkov, Y. (2019). [Analyzing the Structure of Attention in a Transformer Language Model.](https://www.aclweb.org/anthology/W19-4808.pdf). In Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP, pages 63-76, Florence, Italy, August 2019. (recommended by Nikolai, would like to read: Axel, Felix, Anna, Simon) 2021-02-12
 
