@@ -24,6 +24,8 @@ permalink: /meetings/
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * Magnus Sahlgren, Fredrik Carlsson (2020) [The Singleton Fallacy: Why Current Critiques of Language Models Miss the Point](https://arxiv.org/pdf/2102.04310.pdf)
+
   * \+\+ Licheng Yu, Xinlei Chen, Georgia Gkioxari, Mohit Bansal, Tamara L. Berg, & Dhruv Batra. (2019). Multi-Target Embodied Question Answering (recommended by Simon and Nikolai, would like to read: Simon, Nikolai)
 
   * Radford, A., Kim, J. W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., ... & Sutskever, I. (2021). [Learning transferable visual models from natural language supervision.](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf) Image, 2, T2. (recommended by Mehdi)
