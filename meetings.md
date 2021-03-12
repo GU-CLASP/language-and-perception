@@ -25,8 +25,8 @@ permalink: /meetings/
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
-* Trapit Bansal, David Belanger, Andrew McCallum (2016): Ask the GRU: Multi-task Learning for Deep Text Recommendations
-* (https://arxiv.org/abs/1609.02116) (recommended by Aram)
+ * Trapit Bansal, David Belanger, Andrew McCallum (2016): Ask the GRU: Multi-task Learning for Deep Text Recommendations
+(https://arxiv.org/abs/1609.02116) (recommended by Aram)
 
   * Magnus Sahlgren, Fredrik Carlsson (2020) [The Singleton Fallacy: Why Current Critiques of Language Models Miss the Point](https://arxiv.org/pdf/2102.04310.pdf)
 
