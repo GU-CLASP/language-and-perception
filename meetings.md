@@ -19,32 +19,29 @@ permalink: /meetings/
 
 ### Next
 
-  * \+\+\+\+  Nguyen, Phi & Joty, Shafiq & Hoi, Steven & Socher, Richard. (2020). Tree-structured Attention with Hierarchical Accumulation. [paper](https://openreview.net/forum?id=HJxK5pEYvr) (recommended by Axel, would like to read: Robin, Axel, Simon, Adam)
-
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
- * Trapit Bansal, David Belanger, Andrew McCallum (2016): Ask the GRU: Multi-task Learning for Deep Text Recommendations
-(https://arxiv.org/abs/1609.02116) (recommended by Aram)
-
-  * Magnus Sahlgren, Fredrik Carlsson (2020) [The Singleton Fallacy: Why Current Critiques of Language Models Miss the Point](https://arxiv.org/pdf/2102.04310.pdf)
-
-  * \+\+ Licheng Yu, Xinlei Chen, Georgia Gkioxari, Mohit Bansal, Tamara L. Berg, & Dhruv Batra. (2019). Multi-Target Embodied Question Answering (recommended by Simon and Nikolai, would like to read: Simon, Nikolai)
-
-  * Radford, A., Kim, J. W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., ... & Sutskever, I. (2021). [Learning transferable visual models from natural language supervision.](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf) Image, 2, T2. (recommended by Mehdi)
-https://arxiv.org/abs/1609.02116
-  * \+\+ J. Bastings and K. Filippova. [The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?](https://www.aclweb.org/anthology/2020.blackboxnlp-1.14) In Proceedings of the Third BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP, pages 149–155, Online, Nov. 2020. Association for Computational Linguistics. (recommended by Felix, would like to read: Adam,Anna)
-
-  * \+\+ K. Clark, U. Khandelwal, O. Levy, and C. D. Manning. [What does BERT look at? an analysis of BERT’s attention.](https://www.aclweb.org/anthology/W19-4828) In Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP, pages 276–286, Florence, Italy, Aug. 2019. Association for Computational Linguistics. (recommended by Felix, would like to read: Adam. Anna)
   
   * \+\+\+ Yuchen Liang, Chaitanya Ryali, Benjamin Hoover, Saket Navlakha, Leopold Grinberg, Mohammed J Zaki, Dmitry Krotov [Can a Fruit Fly Learn Word Embeddings?](https://arxiv.org/pdf/2101.06887.pdf) (Recommended by Adam, would like to read: Robin, Anna, Adam)
   
   * \+\+\+ Goodman, N. D., & Stuhlmüller, A. (2013). Knowledge and Implicature: Modeling Language Understanding as Social Cognition. Topics in Cognitive Science. [paper](https://web.stanford.edu/~ngoodman/papers/GS-TopiCS-2013.pdf) (recommended by Bill, would like to read: Robin, Simon, Anna)
 
+  * \+\+\+ M. Artetxe, G. Labaka, and E. Agirre. (2019). [Bilingual Lexicon Induction through Unsupervised Machine Translation](https://arxiv.org/abs/1907.10761) ACL 2019 (recommended by Adam, would like to read: Simon, Adam, Anna)
+
+  * \+\+ Herbelot, A., & Vecchi, E. M. (2015). Building a shared world: Mapping distributional to model-theoretic semantic spaces. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (pp. 22-32).(https://www.cl.cam.ac.uk/~ah433/emnlp2015.pdf) (recommended by Staffan, would like to read: Robin, Simon)
+
+  * \+\+ Licheng Yu, Xinlei Chen, Georgia Gkioxari, Mohit Bansal, Tamara L. Berg, & Dhruv Batra. (2019). Multi-Target Embodied Question Answering (recommended by Simon and Nikolai, would like to read: Simon, Nikolai)
+
+  * \+\+ J. Bastings and K. Filippova. [The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?](https://www.aclweb.org/anthology/2020.blackboxnlp-1.14) In Proceedings of the Third BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP, pages 149–155, Online, Nov. 2020. Association for Computational Linguistics. (recommended by Felix, would like to read: Adam,Anna)
+
+  * \+\+ K. Clark, U. Khandelwal, O. Levy, and C. D. Manning. [What does BERT look at? an analysis of BERT’s attention.](https://www.aclweb.org/anthology/W19-4828) In Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP, pages 276–286, Florence, Italy, Aug. 2019. Association for Computational Linguistics. (recommended by Felix, would like to read: Adam. Anna)
+
   * \+\+ Thomason, J., Padmakumar, A., Sinapov, J., Walker, N., Jiang, Y., Yedidsion, H., ... & Mooney, R. J. (2020). Jointly improving parsing and perception for natural language commands through human-robot dialog. Journal of Artificial Intelligence Research, 67, 1-48. [paper](https://jair.org/index.php/jair/article/view/11485/26562) (recommended by Mehdi, would like to read: Robin, Simon)
 
-  * \+\+\+ M. Artetxe, G. Labaka, and E. Agirre. (2019). [Bilingual Lexicon Induction through Unsupervised Machine Translation](https://arxiv.org/abs/1907.10761) ACL 2019 (recommended by Adam, would like to read: Simon, Adam, Anna)
+ * \+ Trapit Bansal, David Belanger, Andrew McCallum (2016): Ask the GRU: Multi-task Learning for Deep Text Recommendations
+(https://arxiv.org/abs/1609.02116) (recommended by Aram, would like to read: Nikolai)
 
   * \+ Caglayan, O., Ive, J., Haralampieva, V., Madhyastha, P., Barrault, L., & Specia, L. (2020). [Simultaneous Machine Translation with Visual Context.](http://arxiv.org/abs/2009.07310). EMNLP 2020. (recommended by Nikolai, would like to read: Simon)
 
@@ -55,8 +52,6 @@ https://arxiv.org/abs/1609.02116
   * \+ Moro, D., Black, S., & Kennington, C. (2019). Composing and Embedding the Words-as-Classifiers Model of Grounded Semantics. arXiv preprint arXiv:1911.03283. (https://arxiv.org/pdf/1911.03283.pdf) (recommended by Staffan, would like to read: Robin)
 
   * \+ Mollica, F. et al. (2019). Composition is the core driver of the language-selective network [Paper](https://www.biorxiv.org/content/10.1101/436204v2) (recommended by Mehdi, would like to read: Robin)
- 
-  * \+\+ Herbelot, A., & Vecchi, E. M. (2015). Building a shared world: Mapping distributional to model-theoretic semantic spaces. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (pp. 22-32).(https://www.cl.cam.ac.uk/~ah433/emnlp2015.pdf) (recommended by Staffan, would like to read: Robin, Simon)
 
   * \+ Sellam, T., Das, D., & Parikh, A. P. (2020). BLEURT: Learning Robust Metrics for Text Generation. https://arxiv.org/abs/2004.04696 (recommended by Nikolai, would like to read: Simon)
 
@@ -69,6 +64,11 @@ https://arxiv.org/abs/1609.02116
   * \+ Vulić, Ivan, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš, and Anna Korhonen. (2020) "Probing pretrained language models for lexical semantics." https://www.aclweb.org/anthology/2020.emnlp-main.586.pdf (Recommended by Felix, would like to read: Simon)
 
   * \+ J. Zwarts and Y. Winter. Vector space semantics: A model-theoretic analysis of locative prepositions. Journal of Logic, Language and Information, 9:169–211, 2000. (recommended by all, would like to read: Robin)
+
+  * Magnus Sahlgren, Fredrik Carlsson (2020) [The Singleton Fallacy: Why Current Critiques of Language Models Miss the Point](https://arxiv.org/pdf/2102.04310.pdf)
+
+  * Radford, A., Kim, J. W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., ... & Sutskever, I. (2021). [Learning transferable visual models from natural language supervision.](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf) Image, 2, T2. (recommended by Mehdi)
+https://arxiv.org/abs/1609.02116
     
   * Aitor Ormazabal,  Mikel Artetxe,  Aitor Soroa,  Gorka Labaka,  Eneko Agirre [Beyond Offline Mapping: Learning Cross Lingual Word Embeddings through Context Anchoring](https://arxiv.org/pdf/2012.15715.pdf) (Recommended by Adam)
  
@@ -110,6 +110,8 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
 
 ### Read
+
+  * \+\+\+\+  Nguyen, Phi & Joty, Shafiq & Hoi, Steven & Socher, Richard. (2020). Tree-structured Attention with Hierarchical Accumulation. [paper](https://openreview.net/forum?id=HJxK5pEYvr) (recommended by Axel, would like to read: Robin, Axel, Simon, Adam)
 
   * \+\+\+\+ Gao, J., Peng, B., Li, C., Li, J., Shayandeh, S., Liden, L., & Shum, H. Y. (2020). Robust conversational ai with grounded text generation. arXiv preprint arXiv:2009.03457. https://arxiv.org/abs/2009.03457 (Recommended by Staffan, would like to read: Robin, Nikolai, Simon, Anna)
 
