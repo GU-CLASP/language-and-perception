@@ -22,6 +22,8 @@ permalink: /meetings/
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
+  
+  * \+ Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. (http://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf) (Recommended by Anna, would like to read: Anna)  
 
   * \+ Kevin Lu, Aditya Grover, Pieter Abbeel, & Igor Mordatch. (2021). Pretrained Transformers as Universal Computation Engines. [paper](https://arxiv.org/pdf/2103.05247.pdf) (Recommended by Nikolai, would like to read: Nikolai)
 
