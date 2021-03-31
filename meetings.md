@@ -32,6 +32,8 @@ Please add here any papers (with links) you would like to suggest for the readin
   * \+\+\+\+ M. Artetxe, G. Labaka, and E. Agirre. (2019). [Bilingual Lexicon Induction through Unsupervised Machine Translation](https://arxiv.org/abs/1907.10761) ACL 2019 (recommended by Adam, would like to read: Simon, Adam, Anna, Nikolai)
   
   * \+\+\+ Yuchen Liang, Chaitanya Ryali, Benjamin Hoover, Saket Navlakha, Leopold Grinberg, Mohammed J Zaki, Dmitry Krotov [Can a Fruit Fly Learn Word Embeddings?](https://arxiv.org/pdf/2101.06887.pdf) (Recommended by Adam, would like to read: Robin, Anna, Adam)
+
+  * \+\+ Vulić, Ivan, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš, and Anna Korhonen. (2020) "Probing pretrained language models for lexical semantics." https://www.aclweb.org/anthology/2020.emnlp-main.586.pdf (Recommended by Felix, would like to read: Simon, Nikolai)
   
   * \+\+\+ Goodman, N. D., & Stuhlmüller, A. (2013). Knowledge and Implicature: Modeling Language Understanding as Social Cognition. Topics in Cognitive Science. [paper](https://web.stanford.edu/~ngoodman/papers/GS-TopiCS-2013.pdf) (recommended by Bill, would like to read: Robin, Simon, Anna)
 
@@ -39,15 +41,11 @@ Please add here any papers (with links) you would like to suggest for the readin
 
   * \+\+\+ J. Bastings and K. Filippova. [The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?](https://www.aclweb.org/anthology/2020.blackboxnlp-1.14) In Proceedings of the Third BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP, pages 149–155, Online, Nov. 2020. Association for Computational Linguistics. (recommended by Felix, would like to read: Adam, Anna, Nikolai)
 
-  * \+\+ Herbelot, A., & Vecchi, E. M. (2015). Building a shared world: Mapping distributional to model-theoretic semantic spaces. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (pp. 22-32).(https://www.cl.cam.ac.uk/~ah433/emnlp2015.pdf) (recommended by Staffan, would like to read: Robin, Simon)
-
   * \+\+ Licheng Yu, Xinlei Chen, Georgia Gkioxari, Mohit Bansal, Tamara L. Berg, & Dhruv Batra. (2019). Multi-Target Embodied Question Answering (recommended by Simon and Nikolai, would like to read: Simon, Nikolai)
 
   * \+\+ Moro, D., Black, S., & Kennington, C. (2019). Composing and Embedding the Words-as-Classifiers Model of Grounded Semantics. arXiv preprint arXiv:1911.03283. (https://arxiv.org/pdf/1911.03283.pdf) (recommended by Staffan, would like to read: Robin, Nikolai)
 
   * \+\+ Thomason, J., Padmakumar, A., Sinapov, J., Walker, N., Jiang, Y., Yedidsion, H., ... & Mooney, R. J. (2020). Jointly improving parsing and perception for natural language commands through human-robot dialog. Journal of Artificial Intelligence Research, 67, 1-48. [paper](https://jair.org/index.php/jair/article/view/11485/26562) (recommended by Mehdi, would like to read: Robin, Simon)
-
-  * \+\+ Vulić, Ivan, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš, and Anna Korhonen. (2020) "Probing pretrained language models for lexical semantics." https://www.aclweb.org/anthology/2020.emnlp-main.586.pdf (Recommended by Felix, would like to read: Simon, Nikolai)
 
   * \+\+ M. Janner, K. Narasimhan, and R. Barzilay. Representation learning for grounded spatial reasoning. Transactions of the Association for Computational Linguistics, 6:49–61, 2018. (recommended by Mehdi, would like to read: Simon, Nikolai) [link](https://www.transacl.org/ojs/index.php/tacl/article/view/1234)
 
@@ -115,6 +113,8 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
 
 ### Read
+
+  * \+\+ Herbelot, A., & Vecchi, E. M. (2015). Building a shared world: Mapping distributional to model-theoretic semantic spaces. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (pp. 22-32).(https://www.cl.cam.ac.uk/~ah433/emnlp2015.pdf) (recommended by Staffan, would like to read: Robin, Simon)
 
   * \+\+\+\+  Nguyen, Phi & Joty, Shafiq & Hoi, Steven & Socher, Richard. (2020). Tree-structured Attention with Hierarchical Accumulation. [paper](https://openreview.net/forum?id=HJxK5pEYvr) (recommended by Axel, would like to read: Robin, Axel, Simon, Adam)
 
