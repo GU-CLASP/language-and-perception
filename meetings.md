@@ -25,7 +25,7 @@ Please add here any papers (with links) you would like to suggest for the readin
 
   * \+ Spliethöver, M., & Wachsmuth, H. (2020). Argument from Old Man's View: Assessing Social Bias in Argumentation.  (https://www.aclweb.org/anthology/2020.argmining-1.9.pdf) (Recommended by Anna, would like to read: Anna)
   
-  * \+ Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. (http://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf) (Recommended by Anna, would like to read: Anna)  
+  * \+\+ Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. (http://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf) (Recommended by Anna, would like to read: Anna, Felix)  
 
   * \+ Kevin Lu, Aditya Grover, Pieter Abbeel, & Igor Mordatch. (2021). Pretrained Transformers as Universal Computation Engines. [paper](https://arxiv.org/pdf/2103.05247.pdf) (Recommended by Nikolai, would like to read: Nikolai)
 
