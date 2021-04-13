@@ -114,6 +114,9 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
 ### Read
 
+  * Abhishek Das, Samyak Datta, Georgia Gkioxari, Stefan Lee, Devi Parikh, & Dhruv Batra (2018). Embodied Question Answering. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). [paper](https://embodiedqa.org/paper.pdf)
+
+
   * \+\+ Herbelot, A., & Vecchi, E. M. (2015). Building a shared world: Mapping distributional to model-theoretic semantic spaces. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (pp. 22-32).(https://www.cl.cam.ac.uk/~ah433/emnlp2015.pdf) (recommended by Staffan, would like to read: Robin, Simon)
 
   * \+\+\+\+  Nguyen, Phi & Joty, Shafiq & Hoi, Steven & Socher, Richard. (2020). Tree-structured Attention with Hierarchical Accumulation. [paper](https://openreview.net/forum?id=HJxK5pEYvr) (recommended by Axel, would like to read: Robin, Axel, Simon, Adam)
