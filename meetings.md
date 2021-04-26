@@ -19,11 +19,13 @@ permalink: /meetings/
 
 ### Next
 
-  * \+\+ Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. (http://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf) (Recommended by Anna, would like to read: Anna, Felix)  
+
 
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
+
+  * \+ Annette Rios, Chantal Amrhein, Noëmi Aepli, & Rico Sennrich. (2021). On Biasing Transformer Attention Towards Monotonicity. [paper](https://arxiv.org/pdf/2104.03945.pdf) (Recommended by Nikolai, would like to read: Nikolai)
 
   * \+ Spliethöver, M., & Wachsmuth, H. (2020). Argument from Old Man's View: Assessing Social Bias in Argumentation.  (https://www.aclweb.org/anthology/2020.argmining-1.9.pdf) (Recommended by Anna, would like to read: Anna)
 
@@ -114,8 +116,9 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
 ### Read
 
-  * Abhishek Das, Samyak Datta, Georgia Gkioxari, Stefan Lee, Devi Parikh, & Dhruv Batra (2018). Embodied Question Answering. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). [paper](https://embodiedqa.org/paper.pdf)
+  * \+\+ Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. (http://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf) (Recommended by Anna, would like to read: Anna, Felix)  
 
+  * Abhishek Das, Samyak Datta, Georgia Gkioxari, Stefan Lee, Devi Parikh, & Dhruv Batra (2018). Embodied Question Answering. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). [paper](https://embodiedqa.org/paper.pdf)
 
   * \+\+ Herbelot, A., & Vecchi, E. M. (2015). Building a shared world: Mapping distributional to model-theoretic semantic spaces. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (pp. 22-32).(https://www.cl.cam.ac.uk/~ah433/emnlp2015.pdf) (recommended by Staffan, would like to read: Robin, Simon)
 
