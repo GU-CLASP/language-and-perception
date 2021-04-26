@@ -25,7 +25,9 @@ permalink: /meetings/
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
-  * \+ Annette Rios, Chantal Amrhein, Noëmi Aepli, & Rico Sennrich. (2021). On Biasing Transformer Attention Towards Monotonicity. [paper](https://arxiv.org/pdf/2104.03945.pdf) (Recommended by Nikolai, would like to read: Nikolai)
+  * \+ Liunian Harold Li, Haoxuan You, Zhecan Wang, Alireza Zareian, Shih-Fu Chang, & Kai-Wei Chang. (2021). Weakly-Supervised VisualBERT: Pre-training Vision-and-Language Representations Without Parallel Images and Captions. [paper](https://arxiv.org/pdf/2010.12831.pdf) NAACL 2021 (Recommended by Nikolai, would like to read: Nikolai)
+
+  * \+ Annette Rios, Chantal Amrhein, Noëmi Aepli, & Rico Sennrich. (2021). On Biasing Transformer Attention Towards Monotonicity. [paper](https://arxiv.org/pdf/2104.03945.pdf) NAACL 2021 (Recommended by Nikolai, would like to read: Nikolai)
 
   * \+ Spliethöver, M., & Wachsmuth, H. (2020). Argument from Old Man's View: Assessing Social Bias in Argumentation.  (https://www.aclweb.org/anthology/2020.argmining-1.9.pdf) (Recommended by Anna, would like to read: Anna)
 
