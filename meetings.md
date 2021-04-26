@@ -25,6 +25,8 @@ permalink: /meetings/
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * \+ Benotti, L., & Blackburn, P. (2021). Grounding as a Collaborative Process. In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume (pp. 515–531). Association for Computational Linguistics. [paper] (https://www.aclweb.org/anthology/2021.eacl-main.41.pdf)  (Recommended by Nikolai, would like to read: Nikolai)
+
   * \+ William Merrill, Yoav Goldberg, Roy Schwartz, & Noah A. Smith. (2021). Provable Limitations of Acquiring Meaning from Ungrounded Form: What will Future Language Models Understand? [paper](https://arxiv.org/pdf/2104.10809.pdf) TACL (Recommended by Nikolai, would like to read: Nikolai)
 
   * \+ Liunian Harold Li, Haoxuan You, Zhecan Wang, Alireza Zareian, Shih-Fu Chang, & Kai-Wei Chang. (2021). Weakly-Supervised VisualBERT: Pre-training Vision-and-Language Representations Without Parallel Images and Captions. [paper](https://arxiv.org/pdf/2010.12831.pdf) NAACL 2021 (Recommended by Nikolai, would like to read: Nikolai)
