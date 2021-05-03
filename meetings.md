@@ -25,6 +25,8 @@ permalink: /meetings/
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * \+ How (Non-)Optimal is the Lexicon? (2021) Tiago Pimentel, Irene Nikkarinen, Kyle Mahowald, Ryan Cotterell, Damián Blasi [paper](https://arxiv.org/abs/2104.14279)
+
   * \+ Benotti, L., & Blackburn, P. (2021). Grounding as a Collaborative Process. In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume (pp. 515–531). Association for Computational Linguistics. [paper] (https://www.aclweb.org/anthology/2021.eacl-main.41.pdf)  (Recommended by Nikolai, would like to read: Nikolai)
 
   * \+ William Merrill, Yoav Goldberg, Roy Schwartz, & Noah A. Smith. (2021). Provable Limitations of Acquiring Meaning from Ungrounded Form: What will Future Language Models Understand? [paper](https://arxiv.org/pdf/2104.10809.pdf) TACL (Recommended by Nikolai, would like to read: Nikolai)
