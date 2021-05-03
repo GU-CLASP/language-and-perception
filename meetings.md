@@ -25,6 +25,8 @@ permalink: /meetings/
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * \+ Incorporating Structural Alignment Biases into an Attentional Neural Translation Model (2021) Trevor Cohn, Cong Duy Vu Hoang, Ekaterina Vymolova, Kaisheng Yao, Chris Dyer, Gholamreza Haffari [paper](https://www.aclweb.org/anthology/N16-1102/)
+
   * \+ How (Non-)Optimal is the Lexicon? (2021) Tiago Pimentel, Irene Nikkarinen, Kyle Mahowald, Ryan Cotterell, Damián Blasi [paper](https://arxiv.org/abs/2104.14279)
 
   * \+ Benotti, L., & Blackburn, P. (2021). Grounding as a Collaborative Process. In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume (pp. 515–531). Association for Computational Linguistics. [paper] (https://www.aclweb.org/anthology/2021.eacl-main.41.pdf)  (Recommended by Nikolai, would like to read: Nikolai)
