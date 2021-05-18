@@ -19,7 +19,7 @@ permalink: /meetings/
 
 ### Next
 
-
+  * \+\+ Vulić, Ivan, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš, and Anna Korhonen. (2020) "Probing pretrained language models for lexical semantics." https://www.aclweb.org/anthology/2020.emnlp-main.586.pdf (Recommended by Felix, would like to read: Simon, Nikolai)
 
 ### Suggestions
 
@@ -44,8 +44,6 @@ Please add here any papers (with links) you would like to suggest for the readin
   * \+\+\+\+ M. Artetxe, G. Labaka, and E. Agirre. (2019). [Bilingual Lexicon Induction through Unsupervised Machine Translation](https://arxiv.org/abs/1907.10761) ACL 2019 (recommended by Adam, would like to read: Simon, Adam, Anna, Nikolai)
   
   * \+\+\+ Yuchen Liang, Chaitanya Ryali, Benjamin Hoover, Saket Navlakha, Leopold Grinberg, Mohammed J Zaki, Dmitry Krotov [Can a Fruit Fly Learn Word Embeddings?](https://arxiv.org/pdf/2101.06887.pdf) (Recommended by Adam, would like to read: Robin, Anna, Adam)
-
-  * \+\+ Vulić, Ivan, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš, and Anna Korhonen. (2020) "Probing pretrained language models for lexical semantics." https://www.aclweb.org/anthology/2020.emnlp-main.586.pdf (Recommended by Felix, would like to read: Simon, Nikolai)
   
   * \+\+\+ Goodman, N. D., & Stuhlmüller, A. (2013). Knowledge and Implicature: Modeling Language Understanding as Social Cognition. Topics in Cognitive Science. [paper](https://web.stanford.edu/~ngoodman/papers/GS-TopiCS-2013.pdf) (recommended by Bill, would like to read: Robin, Simon, Anna)
 
