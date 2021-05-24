@@ -57,6 +57,8 @@ Please add here any papers (with links) you would like to suggest for the readin
 
   * \+\+ Thomason, J., Padmakumar, A., Sinapov, J., Walker, N., Jiang, Y., Yedidsion, H., ... & Mooney, R. J. (2020). Jointly improving parsing and perception for natural language commands through human-robot dialog. Journal of Artificial Intelligence Research, 67, 1-48. [paper](https://jair.org/index.php/jair/article/view/11485/26562) (recommended by Mehdi, would like to read: Robin, Simon)
 
+  * \+\+ J. Thomason, M. Murray, M. Cakmak, and L. Zettlemoyer. Vision-and-dialog navigation. In Conference on Robot Learning (CoRL), 2019. [paper](https://arxiv.org/abs/1907.04957) (recommended by Simon, would like to read: Simon, Nikolai)
+
   * \+\+ M. Janner, K. Narasimhan, and R. Barzilay. Representation learning for grounded spatial reasoning. Transactions of the Association for Computational Linguistics, 6:49–61, 2018. (recommended by Mehdi, would like to read: Simon, Nikolai) [link](https://www.transacl.org/ojs/index.php/tacl/article/view/1234)
 
   * \+ Trapit Bansal, David Belanger, Andrew McCallum (2016): Ask the GRU: Multi-task Learning for Deep Text Recommendations
@@ -73,8 +75,6 @@ Please add here any papers (with links) you would like to suggest for the readin
   * \+ Tan, H., & Bansal, M. (2019). LXMERT: Learning Cross-Modality Encoder Representations from Transformers. https://arxiv.org/abs/1908.07490 (recommended by Simon, would like to read: Simon)
 
   * \+ Tan, H., Dernoncourt, F., Lin, Z., Bui, T., & Bansal, M. (2019). Expressing Visual Relationships via Language. [paper](https://www.aclweb.org/anthology/P19-1182.pdf) (recommended by Nikolai, would like to read: Simon)
-  
-  * \+ J. Thomason, M. Murray, M. Cakmak, and L. Zettlemoyer. Vision-and-dialog navigation. In Conference on Robot Learning (CoRL), 2019. [paper](https://arxiv.org/abs/1907.04957) (recommended by Simon, would like to read: )
 
   * \+ J. Zwarts and Y. Winter. Vector space semantics: A model-theoretic analysis of locative prepositions. Journal of Logic, Language and Information, 9:169–211, 2000. (recommended by all, would like to read: Robin)
 
