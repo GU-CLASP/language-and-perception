@@ -74,7 +74,7 @@ it means that you would spend working on it for 5 weeks full-time or
 10 weeks half-time (60 HEC is 40 weeks).
 
 
-## Working on the course and submitting your work
+## Submitting your work
 
 For each course that you are taking, create a private Github
 repository and add Simon (`sdobnik`) as a collaborator as soon as you
