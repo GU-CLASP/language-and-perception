@@ -64,6 +64,9 @@ examples:
 
 <iframe style="width:100%;height: 400px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIlBzgtagmIaVQIh-g0PXzZoQUbtb4gKO_bw_nqZOaq6UoYC-YpqhyUl2u4AMCKltGVL2TtiEPop5n/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
+Note that if you are taking more than one course a particular piece of work 
+can only be considered for one course.
+
 
 ## How much work is required?
 
