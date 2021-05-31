@@ -19,7 +19,7 @@ permalink: /meetings/
 
 ### Next
 
-
+  * \+\+\+ Yuchen Liang, Chaitanya Ryali, Benjamin Hoover, Saket Navlakha, Leopold Grinberg, Mohammed J Zaki, Dmitry Krotov [Can a Fruit Fly Learn Word Embeddings?](https://arxiv.org/pdf/2101.06887.pdf) (Recommended by Adam, would like to read: Robin, Anna, Adam)
 
 ### Suggestions
 
@@ -42,8 +42,6 @@ Please add here any papers (with links) you would like to suggest for the readin
   * \+ Kevin Lu, Aditya Grover, Pieter Abbeel, & Igor Mordatch. (2021). Pretrained Transformers as Universal Computation Engines. [paper](https://arxiv.org/pdf/2103.05247.pdf) (Recommended by Nikolai, would like to read: Nikolai)
 
   * \+\+\+\+ M. Artetxe, G. Labaka, and E. Agirre. (2019). [Bilingual Lexicon Induction through Unsupervised Machine Translation](https://arxiv.org/abs/1907.10761) ACL 2019 (recommended by Adam, would like to read: Simon, Adam, Anna, Nikolai)
-  
-  * \+\+\+ Yuchen Liang, Chaitanya Ryali, Benjamin Hoover, Saket Navlakha, Leopold Grinberg, Mohammed J Zaki, Dmitry Krotov [Can a Fruit Fly Learn Word Embeddings?](https://arxiv.org/pdf/2101.06887.pdf) (Recommended by Adam, would like to read: Robin, Anna, Adam)
   
   * \+\+\+ Goodman, N. D., & Stuhlmüller, A. (2013). Knowledge and Implicature: Modeling Language Understanding as Social Cognition. Topics in Cognitive Science. [paper](https://web.stanford.edu/~ngoodman/papers/GS-TopiCS-2013.pdf) (recommended by Bill, would like to read: Robin, Simon, Anna)
 
