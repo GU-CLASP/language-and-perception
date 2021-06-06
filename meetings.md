@@ -19,11 +19,11 @@ permalink: /meetings/
 
 ### Next
 
-  * \+\+\+ Yuchen Liang, Chaitanya Ryali, Benjamin Hoover, Saket Navlakha, Leopold Grinberg, Mohammed J Zaki, Dmitry Krotov [Can a Fruit Fly Learn Word Embeddings?](https://arxiv.org/pdf/2101.06887.pdf) (Recommended by Adam, would like to read: Robin, Anna, Adam)
-
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
+
+  * \+ Psycholinguistics Meets Continual Learning: Measuring Catastrophic Forgetting in Visual Question Answering. Greco, C., Plank, B., Fernández, R., & Bernardi, R. (2019). [paper](https://www.aclweb.org/anthology/P19-1350/) In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (pp. 3601–3605). Association for Computational Linguistics. (Recommended by Nikolai, would like to read: Nikolai)
 
   * \+ Is it possible for language models to achieve language understanding? Christofer Potts (2020) [blog post](https://chrisgpotts.medium.com/is-it-possible-for-language-models-to-achieve-language-understanding-81df45082ee2) (Recommended by Robin, would like to read: Robin)
 
@@ -122,14 +122,15 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
 ### Read
 
+  * \+\+\+ Yuchen Liang, Chaitanya Ryali, Benjamin Hoover, Saket Navlakha, Leopold Grinberg, Mohammed J Zaki, Dmitry Krotov [Can a Fruit Fly Learn Word Embeddings?](https://arxiv.org/pdf/2101.06887.pdf) (Recommended by Adam, would like to read: Robin, Anna, Adam) 2021-06-04  
 
-  * \+\+ Vulić, Ivan, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš, and Anna Korhonen. (2020) "Probing pretrained language models for lexical semantics." https://www.aclweb.org/anthology/2020.emnlp-main.586.pdf (Recommended by Felix, would like to read: Simon, Nikolai)
+  * \+\+ Vulić, Ivan, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš, and Anna Korhonen. (2020) "Probing pretrained language models for lexical semantics." https://www.aclweb.org/anthology/2020.emnlp-main.586.pdf (Recommended by Felix, would like to read: Simon, Nikolai) 2021-05-21  
 
-  * \+ William Merrill, Yoav Goldberg, Roy Schwartz, & Noah A. Smith. (2021). Provable Limitations of Acquiring Meaning from Ungrounded Form: What will Future Language Models Understand? [paper](https://arxiv.org/pdf/2104.10809.pdf) TACL (Recommended by Nikolai, would like to read: Nikolai)
+  * \+ William Merrill, Yoav Goldberg, Roy Schwartz, & Noah A. Smith. (2021). Provable Limitations of Acquiring Meaning from Ungrounded Form: What will Future Language Models Understand? [paper](https://arxiv.org/pdf/2104.10809.pdf) TACL (Recommended by Nikolai, would like to read: Nikolai) 2021-05-07  
 
-  * \+\+ Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. (http://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf) (Recommended by Anna, would like to read: Anna, Felix)  
+  * \+\+ Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. (http://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf) (Recommended by Anna, would like to read: Anna, Felix) 2021-04-23 
 
-  * Abhishek Das, Samyak Datta, Georgia Gkioxari, Stefan Lee, Devi Parikh, & Dhruv Batra (2018). Embodied Question Answering. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). [paper](https://embodiedqa.org/paper.pdf)
+  * Abhishek Das, Samyak Datta, Georgia Gkioxari, Stefan Lee, Devi Parikh, & Dhruv Batra (2018). Embodied Question Answering. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). [paper](https://embodiedqa.org/paper.pdf) 2021-04-09  
 
   * \+\+ Herbelot, A., & Vecchi, E. M. (2015). Building a shared world: Mapping distributional to model-theoretic semantic spaces. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (pp. 22-32).(https://www.cl.cam.ac.uk/~ah433/emnlp2015.pdf) (recommended by Staffan, would like to read: Robin, Simon)
 
