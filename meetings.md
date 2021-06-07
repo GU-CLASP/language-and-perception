@@ -23,6 +23,10 @@ permalink: /meetings/
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * \+ Improving Cross-Modal Alignment in Vision Language Navigation via Syntactic Information. Li, J., Tan, H., & Bansal, M. (2021). In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 1041–1050). Association for Computational Linguistics. [paper](https://www.aclweb.org/anthology/2021.naacl-main.82.pdf) (Recommended by Nikolai, would like to read: Nikolai)
+
+  * \+ Measuring Social Biases in Grounded Vision and Language Embeddings. Ross, C., Katz, B., & Barbu, A. (2021). In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 998–1008). Association for Computational Linguistics. [paper](https://www.aclweb.org/anthology/2021.naacl-main.78.pdf) (Recommended by Nikolai, would like to read: Nikolai)
+
   * \+ KRISP: Integrating Implicit and Symbolic Knowledge for Open-Domain Knowledge-Based VQA. Kenneth Marino, Xinlei Chen, Devi Parikh, Abhinav Gupta, & Marcus Rohrbach. (2020).  CVPR 2021. [paper](https://arxiv.org/pdf/2012.11014.pdf) (Recommended by Nikolai, would like to read: Nikolai)
 
   * \+ Implicit Representations of Meaning in Neural Language Models. Belinda Z. Li, Maxwell Nye, & Jacob Andreas. (2021). ACL 2021. [paper](https://arxiv.org/pdf/2106.00737.pdf). (Recommended by Nikolai, would like to read: Nikolai)
