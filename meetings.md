@@ -23,6 +23,8 @@ permalink: /meetings/
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * \+ KRISP: Integrating Implicit and Symbolic Knowledge for Open-Domain Knowledge-Based VQA. Kenneth Marino, Xinlei Chen, Devi Parikh, Abhinav Gupta, & Marcus Rohrbach. (2020).  CVPR 2021. [paper](https://arxiv.org/pdf/2012.11014.pdf) (Recommended by Nikolai, would like to read: Nikolai)
+
   * \+ Implicit Representations of Meaning in Neural Language Models. Belinda Z. Li, Maxwell Nye, & Jacob Andreas. (2021). ACL 2021. [paper](https://arxiv.org/pdf/2106.00737.pdf). (Recommended by Nikolai, would like to read: Nikolai)
 
   * \+ Psycholinguistics Meets Continual Learning: Measuring Catastrophic Forgetting in Visual Question Answering. Greco, C., Plank, B., Fernández, R., & Bernardi, R. (2019). [paper](https://www.aclweb.org/anthology/P19-1350/) In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (pp. 3601–3605). Association for Computational Linguistics. (Recommended by Nikolai, would like to read: Nikolai)
