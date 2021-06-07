@@ -23,6 +23,8 @@ permalink: /meetings/
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * \+ Implicit Representations of Meaning in Neural Language Models. Belinda Z. Li, Maxwell Nye, & Jacob Andreas. (2021). ACL 2021. [paper](https://arxiv.org/pdf/2106.00737.pdf). (Recommended by Nikolai, would like to read: Nikolai)
+
   * \+ Psycholinguistics Meets Continual Learning: Measuring Catastrophic Forgetting in Visual Question Answering. Greco, C., Plank, B., Fernández, R., & Bernardi, R. (2019). [paper](https://www.aclweb.org/anthology/P19-1350/) In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (pp. 3601–3605). Association for Computational Linguistics. (Recommended by Nikolai, would like to read: Nikolai)
 
   * \+ Is it possible for language models to achieve language understanding? Christofer Potts (2020) [blog post](https://chrisgpotts.medium.com/is-it-possible-for-language-models-to-achieve-language-understanding-81df45082ee2) (Recommended by Robin, would like to read: Robin)
