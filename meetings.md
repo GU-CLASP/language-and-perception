@@ -23,6 +23,18 @@ permalink: /meetings/
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * \+ Curriculum learning.  Bengio, Yoshua and Louradour, J{\'e}r{\^o}me and Collobert, Ronan and Weston, Jason. [paper](https://arxiv.org/abs/1704.03003) (from Adam)
+
+  * \+ Automated Curriculum Learning for Neural Networks. Alex Graves, Marc G. Bellemare, Jacob Menick, Remi Munos, Koray Kavukcuoglu [paper](https://arxiv.org/abs/1704.03003) (from Adam)
+
+  * \+ Unsupervised Bilingual Lexicon Induction via Latent Variable Models. Zi-Yi Dou, Zhi-Hao Zhou, Shujian Huang [paper](https://www.aclweb.org/anthology/D18-1062/) (from Adam)
+
+  * \+ Generating Sentences from Disentangled Syntactic and Semantic Spaces. Yu Bao, Hao Zhou, Shujian Huang, Lei Li, Lili Mou, Olga Vechtomova, Xinyu Dai, Jiajun Chen [paper](https://arxiv.org/pdf/1907.05789.pdf) (from Adam)
+
+  * \+ Residual Energy-Based Models for Text Generation. Yuntian Deng, Anton Bakhtin, Myle Ott, Arthur Szlam, Marc'Aurelio Ranzato [paper](https://arxiv.org/abs/2004.11714) (from Adam)
+
+  * \+ Generating Sentences from a Continuous Space. Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio [paper](https://arxiv.org/abs/1511.06349) (from Adam)
+
   * \+ Improving Cross-Modal Alignment in Vision Language Navigation via Syntactic Information. Li, J., Tan, H., & Bansal, M. (2021). In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 1041–1050). Association for Computational Linguistics. [paper](https://www.aclweb.org/anthology/2021.naacl-main.82.pdf) (Recommended by Nikolai, would like to read: Nikolai)
 
   * \+ Measuring Social Biases in Grounded Vision and Language Embeddings. Ross, C., Katz, B., & Barbu, A. (2021). In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 998–1008). Association for Computational Linguistics. [paper](https://www.aclweb.org/anthology/2021.naacl-main.78.pdf) (Recommended by Nikolai, would like to read: Nikolai)
