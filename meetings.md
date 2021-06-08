@@ -23,6 +23,12 @@ permalink: /meetings/
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * \+ A Mutual Information Maximization Perspective of Language Representation Learning. Lingpeng Kong, Cyprien de Masson d'Autume, Wang Ling, Lei Yu, Zihang Dai, Dani Yogatama. [paper](https://arxiv.org/abs/1910.08350) (from Adam, seems reaaaally cool!)
+
+  * \+ Self-Supervised Dialogue Learning. Jiawei Wu, Xin Wang, William Yang Wang. [paper](https://arxiv.org/abs/1907.00448) (from Adam)
+
+  * \+ Norm-Based Curriculum Learning for Neural Machine Translation. Xuebo Liu, Houtim Lai, Derek F. Wong, Lidia S. Chao [paper](https://arxiv.org/abs/2006.02014) (from Adam)
+
   * \+ Curriculum learning.  Bengio, Yoshua and Louradour, J{\'e}r{\^o}me and Collobert, Ronan and Weston, Jason. [paper](https://arxiv.org/abs/1704.03003) (from Adam)
 
   * \+ Automated Curriculum Learning for Neural Networks. Alex Graves, Marc G. Bellemare, Jacob Menick, Remi Munos, Koray Kavukcuoglu [paper](https://arxiv.org/abs/1704.03003) (from Adam)
