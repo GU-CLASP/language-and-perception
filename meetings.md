@@ -23,6 +23,9 @@ permalink: /meetings/
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * \+ Tifrea, A., Bécigneul, G., & Ganea, O.-E. (2018). Poincar\’e GloVe: Hyperbolic Word Embeddings. ArXiv:1810.06546 [Cs]. http://arxiv.org/abs/1810.06546
+(from Bill)
+
   * \+ Mittelman, R., Sun, M., Kuipers, B., & Savarese, S. (2014). A Bayesian generative model for learning semantic hierarchies. Frontiers in Psychology, 5. https://doi.org/10.3389/fpsyg.2014.00417 (from Bill)
 
   * \+ Emerson, G. (2020). What are the Goals of Distributional Semantics? Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, 7436–7453. https://doi.org/10.18653/v1/2020.acl-main.663 (from Bill)
