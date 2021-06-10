@@ -23,6 +23,12 @@ permalink: /meetings/
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * \+ Mittelman, R., Sun, M., Kuipers, B., & Savarese, S. (2014). A Bayesian generative model for learning semantic hierarchies. Frontiers in Psychology, 5. https://doi.org/10.3389/fpsyg.2014.00417 (from Bill)
+
+  * \+ Emerson, G. (2020). What are the Goals of Distributional Semantics? Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, 7436–7453. https://doi.org/10.18653/v1/2020.acl-main.663 (from Bill)
+
+  * \+ Nguyen, D., Rosseel, L., & Grieve, J. (2021). On learning and representing social meaning in NLP: A sociolinguistic perspective. Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, 603–612. https://www.aclweb.org/anthology/2021.naacl-main.50 (from Bill)
+
   * \+ Superbizarre Is Not Superb: Derivational Morphology Improves BERT's Interpretation of Complex Words. Valentin Hofmann, Janet B. Pierrehumbert, Hinrich Schütze [paper](https://arxiv.org/abs/2101.00403) (from Adam)
 
   * \+ Semantic Representation for Dialogue Modeling. Xuefeng Bai, Yulong Chen, Linfeng Song, Yue Zhang. [paper](https://arxiv.org/pdf/2105.10188.pdf) (from Adam)
