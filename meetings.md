@@ -23,12 +23,14 @@ permalink: /meetings/
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
-  * \+ Tifrea, A., Bécigneul, G., & Ganea, O.-E. (2018). Poincar\’e GloVe: Hyperbolic Word Embeddings. ArXiv:1810.06546 [Cs]. http://arxiv.org/abs/1810.06546
-(from Bill)
+  * \+ NeuralLog: Natural Language Inference with Joint Neural and Logical Reasoning. Zeming Chen, Qiyue Gao, Lawrence S. Moss [paper](https://arxiv.org/abs/2105.14167) (from Adam)
 
-  * \+ Mittelman, R., Sun, M., Kuipers, B., & Savarese, S. (2014). A Bayesian generative model for learning semantic hierarchies. Frontiers in Psychology, 5. https://doi.org/10.3389/fpsyg.2014.00417 (from Bill)
+  * \++ Tifrea, A., Bécigneul, G., & Ganea, O.-E. (2018). Poincar\’e GloVe: Hyperbolic Word Embeddings. ArXiv:1810.06546 [Cs]. http://arxiv.org/abs/1810.06546
+(from Bill, would like to read: Adam)
 
-  * \+ Emerson, G. (2020). What are the Goals of Distributional Semantics? Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, 7436–7453. https://doi.org/10.18653/v1/2020.acl-main.663 (from Bill)
+  * \++ Mittelman, R., Sun, M., Kuipers, B., & Savarese, S. (2014). A Bayesian generative model for learning semantic hierarchies. Frontiers in Psychology, 5. https://doi.org/10.3389/fpsyg.2014.00417 (from Bill, would like to read: Adam)
+
+  * \++ Emerson, G. (2020). What are the Goals of Distributional Semantics? Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, 7436–7453. https://doi.org/10.18653/v1/2020.acl-main.663 (from Bill, would like to read: Adam)
 
   * \+ Nguyen, D., Rosseel, L., & Grieve, J. (2021). On learning and representing social meaning in NLP: A sociolinguistic perspective. Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, 603–612. https://www.aclweb.org/anthology/2021.naacl-main.50 (from Bill)
 
