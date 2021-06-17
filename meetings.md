@@ -23,6 +23,8 @@ permalink: /meetings/
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * \+ A Cognitive Regularizer for Language Modeling. Jason Wei, Clara Meister, Ryan Cottorell. [paper](https://arxiv.org/pdf/2105.07144.pdf)
+
   * \+ NeuralLog: Natural Language Inference with Joint Neural and Logical Reasoning. Zeming Chen, Qiyue Gao, Lawrence S. Moss [paper](https://arxiv.org/abs/2105.14167) (from Adam)
 
   * \++ Tifrea, A., Bécigneul, G., & Ganea, O.-E. (2018). Poincar\’e GloVe: Hyperbolic Word Embeddings. ArXiv:1810.06546 [Cs]. http://arxiv.org/abs/1810.06546
