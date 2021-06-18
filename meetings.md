@@ -38,8 +38,6 @@ Please add here any papers (with links) you would like to suggest for the readin
 
   * \+ Superbizarre Is Not Superb: Derivational Morphology Improves BERT's Interpretation of Complex Words. Valentin Hofmann, Janet B. Pierrehumbert, Hinrich Schütze [paper](https://arxiv.org/abs/2101.00403) (from Adam)
 
-  * \+ Semantic Representation for Dialogue Modeling. Xuefeng Bai, Yulong Chen, Linfeng Song, Yue Zhang. [paper](https://arxiv.org/pdf/2105.10188.pdf) (from Adam)
-
   * \+ A Mutual Information Maximization Perspective of Language Representation Learning. Lingpeng Kong, Cyprien de Masson d'Autume, Wang Ling, Lei Yu, Zihang Dai, Dani Yogatama. [paper](https://arxiv.org/abs/1910.08350) (from Adam, seems reaaaally cool!)
 
   * \+ Self-Supervised Dialogue Learning. Jiawei Wu, Xin Wang, William Yang Wang. [paper](https://arxiv.org/abs/1907.00448) (from Adam)
@@ -164,6 +162,8 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
 
 ### Read
+
+  * \+ Semantic Representation for Dialogue Modeling. Xuefeng Bai, Yulong Chen, Linfeng Song, Yue Zhang. [paper](https://arxiv.org/pdf/2105.10188.pdf) (from Adam) 2021-06-18
 
   * \+\+\+ Yuchen Liang, Chaitanya Ryali, Benjamin Hoover, Saket Navlakha, Leopold Grinberg, Mohammed J Zaki, Dmitry Krotov [Can a Fruit Fly Learn Word Embeddings?](https://arxiv.org/pdf/2101.06887.pdf) (Recommended by Adam, would like to read: Robin, Anna, Adam) 2021-06-04  
 
