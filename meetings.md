@@ -19,6 +19,9 @@ permalink: /meetings/
 
 ### Next
 
+  * \+ Trapit Bansal, David Belanger, Andrew McCallum (2016): Ask the GRU: Multi-task Learning for Deep Text Recommendations
+(https://arxiv.org/abs/1609.02116) (recommended by Aram, would like to read: Nikolai)
+
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
@@ -99,9 +102,6 @@ Please add here any papers (with links) you would like to suggest for the readin
   * \+\+ J. Thomason, M. Murray, M. Cakmak, and L. Zettlemoyer. Vision-and-dialog navigation. In Conference on Robot Learning (CoRL), 2019. [paper](https://arxiv.org/abs/1907.04957) (recommended by Simon, would like to read: Simon, Nikolai)
 
   * \+\+ M. Janner, K. Narasimhan, and R. Barzilay. Representation learning for grounded spatial reasoning. Transactions of the Association for Computational Linguistics, 6:49–61, 2018. (recommended by Mehdi, would like to read: Simon, Nikolai) [link](https://www.transacl.org/ojs/index.php/tacl/article/view/1234)
-
-  * \+ Trapit Bansal, David Belanger, Andrew McCallum (2016): Ask the GRU: Multi-task Learning for Deep Text Recommendations
-(https://arxiv.org/abs/1609.02116) (recommended by Aram, would like to read: Nikolai)
 
   * \+ Caglayan, O., Ive, J., Haralampieva, V., Madhyastha, P., Barrault, L., & Specia, L. (2020). [Simultaneous Machine Translation with Visual Context.](http://arxiv.org/abs/2009.07310). EMNLP 2020. (recommended by Nikolai, would like to read: Simon)
 
