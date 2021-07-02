@@ -19,9 +19,6 @@ permalink: /meetings/
 
 ### Next
 
-  * \+ Trapit Bansal, David Belanger, Andrew McCallum (2016): Ask the GRU: Multi-task Learning for Deep Text Recommendations
-(https://arxiv.org/abs/1609.02116) (recommended by Aram, would like to read: Nikolai)
-
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
@@ -162,6 +159,9 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
 
 ### Read
+
+  * \+ Trapit Bansal, David Belanger, Andrew McCallum (2016): Ask the GRU: Multi-task Learning for Deep Text Recommendations
+(https://arxiv.org/abs/1609.02116) (recommended by Aram, would like to read: Nikolai) RoM 2021-07-02
 
   * \+ Semantic Representation for Dialogue Modeling. Xuefeng Bai, Yulong Chen, Linfeng Song, Yue Zhang. [paper](https://arxiv.org/pdf/2105.10188.pdf) (from Adam) 2021-06-18
 
