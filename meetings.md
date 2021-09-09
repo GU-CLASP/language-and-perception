@@ -23,6 +23,8 @@ permalink: /meetings/
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
+  * \+ The Singleton Fallacy: Why Current Critiques of Language Models Miss the Point Magnus Sahlgren (AI Sweden, Stockholm, Sweden) and Fredrik Carlsson 
+(RISE, Stockholm, Sweden) https://doi.org/10.3389/frai.2021.682578 (suggested by Robin)
   * \+ Pay Attention to MLPs. Hanxiao Liu, Zihang Dai, David R. So, Quoc V. Le. (2021). [paper](https://arxiv.org/abs/2105.08050) (from Aram)
   * \+ Visually Grounded Follow-up Questions: a Dataset of Spatial Questions Which Require Dialogue History. Dong, T., Testoni, A., Benotti, L., & Bernardi, R. (2021). In Proceedings of Second International Combined Workshop on Spatial Language Understanding and Grounded Communication for Robotics (pp. 22–31). Association for Computational Linguistics. [paper](https://aclanthology.org/2021.splurobonlp-1.3.pdf) (from Nikolai)
 
