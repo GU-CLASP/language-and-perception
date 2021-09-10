@@ -19,13 +19,17 @@ permalink: /meetings/
 
 ### Next
 
+* \+ The Singleton Fallacy: Why Current Critiques of Language Models Miss the Point Magnus Sahlgren (AI Sweden, Stockholm, Sweden) and Fredrik Carlsson 
+(RISE, Stockholm, Sweden) https://doi.org/10.3389/frai.2021.682578 (suggested by Robin)
+
+* \+ Is it possible for language models to achieve language understanding? Christofer Potts (2020) [blog post](https://chrisgpotts.medium.com/is-it-possible-for-language-models-to-achieve-language-understanding-81df45082ee2) (Recommended by Robin, would like to read: Robin)
+
+
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
 
-  * \+ The Singleton Fallacy: Why Current Critiques of Language Models Miss the Point Magnus Sahlgren (AI Sweden, Stockholm, Sweden) and Fredrik Carlsson 
-(RISE, Stockholm, Sweden) https://doi.org/10.3389/frai.2021.682578 (suggested by Robin)
-  * \+ Pay Attention to MLPs. Hanxiao Liu, Zihang Dai, David R. So, Quoc V. Le. (2021). [paper](https://arxiv.org/abs/2105.08050) (from Aram)
+    * \+ Pay Attention to MLPs. Hanxiao Liu, Zihang Dai, David R. So, Quoc V. Le. (2021). [paper](https://arxiv.org/abs/2105.08050) (from Aram)
   * \+ Visually Grounded Follow-up Questions: a Dataset of Spatial Questions Which Require Dialogue History. Dong, T., Testoni, A., Benotti, L., & Bernardi, R. (2021). In Proceedings of Second International Combined Workshop on Spatial Language Understanding and Grounded Communication for Robotics (pp. 22–31). Association for Computational Linguistics. [paper](https://aclanthology.org/2021.splurobonlp-1.3.pdf) (from Nikolai)
 
   * \+ PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World. Zellers, A., Peters, M., Mottaghi, R., Kembhavi, A., Farhadi, A., & Choi, Y. (2021). In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) (pp. 2040–2050). Association for Computational Linguistics. [paper](https://aclanthology.org/2021.acl-long.159.pdf) (from Nikolai)
@@ -72,8 +76,6 @@ Please add here any papers (with links) you would like to suggest for the readin
   * \+ Implicit Representations of Meaning in Neural Language Models. Belinda Z. Li, Maxwell Nye, & Jacob Andreas. (2021). ACL 2021. [paper](https://arxiv.org/pdf/2106.00737.pdf). (Recommended by Nikolai, would like to read: Nikolai)
 
   * \+ Psycholinguistics Meets Continual Learning: Measuring Catastrophic Forgetting in Visual Question Answering. Greco, C., Plank, B., Fernández, R., & Bernardi, R. (2019). [paper](https://www.aclweb.org/anthology/P19-1350/) In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (pp. 3601–3605). Association for Computational Linguistics. (Recommended by Nikolai, would like to read: Nikolai)
-
-  * \+ Is it possible for language models to achieve language understanding? Christofer Potts (2020) [blog post](https://chrisgpotts.medium.com/is-it-possible-for-language-models-to-achieve-language-understanding-81df45082ee2) (Recommended by Robin, would like to read: Robin)
 
   * \+ Incorporating Structural Alignment Biases into an Attentional Neural Translation Model (2021) Trevor Cohn, Cong Duy Vu Hoang, Ekaterina Vymolova, Kaisheng Yao, Chris Dyer, Gholamreza Haffari [paper](https://www.aclweb.org/anthology/N16-1102/) (Recommended by Adam, would like to read: Adam)
 
