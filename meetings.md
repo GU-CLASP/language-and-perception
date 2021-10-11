@@ -19,11 +19,6 @@ permalink: /meetings/
 
 ### Next
 
-* \+ The Singleton Fallacy: Why Current Critiques of Language Models Miss the Point Magnus Sahlgren (AI Sweden, Stockholm, Sweden) and Fredrik Carlsson 
-(RISE, Stockholm, Sweden) https://doi.org/10.3389/frai.2021.682578 (suggested by Robin)
-
-* \+ Is it possible for language models to achieve language understanding? Christofer Potts (2020) [blog post](https://chrisgpotts.medium.com/is-it-possible-for-language-models-to-achieve-language-understanding-81df45082ee2) (Recommended by Robin, would like to read: Robin)
-
 
 ### Suggestions
 
@@ -169,6 +164,11 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
 
 ### Read
+
+* \+ The Singleton Fallacy: Why Current Critiques of Language Models Miss the Point Magnus Sahlgren (AI Sweden, Stockholm, Sweden) and Fredrik Carlsson 
+(RISE, Stockholm, Sweden) https://doi.org/10.3389/frai.2021.682578 (suggested by Robin) RoM 2021-10-08
+
+* \+ Is it possible for language models to achieve language understanding? Christofer Potts (2020) [blog post](https://chrisgpotts.medium.com/is-it-possible-for-language-models-to-achieve-language-understanding-81df45082ee2) (Recommended by Robin, would like to read: Robin) RoM 2021-10-08
 
   * \+ Trapit Bansal, David Belanger, Andrew McCallum (2016): Ask the GRU: Multi-task Learning for Deep Text Recommendations
 (https://arxiv.org/abs/1609.02116) (recommended by Aram, would like to read: Nikolai) RoM 2021-07-02
