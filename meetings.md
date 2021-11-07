@@ -19,6 +19,7 @@ permalink: /meetings/
 
 ### Next
 
+  * \+ Cangelosi, A., & Harnad, S. (2001). [The adaptive advantage of symbolic theft over sensorimotor toil: Grounding language in perceptual categories.](https://pearl.plymouth.ac.uk/bitstream/handle/10026.1/3619/Cangelosi-Harnad-EoC-2002.pdf?sequence=1&isAllowed=y) Evolution of communication, 4(1), 117-142. (suggested by Alex)
 
 ### Suggestions
 
