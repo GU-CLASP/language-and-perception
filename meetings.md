@@ -165,10 +165,14 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
 ### Read
 
-* \+ The Singleton Fallacy: Why Current Critiques of Language Models Miss the Point Magnus Sahlgren (AI Sweden, Stockholm, Sweden) and Fredrik Carlsson 
+  * \+ Spliethöver, M., & Wachsmuth, H. (2020). [Argument from Old Man's View: Assessing Social Bias in Argumentation.](https://aclanthology.org/2020.argmining-1.9.pdf) In Proceedings of the 7th Workshop on Argument Mining (pp. 76–87). Association for Computational Linguistics. (suggested by Anna/Simon) RoM 2021-11-05
+
+  * \+ Felix Hill, Olivier Tieleman, Tamara von Glehn, Nathaniel Wong, Hamza Merzic, & Stephen Clark (2021). [Grounded Language Learning Fast and Slow.](https://openreview.net/forum?id=wpSWuz_hyqA) In International Conference on Learning Representations. (suggested by Nikolai) LaP/RoM 2021-10-22
+
+  * \+ The Singleton Fallacy: Why Current Critiques of Language Models Miss the Point Magnus Sahlgren (AI Sweden, Stockholm, Sweden) and Fredrik Carlsson 
 (RISE, Stockholm, Sweden) https://doi.org/10.3389/frai.2021.682578 (suggested by Robin) RoM 2021-10-08
 
-* \+ Is it possible for language models to achieve language understanding? Christofer Potts (2020) [blog post](https://chrisgpotts.medium.com/is-it-possible-for-language-models-to-achieve-language-understanding-81df45082ee2) (Recommended by Robin, would like to read: Robin) RoM 2021-10-08
+  * \+ Is it possible for language models to achieve language understanding? Christofer Potts (2020) [blog post](https://chrisgpotts.medium.com/is-it-possible-for-language-models-to-achieve-language-understanding-81df45082ee2) (Recommended by Robin, would like to read: Robin) RoM 2021-10-08
 
   * \+ Trapit Bansal, David Belanger, Andrew McCallum (2016): Ask the GRU: Multi-task Learning for Deep Text Recommendations
 (https://arxiv.org/abs/1609.02116) (recommended by Aram, would like to read: Nikolai) RoM 2021-07-02
@@ -287,6 +291,8 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
   * J. Andreas, M. Rohrbach, T. Darrell, and D. Klein. Learning to compose neural networks for question answering. CoRR, abs/1601.01705:1–10, 2016. [link](https://arxiv.org/abs/1601.01705) (recommended by Mehdi), 2017-09-29
 
 ### Meetings
+
+For more on meetings/notes, check cogsys-wiki repository.
 
 ##### 2017-02-14: Mehdi: Learning to compose spatial relations with grounded recurrent neural language models
 
