@@ -11,3 +11,10 @@ header_pages:
       - courses/apl/apl.md
       - courses/csoc/csoc.md
       - courses/ml-vl/ml-vl.md
+  - path: masters-projects.md
+    sub_pages:
+      - masters-projects/situated-agents.md
+      - masters-projects/spatial-language.md
+      - masters-projects/co-reference.md
+      - masters-projects/situated-agents.md
+      - masters-projects/virtual-assistants.md
