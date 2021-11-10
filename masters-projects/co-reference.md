@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Reference and co-reference resolution in visual dialogue
