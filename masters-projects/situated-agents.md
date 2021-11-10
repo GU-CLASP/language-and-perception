@@ -25,7 +25,7 @@ For students in Masters in Language Technology (MLT), the master thesis would bu
 
 ## Supervisors
 
-Simon Dobnik And Nikolai Ilinykh
+Simon Dobnik and Nikolai Ilinykh
 
 
 ## Literature / previous work
