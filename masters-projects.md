@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Master's projects
+short_title: Master's projects
 permalink: /masters-projects/
 ---
 
