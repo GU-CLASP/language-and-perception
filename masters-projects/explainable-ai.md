@@ -13,9 +13,7 @@ Explore the knowledge captured in (multi-modal) transformer-based language model
 
 Transformers became a state-of-the-art method for handling many NLP tasks, including text-only (machine translation, sentiment analysis) and multi-modal problems (image captioning, visual question answering). Moreover, these models are superior to many other networks (e.g., LSTM), primarily due to their size and self-attention, which allows them to capture semantics on different levels.
 
-However, it is unclear why transformers work so well for many NLP tasks. Although these networks are highly complex, they are less explainable than more traditional NLP approaches (grammars, formalisms).
-
-More recently, a lot of research has been focused on analysing what sort of linguistic knowledge is captured by transformers. So far, BERTology (a field about explaining how transformers learn) has mainly studied attention weights between linguistic input and outputs to the model. Also, probing and gradient-based analysis have been used to examine the impact on particular neurons/parts of the model. Understanding how learning happens in BERT-like models is beneficial for identifying problems such as different biases (e.g., gender, data) that occur very often.
+However, it is unclear why transformers work so well for many NLP tasks. Although these networks are highly complex, they are less explainable than more traditional NLP approaches (grammars, formalisms). More recently, a lot of research has been focused on analysing what sort of linguistic knowledge is captured by transformers. So far, BERTology (a field about explaining how transformers learn) has mainly studied attention weights between linguistic input and outputs to the model. Also, probing and gradient-based analysis have been used to examine the impact on particular neurons/parts of the model. Understanding how learning happens in BERT-like models is beneficial for identifying problems such as different biases (e.g., gender, data) that occur very often.
 
 ## Problem description
 
