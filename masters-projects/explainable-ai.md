@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Explainable multi-modal transformers
-short_title: explainability
+short_title: Explainability
 
 ---
 
