@@ -13,6 +13,13 @@ permalink: /masters-projects/
   - [Virtual assistants: Standsbibliotek and SKANDIBOT](/masters-projects/virtual-assistants.md)
   - [Explainable NLP](/masters-projects/explainable-ai.md)
 
+
+## Forthcoming
+
+  - Yasmeen Emampoor: improving embodied question answering in the HabitatAI task by adding and removing visual and linguistic semantic information
+  - Linea Strand: dialogue turn topic classification on an under-resourced corpus of conversations of patrons with librarians in the Gothenburg City Library [paper](https://gup.ub.gu.se/publication/294807?lang=en)
+  - Robert Rhys Thomas: application of corpus augmentation techniques to deal with a low-resource scenario of the library corpus [paper](https://gup.ub.gu.se/publication/294797?lang=en)
+
 ## Recently completed
 
   - A. Aruqi. Embodied question answering in robotic environment: Automatic generation of a synthetic question-answer data-set. Masters in language technology (mlt), 30 hec, Department of Philosophy, Linguistics and Theory of Science (FLOV), University of Gothenburg, Gothenburg, Sweden, October 28 2021. Supervisor: Simon Dobnik and Nikolai Ilinykh, examiner: Staffan Larsson, opponent: Catherine Viloria. [full text](http://hdl.handle.net/2077/70001)
