@@ -5,7 +5,7 @@ short_title: Master's projects
 permalink: /masters-projects/
 ---
 
-## Ideas and suggestions
+## Suggestions
 
   - [Situated interactive agents](/masters-projects/situated-agents.md)
   - [Computational modelling of spatial descriptions](/masters-projects/spatial-language.md)
@@ -13,7 +13,7 @@ permalink: /masters-projects/
   - [Virtual assistants: Standsbibliotek and SKANDIBOT](/masters-projects/virtual-assistants.md)
   - [Explainable NLP](/masters-projects/explainable-ai.md)
 
-## Recently completed theses
+## Recently completed
 
   - A. Aruqi. Embodied question answering in robotic environment: Automatic generation of a synthetic question-answer data-set. Masters in language technology (mlt), 30 hec, Department of Philosophy, Linguistics and Theory of Science (FLOV), University of Gothenburg, Gothenburg, Sweden, October 28 2021. Supervisor: Simon Dobnik and Nikolai Ilinykh, examiner: Staffan Larsson, opponent: Catherine Viloria. [full text](http://hdl.handle.net/2077/70001)
   - P. Pilipiec. Evaluating natural language processing (nlp) methods to extract knowledge from interview data for nlp project management. Masters in language technology (mlt), 30 hec, Department of Philos- ophy, Linguistics and Theory of Science. University of Gothenburg, Gothenburg, Sweden, July 2 2021. Examiner: Simon Dobnik; supervisors: Eleni Gregoromichelaki; opponent: Axel Almqvist.
