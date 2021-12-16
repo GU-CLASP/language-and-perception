@@ -19,7 +19,7 @@ permalink: /meetings/
 
 ### Next
 
-  * \+ Lampert, C., Nickisch, H., & Harmeling, S. (2014). [Attribute-Based Classification for Zero-Shot Visual Object Categorization.](https://hannes.nickisch.org/papers/articles/lampert13attributes.pdf) IEEE Trans. Pattern Anal. Mach. Intell., 36(3), 453–465. (suggested by Bill) LaP/RoM, 2021-12-17
+  * \+ Lampert, C., Nickisch, H., & Harmeling, S. (2014). [Attribute-Based Classification for Zero-Shot Visual Object Categorization.](https://hannes.nickisch.org/papers/articles/lampert13attributes.pdf) IEEE Trans. Pattern Anal. Mach. Intell., 36(3), 453–465. (suggested by Bill) LaP, 2021-12-17
 
 ### Suggestions
 
