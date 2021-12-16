@@ -19,7 +19,7 @@ permalink: /meetings/
 
 ### Next
 
-  * \+ Cangelosi, A., & Harnad, S. (2001). [The adaptive advantage of symbolic theft over sensorimotor toil: Grounding language in perceptual categories.](https://pearl.plymouth.ac.uk/bitstream/handle/10026.1/3619/Cangelosi-Harnad-EoC-2002.pdf?sequence=1&isAllowed=y) Evolution of communication, 4(1), 117-142. (suggested by Alex) LaP/RoM, 2021-11-19
+  * \+ Lampert, C., Nickisch, H., & Harmeling, S. (2014). [Attribute-Based Classification for Zero-Shot Visual Object Categorization.](https://hannes.nickisch.org/papers/articles/lampert13attributes.pdf) IEEE Trans. Pattern Anal. Mach. Intell., 36(3), 453–465. (suggested by Bill) LaP/RoM, 2021-12-17
 
 ### Suggestions
 
@@ -165,6 +165,8 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
 
 ### Read
+
+  * \+ Cangelosi, A., & Harnad, S. (2001). [The adaptive advantage of symbolic theft over sensorimotor toil: Grounding language in perceptual categories.](https://pearl.plymouth.ac.uk/bitstream/handle/10026.1/3619/Cangelosi-Harnad-EoC-2002.pdf?sequence=1&isAllowed=y) Evolution of communication, 4(1), 117-142. (suggested by Alex) LaP/RoM, 2021-12-03
 
   * \+ Spliethöver, M., & Wachsmuth, H. (2020). [Argument from Old Man's View: Assessing Social Bias in Argumentation.](https://aclanthology.org/2020.argmining-1.9.pdf) In Proceedings of the 7th Workshop on Argument Mining (pp. 76–87). Association for Computational Linguistics. (suggested by Anna/Simon) RoM 2021-11-05
 
