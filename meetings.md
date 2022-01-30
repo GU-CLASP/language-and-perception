@@ -19,8 +19,6 @@ permalink: /meetings/
 
 ### Next
 
-  * \+ Lampert, C., Nickisch, H., & Harmeling, S. (2014). [Attribute-Based Classification for Zero-Shot Visual Object Categorization.](https://hannes.nickisch.org/papers/articles/lampert13attributes.pdf) IEEE Trans. Pattern Anal. Mach. Intell., 36(3), 453–465. (suggested by Bill) LaP, 2021-12-17
-
 ### Suggestions
 
 Please add here any papers (with links) you would like to suggest for the reading group.
@@ -165,6 +163,13 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
 
 ### Read
+
+
+  * \+ Takmaz, E., Giulianelli, M., Pezzelle, S., Sinclair, A., & Fernández, R. (2020). [Refer, Reuse, Reduce: Generating Subsequent References in Visual and Conversational Contexts.](https://aclanthology.org/2020.emnlp-main.353.pdf) In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP) (pp. 4350–4368). Association for Computational Linguistics. AND [Zero-Shot Visual Grounding of Referring Utterances in Dialogue.]((https://openreview.net/forum?id=JcxhaCjSlGz)) Anonymous submission to ACL ARR 2021 November round. (suggested by Simon/Nikolai), LaP, 2022-01-28
+
+  * \+ Lampert, C., Nickisch, H., & Harmeling, S. (2014). [Attribute-Based Classification for Zero-Shot Visual Object Categorization.](https://aclanthology.org/2020.emnlp-main.353.pdf) IEEE Trans. Pattern Anal. Mach. Intell., 36(3), 453–465. (suggested by Bill) LaP, 2021-12-17
+
+  * \+ Lampert, C., Nickisch, H., & Harmeling, S. (2014). [Attribute-Based Classification for Zero-Shot Visual Object Categorization.](https://hannes.nickisch.org/papers/articles/lampert13attributes.pdf) IEEE Trans. Pattern Anal. Mach. Intell., 36(3), 453–465. (suggested by Bill) LaP, 2021-12-17
 
   * \+ Cangelosi, A., & Harnad, S. (2001). [The adaptive advantage of symbolic theft over sensorimotor toil: Grounding language in perceptual categories.](https://pearl.plymouth.ac.uk/bitstream/handle/10026.1/3619/Cangelosi-Harnad-EoC-2002.pdf?sequence=1&isAllowed=y) Evolution of communication, 4(1), 117-142. (suggested by Alex) LaP/RoM, 2021-12-03
 
