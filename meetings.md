@@ -165,7 +165,7 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 ### Read
 
 
-  * \+ Takmaz, E., Giulianelli, M., Pezzelle, S., Sinclair, A., & Fernández, R. (2020). [Refer, Reuse, Reduce: Generating Subsequent References in Visual and Conversational Contexts.](https://aclanthology.org/2020.emnlp-main.353.pdf) In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP) (pp. 4350–4368). Association for Computational Linguistics. AND [Zero-Shot Visual Grounding of Referring Utterances in Dialogue.]((https://openreview.net/forum?id=JcxhaCjSlGz)) Anonymous submission to ACL ARR 2021 November round. (suggested by Simon/Nikolai), LaP, 2022-01-28
+  * \+ Takmaz, E., Giulianelli, M., Pezzelle, S., Sinclair, A., & Fernández, R. (2020). [Refer, Reuse, Reduce: Generating Subsequent References in Visual and Conversational Contexts.](https://aclanthology.org/2020.emnlp-main.353.pdf) In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP) (pp. 4350–4368). Association for Computational Linguistics. AND [Zero-Shot Visual Grounding of Referring Utterances in Dialogue.](https://openreview.net/forum?id=JcxhaCjSlGz) Anonymous submission to ACL ARR 2021 November round. (suggested by Simon/Nikolai), LaP, 2022-01-28
 
   * \+ Lampert, C., Nickisch, H., & Harmeling, S. (2014). [Attribute-Based Classification for Zero-Shot Visual Object Categorization.](https://aclanthology.org/2020.emnlp-main.353.pdf) IEEE Trans. Pattern Anal. Mach. Intell., 36(3), 453–465. (suggested by Bill) LaP, 2021-12-17
 
