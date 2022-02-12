@@ -164,6 +164,7 @@ Center for Brains, Minds and Machines (CBMM) (recommended by Mehdi)
 
 ### Read
 
+  * \+ Ben-Yosef Guy and Ullman Shimon. 2018. [Image interpretation above and below the object level. Interface Focus](http://doi.org/10.1098/rsfs.2018.0020). 8:20180020. 20180020. (suggested by Nikolai/Simon, LaP, 2022-02-11)
 
   * \+ Takmaz, E., Giulianelli, M., Pezzelle, S., Sinclair, A., & Fernández, R. (2020). [Refer, Reuse, Reduce: Generating Subsequent References in Visual and Conversational Contexts.](https://aclanthology.org/2020.emnlp-main.353.pdf) In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP) (pp. 4350–4368). Association for Computational Linguistics. AND [Zero-Shot Visual Grounding of Referring Utterances in Dialogue.](https://openreview.net/forum?id=JcxhaCjSlGz) Anonymous submission to ACL ARR 2021 November round. (suggested by Simon/Nikolai), LaP, 2022-01-28
 
