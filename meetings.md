@@ -10,9 +10,9 @@ permalink: /meetings/
 
   - Participating gives you [course credit](https://gu-clasp.github.io/language-and-perception/courses/).
 
-  - To add a paper suggestion, simply edit me [here](https://github.com/GU-CLASP/language-and-perception/blob/master/meetings.md). If avaiable, prefer links to the published (e.g. ACL) rather than arXiV versions. Papers that are not published online can be uploaded [here](https://linux.dobnik.net/cloud/index.php/s/Z2iPGa28Mexyz24).
+  - To add a paper suggestion, simply edit me [here](https://github.com/GU-CLASP/language-and-perception/blob/master/meetings.md). Consider also adding a bibtex entry [here](https://github.com/GU-CLASP/language-and-perception/blob/master/papers.bib). 
   
-  - To vote for papers, add a + before its entry and write your name in the bracket at the end of the entry. For an example see (Hwang et al. 2020) below.
+  - If available, prefer links to the published (e.g. ACL) rather than arXiV versions. Papers that are not published online can be uploaded [here](https://linux.dobnik.net/cloud/index.php/s/Z2iPGa28Mexyz24).
   
   - Subscribe to [our mailing list](https://listserv.gu.se/sympa/subscribe/cogsys) to follow discussions.
 
@@ -24,54 +24,54 @@ A. Ettinger. [What BERT Is Not: Lessons from a New Suite of Psycholinguistic Dia
 
 ### Suggestions
 
-Please add here any papers (with links) you would like to suggest for the reading group. Consider also adding a bibtex entry [here](https://github.com/GU-CLASP/language-and-perception/blob/master/papers.bib). Papers that have been here for a while might be moved to [the attic](papers-attic.md). 
+Please add here (bibtex [here](https://github.com/GU-CLASP/language-and-perception/blob/master/papers.bib)) any papers you would like to suggest for the reading group. Papers that have been here for a while might be moved to [the attic](papers-attic.md). 
 
   * Author. Year. Paper.
 
 
 ### Read
 
-  * \+ Ben-Yosef Guy and Ullman Shimon. 2018. [Image interpretation above and below the object level. Interface Focus](http://doi.org/10.1098/rsfs.2018.0020). 8:20180020. 20180020. (suggested by Nikolai/Simon, LaP, 2022-02-11)
+  * Ben-Yosef Guy and Ullman Shimon. 2018. [Image interpretation above and below the object level. Interface Focus](http://doi.org/10.1098/rsfs.2018.0020). 8:20180020. 20180020. (suggested by Nikolai/Simon, LaP, 2022-02-11)
 
-  * \+ Takmaz, E., Giulianelli, M., Pezzelle, S., Sinclair, A., & Fernández, R. (2020). [Refer, Reuse, Reduce: Generating Subsequent References in Visual and Conversational Contexts.](https://aclanthology.org/2020.emnlp-main.353.pdf) In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP) (pp. 4350–4368). Association for Computational Linguistics. AND [Zero-Shot Visual Grounding of Referring Utterances in Dialogue.](https://openreview.net/forum?id=JcxhaCjSlGz) Anonymous submission to ACL ARR 2021 November round. (suggested by Simon/Nikolai), LaP, 2022-01-28
+  * Takmaz, E., Giulianelli, M., Pezzelle, S., Sinclair, A., & Fernández, R. (2020). [Refer, Reuse, Reduce: Generating Subsequent References in Visual and Conversational Contexts.](https://aclanthology.org/2020.emnlp-main.353.pdf) In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP) (pp. 4350–4368). Association for Computational Linguistics. AND [Zero-Shot Visual Grounding of Referring Utterances in Dialogue.](https://openreview.net/forum?id=JcxhaCjSlGz) Anonymous submission to ACL ARR 2021 November round. (suggested by Simon/Nikolai), LaP, 2022-01-28
 
-  * \+ Lampert, C., Nickisch, H., & Harmeling, S. (2014). [Attribute-Based Classification for Zero-Shot Visual Object Categorization.](https://aclanthology.org/2020.emnlp-main.353.pdf) IEEE Trans. Pattern Anal. Mach. Intell., 36(3), 453–465. (suggested by Bill) LaP, 2021-12-17
+  * Lampert, C., Nickisch, H., & Harmeling, S. (2014). [Attribute-Based Classification for Zero-Shot Visual Object Categorization.](https://aclanthology.org/2020.emnlp-main.353.pdf) IEEE Trans. Pattern Anal. Mach. Intell., 36(3), 453–465. (suggested by Bill) LaP, 2021-12-17
 
-  * \+ Lampert, C., Nickisch, H., & Harmeling, S. (2014). [Attribute-Based Classification for Zero-Shot Visual Object Categorization.](https://hannes.nickisch.org/papers/articles/lampert13attributes.pdf) IEEE Trans. Pattern Anal. Mach. Intell., 36(3), 453–465. (suggested by Bill) LaP, 2021-12-17
+  * Lampert, C., Nickisch, H., & Harmeling, S. (2014). [Attribute-Based Classification for Zero-Shot Visual Object Categorization.](https://hannes.nickisch.org/papers/articles/lampert13attributes.pdf) IEEE Trans. Pattern Anal. Mach. Intell., 36(3), 453–465. (suggested by Bill) LaP, 2021-12-17
 
-  * \+ Cangelosi, A., & Harnad, S. (2001). [The adaptive advantage of symbolic theft over sensorimotor toil: Grounding language in perceptual categories.](https://pearl.plymouth.ac.uk/bitstream/handle/10026.1/3619/Cangelosi-Harnad-EoC-2002.pdf?sequence=1&isAllowed=y) Evolution of communication, 4(1), 117-142. (suggested by Alex) LaP/RoM, 2021-12-03
+  * Cangelosi, A., & Harnad, S. (2001). [The adaptive advantage of symbolic theft over sensorimotor toil: Grounding language in perceptual categories.](https://pearl.plymouth.ac.uk/bitstream/handle/10026.1/3619/Cangelosi-Harnad-EoC-2002.pdf?sequence=1&isAllowed=y) Evolution of communication, 4(1), 117-142. (suggested by Alex) LaP/RoM, 2021-12-03
 
-  * \+ Spliethöver, M., & Wachsmuth, H. (2020). [Argument from Old Man's View: Assessing Social Bias in Argumentation.](https://aclanthology.org/2020.argmining-1.9.pdf) In Proceedings of the 7th Workshop on Argument Mining (pp. 76–87). Association for Computational Linguistics. (suggested by Anna/Simon) RoM 2021-11-05
+  * Spliethöver, M., & Wachsmuth, H. (2020). [Argument from Old Man's View: Assessing Social Bias in Argumentation.](https://aclanthology.org/2020.argmining-1.9.pdf) In Proceedings of the 7th Workshop on Argument Mining (pp. 76–87). Association for Computational Linguistics. (suggested by Anna/Simon) RoM 2021-11-05
 
-  * \+ Felix Hill, Olivier Tieleman, Tamara von Glehn, Nathaniel Wong, Hamza Merzic, & Stephen Clark (2021). [Grounded Language Learning Fast and Slow.](https://openreview.net/forum?id=wpSWuz_hyqA) In International Conference on Learning Representations. (suggested by Nikolai) LaP/RoM 2021-10-22
+  * Felix Hill, Olivier Tieleman, Tamara von Glehn, Nathaniel Wong, Hamza Merzic, & Stephen Clark (2021). [Grounded Language Learning Fast and Slow.](https://openreview.net/forum?id=wpSWuz_hyqA) In International Conference on Learning Representations. (suggested by Nikolai) LaP/RoM 2021-10-22
 
-  * \+ The Singleton Fallacy: Why Current Critiques of Language Models Miss the Point Magnus Sahlgren (AI Sweden, Stockholm, Sweden) and Fredrik Carlsson 
+  * The Singleton Fallacy: Why Current Critiques of Language Models Miss the Point Magnus Sahlgren (AI Sweden, Stockholm, Sweden) and Fredrik Carlsson 
 (RISE, Stockholm, Sweden) https://doi.org/10.3389/frai.2021.682578 (suggested by Robin) RoM 2021-10-08
 
-  * \+ Is it possible for language models to achieve language understanding? Christofer Potts (2020) [blog post](https://chrisgpotts.medium.com/is-it-possible-for-language-models-to-achieve-language-understanding-81df45082ee2) (Recommended by Robin, would like to read: Robin) RoM 2021-10-08
+  * Is it possible for language models to achieve language understanding? Christofer Potts (2020) [blog post](https://chrisgpotts.medium.com/is-it-possible-for-language-models-to-achieve-language-understanding-81df45082ee2) (Recommended by Robin, would like to read: Robin) RoM 2021-10-08
 
-  * \+ Trapit Bansal, David Belanger, Andrew McCallum (2016): Ask the GRU: Multi-task Learning for Deep Text Recommendations
+  * Trapit Bansal, David Belanger, Andrew McCallum (2016): Ask the GRU: Multi-task Learning for Deep Text Recommendations
 (https://arxiv.org/abs/1609.02116) (recommended by Aram, would like to read: Nikolai) RoM 2021-07-02
 
-  * \+ Semantic Representation for Dialogue Modeling. Xuefeng Bai, Yulong Chen, Linfeng Song, Yue Zhang. [paper](https://arxiv.org/pdf/2105.10188.pdf) (from Adam) 2021-06-18
+  * Semantic Representation for Dialogue Modeling. Xuefeng Bai, Yulong Chen, Linfeng Song, Yue Zhang. [paper](https://arxiv.org/pdf/2105.10188.pdf) (from Adam) 2021-06-18
 
-  * \+\+\+ Yuchen Liang, Chaitanya Ryali, Benjamin Hoover, Saket Navlakha, Leopold Grinberg, Mohammed J Zaki, Dmitry Krotov [Can a Fruit Fly Learn Word Embeddings?](https://arxiv.org/pdf/2101.06887.pdf) (Recommended by Adam, would like to read: Robin, Anna, Adam) 2021-06-04  
+  * Yuchen Liang, Chaitanya Ryali, Benjamin Hoover, Saket Navlakha, Leopold Grinberg, Mohammed J Zaki, Dmitry Krotov [Can a Fruit Fly Learn Word Embeddings?](https://arxiv.org/pdf/2101.06887.pdf) (Recommended by Adam, would like to read: Robin, Anna, Adam) 2021-06-04  
 
-  * \+\+ Vulić, Ivan, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš, and Anna Korhonen. (2020) "Probing pretrained language models for lexical semantics." https://www.aclweb.org/anthology/2020.emnlp-main.586.pdf (Recommended by Felix, would like to read: Simon, Nikolai) 2021-05-21  
+  * Vulić, Ivan, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš, and Anna Korhonen. (2020) "Probing pretrained language models for lexical semantics." https://www.aclweb.org/anthology/2020.emnlp-main.586.pdf (Recommended by Felix, would like to read: Simon, Nikolai) 2021-05-21  
 
-  * \+ William Merrill, Yoav Goldberg, Roy Schwartz, & Noah A. Smith. (2021). Provable Limitations of Acquiring Meaning from Ungrounded Form: What will Future Language Models Understand? [paper](https://arxiv.org/pdf/2104.10809.pdf) TACL (Recommended by Nikolai, would like to read: Nikolai) 2021-05-07  
+  * William Merrill, Yoav Goldberg, Roy Schwartz, & Noah A. Smith. (2021). Provable Limitations of Acquiring Meaning from Ungrounded Form: What will Future Language Models Understand? [paper](https://arxiv.org/pdf/2104.10809.pdf) TACL (Recommended by Nikolai, would like to read: Nikolai) 2021-05-07  
 
-  * \+\+ Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. (http://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf) (Recommended by Anna, would like to read: Anna, Felix) 2021-04-23 
+  * Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. (http://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf) (Recommended by Anna, would like to read: Anna, Felix) 2021-04-23 
 
   * Abhishek Das, Samyak Datta, Georgia Gkioxari, Stefan Lee, Devi Parikh, & Dhruv Batra (2018). Embodied Question Answering. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). [paper](https://embodiedqa.org/paper.pdf) 2021-04-09  
 
-  * \+\+ Herbelot, A., & Vecchi, E. M. (2015). Building a shared world: Mapping distributional to model-theoretic semantic spaces. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (pp. 22-32).(https://www.cl.cam.ac.uk/~ah433/emnlp2015.pdf) (recommended by Staffan, would like to read: Robin, Simon)
+  * Herbelot, A., & Vecchi, E. M. (2015). Building a shared world: Mapping distributional to model-theoretic semantic spaces. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (pp. 22-32).(https://www.cl.cam.ac.uk/~ah433/emnlp2015.pdf) (recommended by Staffan, would like to read: Robin, Simon)
 
-  * \+\+\+\+  Nguyen, Phi & Joty, Shafiq & Hoi, Steven & Socher, Richard. (2020). Tree-structured Attention with Hierarchical Accumulation. [paper](https://openreview.net/forum?id=HJxK5pEYvr) (recommended by Axel, would like to read: Robin, Axel, Simon, Adam)
+  * Nguyen, Phi & Joty, Shafiq & Hoi, Steven & Socher, Richard. (2020). Tree-structured Attention with Hierarchical Accumulation. [paper](https://openreview.net/forum?id=HJxK5pEYvr) (recommended by Axel, would like to read: Robin, Axel, Simon, Adam)
 
-  * \+\+\+\+ Gao, J., Peng, B., Li, C., Li, J., Shayandeh, S., Liden, L., & Shum, H. Y. (2020). Robust conversational ai with grounded text generation. arXiv preprint arXiv:2009.03457. https://arxiv.org/abs/2009.03457 (Recommended by Staffan, would like to read: Robin, Nikolai, Simon, Anna)
+  * Gao, J., Peng, B., Li, C., Li, J., Shayandeh, S., Liden, L., & Shum, H. Y. (2020). Robust conversational ai with grounded text generation. arXiv preprint arXiv:2009.03457. https://arxiv.org/abs/2009.03457 (Recommended by Staffan, would like to read: Robin, Nikolai, Simon, Anna)
 
-  * \+\+\+\+ Vig, J., & Belinkov, Y. (2019). [Analyzing the Structure of Attention in a Transformer Language Model.](https://www.aclweb.org/anthology/W19-4808.pdf). In Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP, pages 63-76, Florence, Italy, August 2019. (recommended by Nikolai, would like to read: Axel, Felix, Anna, Simon) 2021-02-12
+  * Vig, J., & Belinkov, Y. (2019). [Analyzing the Structure of Attention in a Transformer Language Model.](https://www.aclweb.org/anthology/W19-4808.pdf). In Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP, pages 63-76, Florence, Italy, August 2019. (recommended by Nikolai, would like to read: Axel, Felix, Anna, Simon) 2021-02-12
 
  * Katrin Erk and Aurélie Herbelot (2020) How to Marry a Star: probabilistic constraints for meaning in context, https://arxiv.org/pdf/2009.07936.pdf, [revised version](https://drive.google.com/file/d/1BW9VCFAPZdUcO0qRIUNVSDAx3SQwDuy3/view?usp=sharing) from Katrin (recommended by Robin)
 
