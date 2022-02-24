@@ -24,7 +24,7 @@ A. Ettinger. [What BERT Is Not: Lessons from a New Suite of Psycholinguistic Dia
 
 ### Suggestions
 
-Please add here any papers (with links) you would like to suggest for the reading group. Consider also adding a bibtex entry [here](https://github.com/GU-CLASP/language-and-perception/blob/master/papers.bib). Papers that have been here for a while might be moved to [the attic]. 
+Please add here any papers (with links) you would like to suggest for the reading group. Consider also adding a bibtex entry [here](https://github.com/GU-CLASP/language-and-perception/blob/master/papers.bib). Papers that have been here for a while might be moved to [the attic](papers-attic.md). 
 
   * Author. Year. Paper.
 
