@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Papers in the attic
-permalink: /meetings/
+permalink: /papers-attic.html
 ---
 
 Here is a list of papers that were on our list to read but they did not make the schedule. Please feel free to move back any of them to the current list if they are (or become) of interest.
