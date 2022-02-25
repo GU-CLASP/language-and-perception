@@ -165,17 +165,3 @@ Please add here (bibtex [here](https://github.com/GU-CLASP/language-and-percepti
   * H. M. Hersh and A. Caramazza. A fuzzy set approach to modifiers and vagueness in natural language. Journal of Experimental Psychology: General, 105(3):254, 1976. [link](http://www.wjh.harvard.edu/~caram/PDFs/1976_Hersh_Caramazza_JEPG.pdf) (recommended by Staffan) 2017-10-13
 
   * J. Andreas, M. Rohrbach, T. Darrell, and D. Klein. Learning to compose neural networks for question answering. CoRR, abs/1601.01705:1–10, 2016. [link](https://arxiv.org/abs/1601.01705) (recommended by Mehdi), 2017-09-29
-
-### Meetings
-
-For more on meetings/notes, check cogsys-wiki repository.
-
-##### 2017-02-14: Mehdi: Learning to compose spatial relations with grounded recurrent neural language models
-
-  - Mehdi, Haris, Stegrios, Jean-Philippe, Chris, Robin, Yuri and Simon
-  - Several interesting papers to read: [list of cited papers](https://docs.google.com/document/d/1MNzmOq0yAzmNaKSs5RJ6BcOiqEZdVLu5VzbCdg4SktQ/edit?usp=sharing)
-
-##### 2017-02-06: First, kick-off meeting
-
-  - Mehdi, Haris, Chris, Robin and Simon
-  - Areas of language and perception
