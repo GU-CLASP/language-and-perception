@@ -30,21 +30,19 @@ Please add here (bibtex [here](https://github.com/GU-CLASP/language-and-percepti
 
 ### Read
 
-* [Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments.](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.pdf) Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel; Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018, pp. 3674-3683 (suggested by Nikolai, LaP, 2022-04-08)
+  * [Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments.](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.pdf) Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel; Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018, pp. 3674-3683 (suggested by Nikolai, LaP, 2022-04-08)
 
-* Guy Emerson. 2020. [What are the Goals of Distributional Semantics?.](https://aclanthology.org/2020.acl-main.663.pdf) In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 7436–7453, Online. Association for Computational Linguistics. (suggested by Adam, RoM, 2022-03-25)
+  * Guy Emerson. 2020. [What are the Goals of Distributional Semantics?.](https://aclanthology.org/2020.acl-main.663.pdf) In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 7436–7453, Online. Association for Computational Linguistics. (suggested by Adam, RoM, 2022-03-25)
 
-* Tzuf Paz-Argaman, Reut Tsarfaty, Gal Chechik, and Yuval Atzmon. 2020. [ZEST: Zero-shot Learning from Text Descriptions using Textual Similarity and Visual Summarization.](https://aclanthology.org/2020.findings-emnlp.50.pdf) In Findings of the Association for Computational Linguistics: EMNLP 2020, pages 569–579, Online. Association for Computational Linguistics. (suggested by Bill and Nikolai, LaP, 2022-03-11)
+  * Tzuf Paz-Argaman, Reut Tsarfaty, Gal Chechik, and Yuval Atzmon. 2020. [ZEST: Zero-shot Learning from Text Descriptions using Textual Similarity and Visual Summarization.](https://aclanthology.org/2020.findings-emnlp.50.pdf) In Findings of the Association for Computational Linguistics: EMNLP 2020, pages 569–579, Online. Association for Computational Linguistics. (suggested by Bill and Nikolai, LaP, 2022-03-11)
 
-* A. Ettinger. [What BERT Is Not: Lessons from a New Suite of Psycholinguistic Diagnostics for Language Models.](https://doi.org/10.1162/tacl\_a\_00298) Transactions of the Association for Computational Linguistics, 8:34–48, 01 2020. (suggested by Adam, RoM, 2022-02-25)
+  * A. Ettinger. [What BERT Is Not: Lessons from a New Suite of Psycholinguistic Diagnostics for Language Models.](https://doi.org/10.1162/tacl\_a\_00298) Transactions of the Association for Computational Linguistics, 8:34–48, 01 2020. (suggested by Adam, RoM, 2022-02-25)
 
   * Ben-Yosef Guy and Ullman Shimon. 2018. [Image interpretation above and below the object level. Interface Focus](http://doi.org/10.1098/rsfs.2018.0020). 8:20180020. 20180020. (suggested by Nikolai/Simon, LaP, 2022-02-11)
 
   * Takmaz, E., Giulianelli, M., Pezzelle, S., Sinclair, A., & Fernández, R. (2020). [Refer, Reuse, Reduce: Generating Subsequent References in Visual and Conversational Contexts.](https://aclanthology.org/2020.emnlp-main.353.pdf) In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP) (pp. 4350–4368). Association for Computational Linguistics. AND [Zero-Shot Visual Grounding of Referring Utterances in Dialogue.](https://openreview.net/forum?id=JcxhaCjSlGz) Anonymous submission to ACL ARR 2021 November round. (suggested by Simon/Nikolai), LaP, 2022-01-28
 
   * Lampert, C., Nickisch, H., & Harmeling, S. (2014). [Attribute-Based Classification for Zero-Shot Visual Object Categorization.](https://aclanthology.org/2020.emnlp-main.353.pdf) IEEE Trans. Pattern Anal. Mach. Intell., 36(3), 453–465. (suggested by Bill) LaP, 2021-12-17
-
-  * Lampert, C., Nickisch, H., & Harmeling, S. (2014). [Attribute-Based Classification for Zero-Shot Visual Object Categorization.](https://hannes.nickisch.org/papers/articles/lampert13attributes.pdf) IEEE Trans. Pattern Anal. Mach. Intell., 36(3), 453–465. (suggested by Bill) LaP, 2021-12-17
 
   * Cangelosi, A., & Harnad, S. (2001). [The adaptive advantage of symbolic theft over sensorimotor toil: Grounding language in perceptual categories.](https://pearl.plymouth.ac.uk/bitstream/handle/10026.1/3619/Cangelosi-Harnad-EoC-2002.pdf?sequence=1&isAllowed=y) Evolution of communication, 4(1), 117-142. (suggested by Alex) LaP/RoM, 2021-12-03
 
@@ -88,7 +86,7 @@ Please add here (bibtex [here](https://github.com/GU-CLASP/language-and-percepti
  
  * T. Scialom, P. Bordes, P.-A. Dray, J. Staiano, and P. Gallinari. [What BERT sees: Cross-modal transfer for visual question generation.](https://arxiv.org/abs/2002.10832) arXiv, arXiv:2002.10832 [cs.CL]:1–11, November 2 2020. (recommended by Nikolai), 2020-12-04
 
-  * M. Artetxe, G. Labaka, and E. Agirre. [A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings.](https://www.aclweb.org/anthology/P18-1073) In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 789–798, Melbourne, Australia, July 2018. Association for Computational Linguistics. (comes with a video and slides) (Adam)
+ * M. Artetxe, G. Labaka, and E. Agirre. [A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings.](https://www.aclweb.org/anthology/P18-1073) In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 789–798, Melbourne, Australia, July 2018. Association for Computational Linguistics. (comes with a video and slides) (Adam)
     
  * M. Artetxe, G. Labaka, and E. Agirre. [Learning bilingual word embeddings with (almost) no bilingual data.](https://www.aclweb.org/anthology/P17-1042/) In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 451–462, Vancouver, Canada, July 2017. Association for Computational Linguistics. (comes with a video and slides) (recommended by Axel and Adam) 2020-10-16
 
