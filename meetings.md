@@ -19,8 +19,7 @@ permalink: /meetings/
 
 ### Next
 
-A. Ettinger. [What BERT Is Not: Lessons from a New Suite of Psycholinguistic Diagnostics for Language Models.](https://doi.org/10.1162/tacl\_a\_00298) Transactions of the Association for Computational Linguistics, 8:34–48, 01 2020.
-
+* RoM paper, to be decided
 
 ### Suggestions
 
@@ -30,6 +29,14 @@ Please add here (bibtex [here](https://github.com/GU-CLASP/language-and-percepti
 
 
 ### Read
+
+* [Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments.](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.pdf) Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel; Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018, pp. 3674-3683 (suggested by Nikolai, LaP, 2022-04-08)
+
+* Guy Emerson. 2020. [What are the Goals of Distributional Semantics?.](https://aclanthology.org/2020.acl-main.663.pdf) In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 7436–7453, Online. Association for Computational Linguistics. (suggested by Adam, RoM, 2022-03-25)
+
+* Tzuf Paz-Argaman, Reut Tsarfaty, Gal Chechik, and Yuval Atzmon. 2020. [ZEST: Zero-shot Learning from Text Descriptions using Textual Similarity and Visual Summarization.](https://aclanthology.org/2020.findings-emnlp.50.pdf) In Findings of the Association for Computational Linguistics: EMNLP 2020, pages 569–579, Online. Association for Computational Linguistics. (suggested by Bill and Nikolai, LaP, 2022-03-11)
+
+* A. Ettinger. [What BERT Is Not: Lessons from a New Suite of Psycholinguistic Diagnostics for Language Models.](https://doi.org/10.1162/tacl\_a\_00298) Transactions of the Association for Computational Linguistics, 8:34–48, 01 2020. (suggested by Adam, RoM, 2022-02-25)
 
   * Ben-Yosef Guy and Ullman Shimon. 2018. [Image interpretation above and below the object level. Interface Focus](http://doi.org/10.1098/rsfs.2018.0020). 8:20180020. 20180020. (suggested by Nikolai/Simon, LaP, 2022-02-11)
 
