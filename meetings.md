@@ -20,7 +20,7 @@ permalink: /meetings/
 ### Next
 
 * Wang, P., Li, X., & Hammer, P. (2018). [Self in NARS, an AGI System.](https://www.frontiersin.org/articles/10.3389/frobt.2018.00020/full) Frontiers in Robotics and AI, 5 (suggested by Vlad, 2022-04-22).
-* 
+
 
 ### Suggestions
 
