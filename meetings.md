@@ -19,14 +19,15 @@ permalink: /meetings/
 
 ### Next
 
-* RoM paper, to be decided
+* Wang, P., Li, X., & Hammer, P. (2018). [Self in NARS, an AGI System.](https://www.frontiersin.org/articles/10.3389/frobt.2018.00020/full) Frontiers in Robotics and AI, 5 (suggested by Vlad, 2022-04-22).
+* 
 
 ### Suggestions
 
 Please add here (bibtex [here](https://github.com/GU-CLASP/language-and-perception/blob/master/papers.bib)) any papers you would like to suggest for the reading group. Papers that have been here for a while might be moved to [the attic](papers-attic.md). 
 
   * Author. Year. Paper.
-
+  * 
 
 ### Read
 
