@@ -19,8 +19,7 @@ permalink: /meetings/
 
 ### Next
 
-* Wang, P., Li, X., & Hammer, P. (2018). [Self in NARS, an AGI System.](https://www.frontiersin.org/articles/10.3389/frobt.2018.00020/full) Frontiers in Robotics and AI, 5 (suggested by Vlad, 2022-04-22).
-
+* To be decided.
 
 ### Suggestions
 
@@ -30,6 +29,8 @@ Please add here (bibtex [here](https://github.com/GU-CLASP/language-and-percepti
   
 
 ### Read
+
+  * Wang, P., Li, X., & Hammer, P. (2018). [Self in NARS, an AGI System.](https://www.frontiersin.org/articles/10.3389/frobt.2018.00020/full) Frontiers in Robotics and AI, 5 (suggested by Vlad, RoM/LaP, participants: Vidya, Aram, Adam, Eleni, Alex, Vlad, Staffan, Ellen, Robin, Nikolai, Bill, 2022-04-22).
 
   * [Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments.](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.pdf) Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel; Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018, pp. 3674-3683 (suggested by Nikolai, LaP, 2022-04-08)
 
