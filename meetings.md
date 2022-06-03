@@ -30,6 +30,10 @@ Please add here (bibtex [here](https://github.com/GU-CLASP/language-and-percepti
 
 ### Read
 
+  * [Using Natural Language and Program Abstractions to Instill Human Inductive Biases in Machines. (2022).](https://arxiv.org/pdf/2205.11558.pdf) Kumar, Sreejan, Carlos G., Correa, Ishita, Dasgupta, Raja, Marjieh, Michael Y., Hu, Robert D., Hawkins, Nathaniel D., Daw, Jonathan D., Cohen, Karthik, Narasimhan, and Thomas L., Griffiths. (suggested by Robin, RoM/LaP, participants: Vidya, Aram, Amandine, Robin, Nikolai, Simon, 2022-06-03).
+
+  * Lalchand Pandia, Yan Cong, and Allyson Ettinger. [Pragmatic competence of pre-trained language models through the lens of discourse connectives.](https://aclanthology.org/2021.conll-1.29.pdf). CoNLL 2021. (suggested by Nikolai, RoM, participants: Nikolai, Simon, Bill, Aram, Robin, 2022-05-06).
+
   * Wang, P., Li, X., & Hammer, P. (2018). [Self in NARS, an AGI System.](https://www.frontiersin.org/articles/10.3389/frobt.2018.00020/full) Frontiers in Robotics and AI, 5 (suggested by Vlad, RoM/LaP, participants: Vidya, Aram, Adam, Eleni, Alex, Vlad, Staffan, Ellen, Robin, Nikolai, Bill, 2022-04-22).
 
   * [Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments.](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.pdf) Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel; Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018, pp. 3674-3683 (suggested by Nikolai, LaP, 2022-04-08)
