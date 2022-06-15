@@ -26,6 +26,7 @@ permalink: /meetings/
 Please add here (bibtex [here](https://github.com/GU-CLASP/language-and-perception/blob/master/papers.bib)) any papers you would like to suggest for the reading group. Papers that have been here for a while might be moved to [the attic](papers-attic.md). 
 
   * Author. Year. Paper.
+  *  J. H. Lee, M. Kerzel, K. Ahrens, C. Weber, and S. Wermter. [What is right for me is not yet right for you: A dataset for grounding relative directions via multi-task learning.](https://arxiv.org/abs/2205.02671) arXiv, arXiv:2205.02671 [cs.CV], 2022. [Dataset](https://github.com/knowledgetechnologyuhh/grid-3d)
   
 
 ### Read
