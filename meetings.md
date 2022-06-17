@@ -19,7 +19,7 @@ permalink: /meetings/
 
 ### Next
 
-* To be decided.
+* ACL 2022 highlights, 2022-07-01.
 
 ### Suggestions
 
@@ -30,6 +30,8 @@ Please add here (bibtex [here](https://github.com/GU-CLASP/language-and-percepti
   
 
 ### Read
+
+  * [Norm Participation Grounds Language.](https://arxiv.org/pdf/2206.02885.pdf) David Schlangen, 2022. arXiv pre-print. (suggested by ..., RoM, participants: Staffan, Alex, Elham, Vidya, Amandine, Bill, Chris, Robin, Aram, Simon, Nikolai).
 
   * [Using Natural Language and Program Abstractions to Instill Human Inductive Biases in Machines. (2022).](https://arxiv.org/pdf/2205.11558.pdf) Kumar, Sreejan, Carlos G., Correa, Ishita, Dasgupta, Raja, Marjieh, Michael Y., Hu, Robert D., Hawkins, Nathaniel D., Daw, Jonathan D., Cohen, Karthik, Narasimhan, and Thomas L., Griffiths. (suggested by Robin, RoM/LaP, participants: Vidya, Aram, Amandine, Robin, Nikolai, Simon, Elham, 2022-06-03).
 
