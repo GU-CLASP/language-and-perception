@@ -79,7 +79,9 @@ it means that you would spend working on it for 5 weeks full-time or
 
 ## Submitting your work
 
-For each course that you are taking, create a private Github
+Because you have an individual course plan it is important that **you** keep a good record of what you have done. _No record and materials to show your work - no credit!_ It is also recommended that you do this as you go along and check with the teachers what counts for what course and not wait until the end when you might already forget or loose important code and notes or it may happen that the work is not related to the course content.
+
+Therefore, for each course that you are taking, create a private Github
 repository and add Simon (`sdobnik`) as a collaborator as soon as you
 start with the course.
 
