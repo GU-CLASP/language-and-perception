@@ -12,16 +12,21 @@ permalink: /masters-projects/
   - [Reference and co-reference resolution in visual dialogue](/masters-projects/co-reference.md)
   - [Virtual assistants: Standsbibliotek and SKANDIBOT](/masters-projects/virtual-assistants.md)
   - [Explainable NLP](/masters-projects/explainable-ai.md)
+  - [Biases, ethics and multi-modality](/masters-projects/biases.md)
 
 
 ## Forthcoming
 
-  - Yasmeen Emampoor: improving embodied question answering in the HabitatAI task by adding and removing visual and linguistic semantic information
+  - Bérénice Le Glouanec: improving embodied question answering models by making them focused on salient objects in the scene
+  - Kamaneh Akhavan: focusing on spatial top-down and bottom-up representations about the environment in embodied question answering task and examining their contribution to model's accuracy
+  - Jacob Coles: examining the effect of different geometric representations (2D vs 3D) for the task of image captioning and generation of longer texts
+
   - Linea Strand: dialogue turn topic classification on an under-resourced corpus of conversations of patrons with librarians in the Gothenburg City Library [paper](https://gup.ub.gu.se/publication/294807?lang=en)
   - Robert Rhys Thomas: application of corpus augmentation techniques to deal with a low-resource scenario of the library corpus [paper](https://gup.ub.gu.se/publication/294797?lang=en)
 
 ## Recently completed
 
+  - Y. Emampoor.There’s a Microwave in the Hallway. Masters in language technology (mlt), 30 hec, Department of Philosophy, Linguistics and Theory of Science (FLOV), University of Gothenburg, Gothenburg, Sweden. Supervisor: Simon Dobnik and Nikolai Ilinykh. [full text](https://hdl.handle.net/2077/71400)https://gupea.ub.gu.se/handle/2077/71400
   - A. Aruqi. Embodied question answering in robotic environment: Automatic generation of a synthetic question-answer data-set. Masters in language technology (mlt), 30 hec, Department of Philosophy, Linguistics and Theory of Science (FLOV), University of Gothenburg, Gothenburg, Sweden, October 28 2021. Supervisor: Simon Dobnik and Nikolai Ilinykh, examiner: Staffan Larsson, opponent: Catherine Viloria. [full text](http://hdl.handle.net/2077/70001)
   - P. Pilipiec. Evaluating natural language processing (nlp) methods to extract knowledge from interview data for nlp project management. Masters in language technology (mlt), 30 hec, Department of Philos- ophy, Linguistics and Theory of Science. University of Gothenburg, Gothenburg, Sweden, July 2 2021. Examiner: Simon Dobnik; supervisors: Eleni Gregoromichelaki; opponent: Axel Almqvist.
   - T. Hoffmann. Quantum models for word- sense disambiguation. Master thesis, Department of Physics, Chalmers University of Technology, Gothenburg, Sweden, January 12 2021. Supervisor: Mats Granath, Simon Dobnik, and David Fitzek. [full text](https://hdl.handle.net/20.500.12380/302687)
