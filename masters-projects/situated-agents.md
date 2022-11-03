@@ -16,10 +16,12 @@ Situated agents or robots must be able to interact with the physical environment
 
   - T1. Sensory observations of a robot may be incomplete due to errors that robot's sensors or actuators introduce or simply because the robot has not explored and mapped the entire world yet. Can a robot query a human about the missing knowledge linguistically? How can this information be used with the classification models of its perception and action?
   - T2. What are the interaction strategies in the tutor-robot scenario, how they can be implemented in the ML model and how effective they are?
-  - T2. How can a pre-trained knowledge (for example, features trained with deep learning) from a large collection of image/RGB-D data) help the robot learn objects presented to them, and more successfully? What machine learning models should we use?
+  - T3. How can a pre-trained knowledge (for example, features trained with deep learning) from a large collection of image/RGB-D data) help the robot learn objects presented to them, and more successfully? What machine learning models should we use?
+  - T4. How do situated agents ``acquire'' the knowledge about the world and how do they keep learning continuously? In one of the project, we will look at how different word classes are learned with embodied agents. For more information and examples, read [Grounded language learning fast and slow](https://arxiv.org/pdf/2009.01719.pdf) and [Multi-agent cooperation and the emergence of (natural) language](https://arxiv.org/pdf/1612.07182.pdf).
 
 These tasks can be explored in a real-life scenario with [our system based on the Kinect sensor](https://aclanthology.org/W17-0219/), a virtual environment/robot [Habitat AI](https://aihabitat.org) or, if you feel adventurous, the Unity game engine.
 
+More recently, we published a paper with one of the students (Yasmeen Emampoor) on the role of visual modality in embodied question answering task, the task that is inherently interactive and involves navigation. The paper is available [here](https://github.com/GU-CLASP/embodied-qa/blob/main/papers/inlg-2022/paper.pdf).
 
 
 ## Recommended knowledge and skills
