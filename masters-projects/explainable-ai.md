@@ -7,7 +7,7 @@ short_title: Explainability
 
 ## Goal
 
-Explore the knowledge captured in (multi-modal) transformer-based language models. Look at how different modalities are fused (information fusion) in the transformer and how does it affect the grounding of modalities into one another. Also, examine how this knowledge can be explained or interpreted with either purely technical methods or analysis based on insights from cognitive science and related disciplines.
+Explore the knowledge captured in uni-modal or multi-modal transformer-based language models. Look at how different modalities are fused (information fusion) in the transformer and how does it affect the grounding of modalities into one another. Also, examine how this knowledge can be explained or interpreted with either purely technical methods or analysis based on insights from cognitive science and related disciplines.
 
 ## Background
 
@@ -21,6 +21,7 @@ However, it is unclear why transformers work so well for many NLP tasks. Althoug
 
   - T1. Examine attention weights in the multi-modal transformer and inspect grounding of two modalities into one another, looking at each modality's impact on the task. For example, examine how much functional and perceptual knowledge is contained in a large trained transformer and how complete this knowledge is.
   - T2. Analyse gradients or use a probing classifier to inspect how the knowledge captured in large language models can be extracted. The focus here is on understanding what is missing in large language models and how this knowledge can be imported from other sources (e.g., other modalities, world knowledge).
+  - T3. Develop linguistic test suits and cognitively inspired testing benchmarks and test language models for presence of specific knowledge based on models' performance on these suits (example: [Findings of ACL 2022 paper](https://aclanthology.org/2022.findings-acl.320.pdf)).
 
 For examples of research in this direction, you can examine [one of our papers](https://iwcs2021.github.io/proceedings/mmsr/pdf/2021.mmsr-1.5.pdf) and [some other papers](https://aclanthology.org/2020.tacl-1.54/).
 
