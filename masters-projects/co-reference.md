@@ -21,6 +21,8 @@ Co-reference resolution has been studied and modelled extensively in the textual
   - T3. Depending on the previous steps, for (a) do a corpus and statistical feature analysis of the annotations in relation to their predictability of co-reference, or for (b) train a supervised text and vision classification model for reference and co-reference resolution.
   - T4. Compare reference and co-reference startegies between different corpora.
 
+See S. Dobnik, N. Ilinykh, and A. Karimi. [What to refer to and when? reference and re-reference in two language-and-vision tasks.](https://semdial2022.github.io/includes/DubDial_Proceedings.pdf) In E. Gregoromichelaki, J. Hough, and J. D. Kelleher, editors, Proceedings of DubDial - Semdial 2022: The 26th Workshop on the Semantics and Pragmatics of Dialogue, Proceedings (SemDial), pages 146–159, Dublin, Ireland, August 22–24 2022.
+
 
 ## Recommended knowledge and skills
 
@@ -38,5 +40,5 @@ A potential candidate should be comfortable in programming with Python, machine 
 
 ## Supervisors
 
-Simon Dobnik and Sharid Loáiciga
+Simon Dobnik, Nikolai Ilinykh, and Aram Karimi
 
