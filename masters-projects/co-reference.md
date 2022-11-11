@@ -23,6 +23,11 @@ Co-reference resolution has been studied and modelled extensively in the textual
 
 See S. Dobnik, N. Ilinykh, and A. Karimi. [What to refer to and when? reference and re-reference in two language-and-vision tasks.](https://semdial2022.github.io/includes/DubDial_Proceedings.pdf) In E. Gregoromichelaki, J. Hough, and J. D. Kelleher, editors, Proceedings of DubDial - Semdial 2022: The 26th Workshop on the Semantics and Pragmatics of Dialogue, Proceedings (SemDial), pages 146–159, Dublin, Ireland, August 22–24 2022.
 
+![image](scene-participant-1.png)
+
+N. Ilinykh, S. Zarrieß, and D. Schlangen. Tell me more: A dataset of visual scene description sequences. In Proceedings of the 12th International Conference on Natural Language Generation, pages 152–157, Tokyo, Japan, Oct.–Nov. 2019. Association for Computational Linguistics.
+
+![image](tell-me-more.png)
 
 ## Recommended knowledge and skills
 
