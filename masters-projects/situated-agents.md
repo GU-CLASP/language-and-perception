@@ -21,6 +21,8 @@ Situated agents or robots must be able to interact with the physical environment
 
 These tasks can be explored in a real-life scenario with [our system based on the Kinect sensor](https://aclanthology.org/W17-0219/), a virtual environment/robot [Habitat AI](https://aihabitat.org) or, if you feel adventurous, the Unity game engine.
 
+<iframe id="kmsembed-0_ab8jb62z" width="722" height="406" src="https://play.gu.se/embed/secure/iframe/entryId/0_ab8jb62z/uiConfId/23450401" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
+
 More recently, we published a paper with one of the students (Yasmeen Emampoor) on the role of visual modality in embodied question answering task, the task that is inherently interactive and involves navigation. The paper is available [here](https://github.com/GU-CLASP/embodied-qa/blob/main/papers/inlg-2022/paper.pdf).
 
 
