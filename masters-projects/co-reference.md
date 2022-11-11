@@ -25,7 +25,7 @@ See S. Dobnik, N. Ilinykh, and A. Karimi. [What to refer to and when? reference 
 
 ![image](scene-participant-1.png)
 
-N. Ilinykh, S. Zarrieß, and D. Schlangen. Tell me more: A dataset of visual scene description sequences. In Proceedings of the 12th International Conference on Natural Language Generation, pages 152–157, Tokyo, Japan, Oct.–Nov. 2019. Association for Computational Linguistics.
+N. Ilinykh, S. Zarrieß, and D. Schlangen. T[ell me more: A dataset of visual scene description sequences.](https://www.aclweb.org/anthology/W19-8621) In Proceedings of the 12th International Conference on Natural Language Generation, pages 152–157, Tokyo, Japan, Oct.–Nov. 2019. Association for Computational Linguistics.
 
 ![image](tell-me-more.png)
 
