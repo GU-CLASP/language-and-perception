@@ -31,6 +31,8 @@ Please add here (bibtex [here](https://github.com/GU-CLASP/language-and-percepti
 
 ### Read
 
+  * [Entropy minimization in emergent languages.](https://dl.acm.org/doi/pdf/10.5555/3524938.3525422) E. Kharitonov, R. Chaabouni, D. Bouchacourt, and M. Baroni. In H. D. III and A. Singh, editors, Proceedings of the 37th International Conference on Machine Learning, volume 119 of Proceedings of Machine Learning Research, pages 5220–5230. PMLR, 13–18 Jul 2020. Participants: Adam, Nikolai, Alex, Aram, Robin, Elham, Simon. 2022-11-18.
+
   * [(Re)construing meaning in NLP.](https://aclanthology.org/2020.acl-main.462) S. Trott, T. T. Torrent, N. Chang, and N. Schneider. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 5170–5184, Online, July 2020. Association for Computational Linguistics. Participants: Alex, Robin, Vidya, Adam, Katya, Tiago, Simon, Nikolai, Staffan, Dominik. 2022-12-16.
 
   * [Norm Participation Grounds Language.](https://arxiv.org/pdf/2206.02885.pdf) David Schlangen, 2022. arXiv pre-print. (suggested by ..., RoM, participants: Staffan, Alex, Elham, Vidya, Amandine, Bill, Chris, Robin, Aram, Simon, Nikolai).
