@@ -19,7 +19,6 @@ permalink: /meetings/
 
 ### Next
 
-* ACL 2022 highlights, 2022-07-01.
 
 ### Suggestions
 
@@ -27,13 +26,12 @@ Please add here (bibtex [here](https://github.com/GU-CLASP/language-and-percepti
 
   * Author. Year. Paper.
   *  J. H. Lee, M. Kerzel, K. Ahrens, C. Weber, and S. Wermter. [What is right for me is not yet right for you: A dataset for grounding relative directions via multi-task learning.](https://arxiv.org/abs/2205.02671) arXiv, arXiv:2205.02671 [cs.CV], 2022. [Dataset](https://github.com/knowledgetechnologyuhh/grid-3d)
-  
 
 ### Read
 
-  * [Entropy minimization in emergent languages.](https://dl.acm.org/doi/pdf/10.5555/3524938.3525422) E. Kharitonov, R. Chaabouni, D. Bouchacourt, and M. Baroni. In H. D. III and A. Singh, editors, Proceedings of the 37th International Conference on Machine Learning, volume 119 of Proceedings of Machine Learning Research, pages 5220–5230. PMLR, 13–18 Jul 2020. Participants: Adam, Nikolai, Alex, Aram, Robin, Elham, Simon. 2022-11-18.
-
   * [(Re)construing meaning in NLP.](https://aclanthology.org/2020.acl-main.462) S. Trott, T. T. Torrent, N. Chang, and N. Schneider. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 5170–5184, Online, July 2020. Association for Computational Linguistics. Participants: Alex, Robin, Vidya, Adam, Katya, Tiago, Simon, Nikolai, Staffan, Dominik. 2022-12-16.
+
+  * [Entropy minimization in emergent languages.](https://dl.acm.org/doi/pdf/10.5555/3524938.3525422) E. Kharitonov, R. Chaabouni, D. Bouchacourt, and M. Baroni. In H. D. III and A. Singh, editors, Proceedings of the 37th International Conference on Machine Learning, volume 119 of Proceedings of Machine Learning Research, pages 5220–5230. PMLR, 13–18 Jul 2020. Participants: Adam, Nikolai, Alex, Aram, Robin, Elham, Simon. 2022-11-18.
 
   * [Norm Participation Grounds Language.](https://arxiv.org/pdf/2206.02885.pdf) David Schlangen, 2022. arXiv pre-print. (suggested by ..., RoM, participants: Staffan, Alex, Elham, Vidya, Amandine, Bill, Chris, Robin, Aram, Simon, Nikolai).
 
