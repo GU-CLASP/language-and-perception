@@ -19,6 +19,8 @@ permalink: /meetings/
 
 ### Next
 
+  *  Jacob Andreas. [Language Models as Agent Models](https://arxiv.org/pdf/2212.01681v1.pdf). Findings of EMNLP 2022. Suggested by Nikolai. Date: 13-01-2023. Participants:
+
 
 ### Suggestions
 
