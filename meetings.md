@@ -28,6 +28,8 @@ Please add here (bibtex [here](https://github.com/GU-CLASP/language-and-percepti
 
   * Author. Year. Paper.
   *  J. H. Lee, M. Kerzel, K. Ahrens, C. Weber, and S. Wermter. [What is right for me is not yet right for you: A dataset for grounding relative directions via multi-task learning.](https://arxiv.org/abs/2205.02671) arXiv, arXiv:2205.02671 [cs.CV], 2022. [Dataset](https://github.com/knowledgetechnologyuhh/grid-3d)
+  *  A. Ji, N. Kojima, N. Rush, A. Suhr, W. K. Vong, R. D. Hawkins, and Y. Artzi. [Abstract visual reasoning with tangram shapes.](https://arxiv.org/abs/2211.16492) arXiv, arXiv:2211.16492 [cs.CL], November 29 2022.
+
 
 ### Read
 
