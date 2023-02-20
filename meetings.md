@@ -28,6 +28,8 @@ Please add here (bibtex [here](https://github.com/GU-CLASP/language-and-percepti
 
   * Author. Year. Paper.
   *  J. H. Lee, M. Kerzel, K. Ahrens, C. Weber, and S. Wermter. [What is right for me is not yet right for you: A dataset for grounding relative directions via multi-task learning.](https://arxiv.org/abs/2205.02671) arXiv, arXiv:2205.02671 [cs.CV], 2022. [Dataset](https://github.com/knowledgetechnologyuhh/grid-3d)
+  *  Y. Liu and G. Emerson. [Learning functional distributional semantics with visual data.](https://aclanthology.org/2022.acl-long.275) In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 3976–3988, Dublin, Ireland, May 2022. Association for Computational Linguistics.
+  *  F. Liu, G. Emerson, and N. Collier. [Visual spatial reasoning.](https://arxiv.org/abs/2205.00363) arXiv, arXiv:2205.00363 [cs.CL], 2022.
   *  A. Ji, N. Kojima, N. Rush, A. Suhr, W. K. Vong, R. D. Hawkins, and Y. Artzi. [Abstract visual reasoning with tangram shapes.](https://arxiv.org/abs/2211.16492) arXiv, arXiv:2211.16492 [cs.CL], November 29 2022.
 
 
