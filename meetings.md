@@ -30,10 +30,17 @@ Please add here (bibtex [here](https://github.com/GU-CLASP/language-and-percepti
   *  J. H. Lee, M. Kerzel, K. Ahrens, C. Weber, and S. Wermter. [What is right for me is not yet right for you: A dataset for grounding relative directions via multi-task learning.](https://arxiv.org/abs/2205.02671) arXiv, arXiv:2205.02671 [cs.CV], 2022. [Dataset](https://github.com/knowledgetechnologyuhh/grid-3d)
   *  Y. Liu and G. Emerson. [Learning functional distributional semantics with visual data.](https://aclanthology.org/2022.acl-long.275) In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 3976–3988, Dublin, Ireland, May 2022. Association for Computational Linguistics.
   *  F. Liu, G. Emerson, and N. Collier. [Visual spatial reasoning.](https://arxiv.org/abs/2205.00363) arXiv, arXiv:2205.00363 [cs.CL], 2022.
-  *  A. Ji, N. Kojima, N. Rush, A. Suhr, W. K. Vong, R. D. Hawkins, and Y. Artzi. [Abstract visual reasoning with tangram shapes.](https://arxiv.org/abs/2211.16492) arXiv, arXiv:2211.16492 [cs.CL], November 29 2022.
 
 
 ### Read
+
+  * J. Andreas and D. Klein. [Analogs of linguistic structure in deep representations.](https://aclanthology.org/D17-1311) In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pages 2893–2897, Copenhagen, Denmark, Sept. 2017. Association for Computational Linguistics. Participants: Adam, Nikolai, Alex, Vidya and Simon
+
+  * A. Ji, N. Kojima, N. Rush, A. Suhr, W. K. Vong, R. Hawkins, and Y. Artzi. [Abstract visual reasoning with tangram shapes.](https://aclanthology.org/2022.emnlp-main.38) In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, pages 582–601, Abu Dhabi, United Arab Emirates, Dec. 2022. Association for Computational Linguistics. [video](https://youtu.be/hCmX8ZFIVf8) [arXiV](https://arxiv.org/abs/2211.16492) Participants: Nikolai, Adam, Elham, Katya, Elen and Simon
+
+  * J. Wei, X. Wang, D. Schuurmans, M. Bosma, E. H. Chi, Q. Le, and D. Zhou. [Chain of thought prompting elicits reasoning in large language models.]( https://arxiv.org/pdf/2201.11903.pdf) arXiv, arXiv:2201.11903 [cs.CL]:1–43, 2022. Participants: Alex, Staffan, Vidya and Simon
+
+  * J. Andreas. [Language models as agent models.](https://arxiv.org/abs/2212.01681) arXiv, arXiv:2212.01681 [cs.CL], December 3 2022. Participants: Aram, Staffan, Robin, Adam, Vidya, Bill, Alex, Simon and Nikolai
 
   * [(Re)construing meaning in NLP.](https://aclanthology.org/2020.acl-main.462) S. Trott, T. T. Torrent, N. Chang, and N. Schneider. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 5170–5184, Online, July 2020. Association for Computational Linguistics. Participants: Alex, Robin, Vidya, Adam, Katya, Tiago, Simon, Nikolai, Staffan, Dominik. 2022-12-16.
 
