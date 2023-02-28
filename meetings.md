@@ -19,7 +19,8 @@ permalink: /meetings/
 
 ### Next
 
-  *  Jacob Andreas. [Language Models as Agent Models](https://arxiv.org/pdf/2212.01681v1.pdf). Findings of EMNLP 2022. Suggested by Nikolai. Date: 13-01-2023. Participants:
+  * P. Lison, J. Barnes, and A. Hubin. [skweak: Weak supervision made easy for NLP.](https://aclanthology.org/2021.acl-demo.40) In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations, pages 337–346, Online, Aug. 2021. Association for Computational Linguistics.
+
 
 
 ### Suggestions
@@ -40,7 +41,7 @@ Please add here (bibtex [here](https://github.com/GU-CLASP/language-and-percepti
 
   * J. Wei, X. Wang, D. Schuurmans, M. Bosma, E. H. Chi, Q. Le, and D. Zhou. [Chain of thought prompting elicits reasoning in large language models.]( https://arxiv.org/pdf/2201.11903.pdf) arXiv, arXiv:2201.11903 [cs.CL]:1–43, 2022. Participants: Alex, Staffan, Vidya and Simon
 
-  * J. Andreas. [Language models as agent models.](https://arxiv.org/abs/2212.01681) arXiv, arXiv:2212.01681 [cs.CL], December 3 2022. Participants: Aram, Staffan, Robin, Adam, Vidya, Bill, Alex, Simon and Nikolai
+  * J. Andreas. [Language models as agent models.](https://arxiv.org/abs/2212.01681) arXiv, arXiv:2212.01681 [cs.CL], December 3 2022. Suggested by Nikolai. Participants: Aram, Staffan, Robin, Adam, Vidya, Bill, Alex, Simon and Nikolai
 
   * [(Re)construing meaning in NLP.](https://aclanthology.org/2020.acl-main.462) S. Trott, T. T. Torrent, N. Chang, and N. Schneider. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 5170–5184, Online, July 2020. Association for Computational Linguistics. Participants: Alex, Robin, Vidya, Adam, Katya, Tiago, Simon, Nikolai, Staffan, Dominik. 2022-12-16.
 
