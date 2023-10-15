@@ -30,7 +30,7 @@ The workshop represents the first forum following the discussions at several Swe
 
 ### Submissions
 
-Submissions should follow the ACL formatting template (https://2023.aclweb.org/calls/style_and_formatting/), should be in English and contain full contact information of the presenter(s). Authors are also encouraged to submit any other information that they would like to discuss and share about this topic, in particular if it is relevant for the preperation of the course.
+Submissions should follow [the ACL formatting template](https://2023.aclweb.org/calls/style_and_formatting/), should be in English and contain full contact information of the presenter(s). Authors are also encouraged to submit any other information that they would like to discuss and share about this topic, in particular if it is relevant for the preperation of the course.
 
 Please upload your submissions (zipped in a file name.surname.zip) with your full contact details [here](https://linux.dobnik.net/cloud/s/dwn7nmY68aEjatK).
 
@@ -46,7 +46,7 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
 Please register for the workshop using the following link (coming soon)
 
-Because of its interactive nature, the workshop will be on-site only. However, future events are planned also for online participation. To be informed about these, please subscribe to our [mailing list](https://listserv.gu.se/sympa/subscribe/ethics-for-nlp). (<https://listserv.gu.se/sympa/subscribe/ethics-for-nlp>)
+Because of its interactive nature, the workshop will be on-site only. However, future events are planned also for online participation. To be informed about these, please subscribe to our [mailing list](https://listserv.gu.se/sympa/subscribe/ethics-for-nlp). 
 
 ### Workshop organisers
 
