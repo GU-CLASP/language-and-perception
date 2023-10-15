@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Events
-short_title: Events
 permalink: /events/
 ---
 
