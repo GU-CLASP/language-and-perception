@@ -3,9 +3,8 @@ layout: page
 title: Ethics for NLP: Workshop on ethics for research and teaching in natural language processing
 short_title: Ethics for NLP
 ---
-## Ethics for NLP: Workshop on ethics for research and teaching in natural language processing
 
-<img align="right" width="200" src="ethics-for-nlp-480.jpg"/>
+<img align="right" width="320" src="ethics-for-nlp-480.jpg"/>
 
 * Date: 23rd January 2024
 * Location: Humanisten, [Department of Pholosophy, Linguistics and Theory of Science (FLoV)](https://www.gu.se/flov/om-oss/kontakt), University of Gothenburg, room J335
