@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Ethics for NLP - Workshop on ethics for research and teaching in natural language processing
-short_title: Ethics for NLP
+title: Workshop on ethics for research and teaching in natural language processing
+short_title: Ethics4NLP
 permalink: /events/ethics-for-nlp/
 ---
 
 <img align="right" width="480" src="ethics-for-nlp-480.jpg"/>
 
-Organied by Stockholm, Uppsala and Umeå interest group in ethics for NLP
+Organied by the Stockholm, Uppsala and Umeå interest group in ethics for NLP
 
 * Date: 23rd January 2024
 * Location: Humanisten, [Department of Pholosophy, Linguistics and Theory of Science (FLoV)](https://www.gu.se/flov/om-oss/kontakt), University of Gothenburg, room J335
@@ -66,6 +66,6 @@ Because of its interactive nature, the workshop will be on-site only. However, f
 We are grateful for the financial support from:
 
   - the council of vice-chancellors of Gothenburg, Lund, Stockholm, Umeå and Uppsala universities (SLUGU)
-  - Department of Philosophy, Linguistics and Theory of Science (FLoV)
+  - [Department of Pholosophy, Linguistics and Theory of Science (FLoV)](https://www.gu.se/flov/), University of Gothenburg
 
 Image by [Freepik](https://www.freepik.com/free-photo/still-life-illustrating-ethics-concept_26407551.htm)
