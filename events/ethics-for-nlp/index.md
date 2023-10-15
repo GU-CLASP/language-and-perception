@@ -2,7 +2,6 @@
 layout: page
 title: Ethics for NLP: Workshop on ethics for research and teaching in natural language processing
 short_title: Ethics for NLP
-permalink: /events/ethics-for-NLP/
 ---
 
 <img align="right" width="480" src="ethics-for-nlp-480.jpg"/>
