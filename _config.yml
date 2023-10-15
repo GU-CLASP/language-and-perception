@@ -13,7 +13,7 @@ header_pages:
       - courses/ml-vl/ml-vl.md
   - path: events.md
     sub_pages:
-      - events/ethics-for-nlp/index.md
+      - events/ethics-for-nlp/ethics-for-nlp.md
   - path: masters-projects.md
     sub_pages:
       - masters-projects/situated-agents.md
