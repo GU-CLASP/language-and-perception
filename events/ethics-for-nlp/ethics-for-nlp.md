@@ -28,6 +28,7 @@ The workshop represents the first forum following the discussions at several Swe
 
 * [Kristina Knaving](https://www.ri.se/en/person/kristina-knaving), RISE
 * [Juan Carlos Nieves](https://www.umu.se/personal/juan-carlos-nieves/), Umeå University
+* [Stefan Larsson](https://portal.research.lu.se/en/persons/stefan-larsson), Lund University
 
 ### Submissions
 
@@ -66,6 +67,6 @@ Because of its interactive nature, the workshop will be on-site only. However, f
 We are grateful for the financial support from:
 
   - the council of vice-chancellors of Gothenburg, Lund, Stockholm, Umeå and Uppsala universities (SLUGU)
-  - [Department of Pholosophy, Linguistics and Theory of Science (FLoV)](https://www.gu.se/flov/), University of Gothenburg
+  - [Department of Philosophy, Linguistics and Theory of Science (FLoV)](https://www.gu.se/flov/), University of Gothenburg
 
 Image by [Freepik](https://www.freepik.com/free-photo/still-life-illustrating-ethics-concept_26407551.htm)
