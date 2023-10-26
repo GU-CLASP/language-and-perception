@@ -7,6 +7,7 @@ permalink: /masters-projects/
 
 ## Suggestions
 
+  - [Summary](https://docs.google.com/presentation/d/11yz2oHr0RpWXRoksFgb5ianzAZ3wN3iL6k1EAnCMP7U/edit)
   - [Situated interactive agents](/masters-projects/situated-agents.md)
   - [Computational modelling of spatial descriptions](/masters-projects/spatial-language.md)
   - [Reference and co-reference resolution in visual dialogue](/masters-projects/co-reference.md)
