@@ -10,7 +10,7 @@ permalink: /events/ethics-for-nlp/
 Organised by the Stockholm, Uppsala and Umeå interest group in ethics for NLP
 
 * Date: 23rd January 2024
-* Location: Humanisten, [Department of Pholosophy, Linguistics and Theory of Science (FLoV)](https://www.gu.se/flov/om-oss/kontakt), University of Gothenburg, room J335
+* Location: Humanisten, [Department of Philosophy, Linguistics and Theory of Science (FLoV)](https://www.gu.se/flov/om-oss/kontakt), University of Gothenburg, room J335
 * Address: Renströmsgatan 6, floor 3
 * Room: J335
 
@@ -50,6 +50,8 @@ Please register for the workshop using the following link (coming soon)
 
 Because of its interactive nature, the workshop will be on-site only. However, future events are planned also for online participation. To be informed about these, please subscribe to our [mailing list](https://listserv.gu.se/sympa/subscribe/ethics-for-nlp). 
 
+You can also join our [Discord server](https://discord.gg/Xh6Nmb4uFe) which we will monitor for questions.
+
 ### Workshop organisers
 
   - [Hannah Devinney](https://www.umu.se/en/staff/hannah-devinney/), Umeå University
@@ -59,7 +61,7 @@ Because of its interactive nature, the workshop will be on-site only. However, f
 ### Local organisers  
   
   - [Ricardo Muñoz Sánchez](https://www.gu.se/en/about/find-staff/ricardomunozsanchez), University of Gothenburg
-  - [Maria Szawerna](https://www.gu.se/en/about/find-staff/mariaszawerna), University of Gothenburg
+  - [Maria Irena Szawerna](https://www.gu.se/en/about/find-staff/mariaszawerna), University of Gothenburg
 
 ### Acknowledgements
 
