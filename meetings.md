@@ -15,7 +15,7 @@ permalink: /meetings/
   
   - Subscribe to [our mailing list](https://listserv.gu.se/sympa/subscribe/cogsys) to follow discussions.
 
-  - Orgasnisers: Nikolai, Elham, Ricardo and Simon, contact: cosy [at] flov [at] gu [dot] se
+  - Organisers: Nikolai, Elham, Ricardo and Simon: cosy [at] flov [at] gu [dot] se
 
 
 ### Next
