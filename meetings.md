@@ -17,7 +17,7 @@ permalink: /meetings/
 ### Next
 
   * Guest: Amelie Robrecht, University of Bielefeld: RSA,  2023-11-17
-    * A. Robrecht. and S. Kopp. Snape: [A sequential non-stationary decision process model for adaptive explanation generation.](A. Robrecht. and S. Kopp. Snape: A sequential non-stationary decision process model for adaptive explanation generation. In Proceedings of the 15th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART, pages 48–58. INSTICC, SciTePress, 2023. https://www.scitepress.org/Papers/2023/116713/116713.pdf) In Proceedings of the 15th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART, pages 48–58. INSTICC, SciTePress, 2023.
+    * A. Robrecht. and S. Kopp. [Snape: A sequential non-stationary decision process model for adaptive explanation generation.](https://www.scitepress.org/Papers/2023/116713/116713.pdf) In Proceedings of the 15th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART, pages 48–58. INSTICC, SciTePress, 2023.
     * Participants: Amelie (presenter)
       
 ### Read
