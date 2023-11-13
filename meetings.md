@@ -7,44 +7,60 @@ permalink: /meetings/
   - The reading group meets on even Fridays 10-12 in the seminar room on the 5th floor of Humanistiska fakulteten, Renströmsgatan 6 and on [on Zoom](https://gu-se.zoom.us/j/726750116).
 
   - Please add here [here](https://github.com/GU-CLASP/language-and-perception/blob/master/papers.bib) any papers you would like to suggest for the reading group.
+
     - Write your name and any other comments in the `Note` field. Papers that have been on the list for a while might be moved to [the attic](papers-attic.md).
+
     - If available, prefer published papers (e.g. ACL) rather than arXiV versions. Papers that are not published online can be uploaded [here](https://linux.dobnik.net/cloud/index.php/s/Z2iPGa28Mexyz24).
+
     - Add a link to the paper in the `Url` field.
 
   - Participating gives you [course credit](https://gu-clasp.github.io/language-and-perception/courses/).
   
   - Subscribe to [our mailing list](https://listserv.gu.se/sympa/subscribe/cogsys) to follow discussions.
 
-  - Organisers: Nikolai, Elham, Ricardo and Simon: cosy [at] flov [at] gu [dot] se
+  - Contact organisers: Nikolai, Elham, Ricardo and Simon: cosy [at] flov [at] gu [dot] se
 
 
 ### Next
 
   * Guest: Amelie Robrecht, University of Bielefeld: RSA
+
     * A. Robrecht. and S. Kopp. Snape: [A sequential non-stationary decision process model for adaptive explanation generation.](A. Robrecht. and S. Kopp. Snape: A sequential non-stationary decision process model for adaptive explanation generation. In Proceedings of the 15th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART, pages 48–58. INSTICC, SciTePress, 2023. https://www.scitepress.org/Papers/2023/116713/116713.pdf) In Proceedings of the 15th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART, pages 48–58. INSTICC, SciTePress, 2023.
+
     * Participants (2023-11-17): Amelie (presenter)
       
 
 ### Read
 
 * Guest: Guy Emerson, University of Cambridge, Distributional semantics for situated spatial language
+
   * Y. Liu and G. Emerson. [Learning functional distributional semantics with visual data.](https://aclanthology.org/2022.acl-long.275/) In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 3976–3988, Dublin, Ireland, May 2022. Association for Computational Linguistics.
+
   * F. Liu, G. Emerson, and N. Collier. [Visual spatial reasoning.](https://aclanthology.org/2023.tacl-1.37/) Transactions of the Association for Computational Linguistics, 11:635–651, 2023.
+
   * Participants (23-11-07): Guy (presenter), Elham, Nikolai, Robin, Bill, Staffan, Andreas Johansson, Rasmus and Simon
 
 * Guest: Korentin Kervadec, UPF Barcelona: Bias in VQA reasoning
+
   * C. Kervadec, G. Antipov, M. Baccouche, and C. Wolf. [Roses are red, violets are blue... but should vqa expect them to?](https://ieeexplore.ieee.org/document/9578217) In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pages 2776–2785, June 2021.
+
   * C. Kervadec, T. Jaunet, G. Antipov, M. Baccouche, R. Vuillemot, and C. Wolf. [How transferable are reasoning patterns in vqa?](https://ieeexplore.ieee.org/document/9577924) In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pages 4207–4216, June 2021.
+
   * Participants (2023-10-20): Corentin (presenter), Elham, Nikolai, Robin, James and Simon
 
 * Guest: Ricardo Muñoz Sánchez, Intrinsic Bias Metrics Do Not Correlate with Application Bias. 
+
   * Muñoz Sánchez, Ricardo. [Exploring the Relationship Between Intrinsic and Extrinsic Bias in Spanish Word Embeddings](https://github.com/seraphinatarrant/embedding_bias/blob/Ricardo/documents/MSc_Dissertation.pdf). Masters Thesis, The University of Edingburgh, 2020.
+
   * Goldfarb-Tarrant, Seraphina, Rebecca Marchant, Ricardo Muñoz Sánchez, Mugdha Pandya, and Adam Lopez. [Intrinsic Bias Metrics Do Not Correlate with Application Bias](https://aclanthology.org/2021.acl-long.150). In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), 1926–40. Online: Association for Computational Linguistics, 2021.
+
   * Participants (23-10-06): Ricardo (presenter), Arianna, Herbert, Maria, Felix, Robin, Tom Sjödahl, Simon
 
  * Planning after LSD
+
    * Participants (2023-09-19): Robin, Elham, Aram, Simon 
-  * E. Gualdoni, T. Brochhagen, A. Mädebach, and G. Boleda. [What's in a name? a large-scale computational study on how competition between names affects naming variation](https://psyarxiv.com/t84eu/download). Submitted, 2023. Participants (23-06-16): Nikolai, Vidya, Dominik, Mehdi, Chris, Richardo, Elham, Nikan, Simon, Katya
+  
+   * E. Gualdoni, T. Brochhagen, A. Mädebach, and G. Boleda. [What's in a name? a large-scale computational study on how competition between names affects naming variation](https://psyarxiv.com/t84eu/download). Submitted, 2023. Participants (23-06-16): Nikolai, Vidya, Dominik, Mehdi, Chris, Richardo, Elham, Nikan, Simon, Katya
 
   * R. Chaabouni, E. Kharitonov, D. Bouchacourt, E. Dupoux, and M. Baroni. [Compositionality and generalization in emergent languages](https://aclanthology.org/2020.acl-main.407). In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 4427–4442, Online, July 2020. Association for Computational Linguistics. [Video](http://slideslive.com/38928781). Participants (23-06-02): Dominik, Katya, Aram, Elham, Staffan, Simon, Nikolai
 
