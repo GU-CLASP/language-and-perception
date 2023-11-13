@@ -4,15 +4,13 @@ title: Reading group
 permalink: /meetings/
 ---
 
-  - The reading group meets on even Fridays 10-12 in the seminar room on the 5th floor of Humanistiska fakulteten, Renströmsgatan 6.
+  - The reading group meets on even Fridays 10-12 in the seminar room on the 5th floor of Humanistiska fakulteten, Renströmsgatan 6 and on [on Zoom](https://gu-se.zoom.us/j/726750116).
 
-  - Sometimes, and more recently, we meet [online on Zoom](https://gu-se.zoom.us/j/726750116), requires GU-login.
+  - Please add here [here](https://github.com/GU-CLASP/language-and-perception/blob/master/papers.bib) any papers you would like to suggest for the reading group.
+    - Write your name and any other comments in the Notes field. Papers that have been on the list for a while might be moved to [the attic](papers-attic.md).
+    - If available, prefer links to the published (e.g. ACL) rather than arXiV versions. Papers that are not published online can be uploaded [here](https://linux.dobnik.net/cloud/index.php/s/Z2iPGa28Mexyz24).
 
   - Participating gives you [course credit](https://gu-clasp.github.io/language-and-perception/courses/).
-
-  - To add a paper suggestion, simply edit me [here](https://github.com/GU-CLASP/language-and-perception/blob/master/meetings.md). Consider also adding a bibtex entry [here](https://github.com/GU-CLASP/language-and-perception/blob/master/papers.bib). 
-  
-  - If available, prefer links to the published (e.g. ACL) rather than arXiV versions. Papers that are not published online can be uploaded [here](https://linux.dobnik.net/cloud/index.php/s/Z2iPGa28Mexyz24).
   
   - Subscribe to [our mailing list](https://listserv.gu.se/sympa/subscribe/cogsys) to follow discussions.
 
@@ -23,11 +21,6 @@ permalink: /meetings/
     * A. Robrecht. and S. Kopp. Snape: [A sequential non-stationary decision process model for adaptive explanation generation.](A. Robrecht. and S. Kopp. Snape: A sequential non-stationary decision process model for adaptive explanation generation. In Proceedings of the 15th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART, pages 48–58. INSTICC, SciTePress, 2023. https://www.scitepress.org/Papers/2023/116713/116713.pdf) In Proceedings of the 15th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART, pages 48–58. INSTICC, SciTePress, 2023.
     * Participants (2023-11-17): Amelie (presenter)
       
-
-
-### Suggestions
-
-Please add here [here](https://github.com/GU-CLASP/language-and-perception/blob/master/papers.bib) any papers you would like to suggest for the reading group. Papers that have been here for a while might be moved to [the attic](papers-attic.md).
 
 ### Read
 
