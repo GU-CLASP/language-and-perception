@@ -23,78 +23,88 @@ permalink: /meetings/
 
 ### Next
 
-  * Guest: Amelie Robrecht, University of Bielefeld: RSA
+  * Guest: Amelie Robrecht, University of Bielefeld: RSA,  2023-11-17
 
     * A. Robrecht. and S. Kopp. Snape: [A sequential non-stationary decision process model for adaptive explanation generation.](A. Robrecht. and S. Kopp. Snape: A sequential non-stationary decision process model for adaptive explanation generation. In Proceedings of the 15th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART, pages 48–58. INSTICC, SciTePress, 2023. https://www.scitepress.org/Papers/2023/116713/116713.pdf) In Proceedings of the 15th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART, pages 48–58. INSTICC, SciTePress, 2023.
 
-    * Participants (2023-11-17): Amelie (presenter)
+    * Participants: Amelie (presenter)
       
 
 ### Read
 
-* Guest: Guy Emerson, University of Cambridge, Distributional semantics for situated spatial language
+* Guest: Guy Emerson, University of Cambridge, Distributional semantics for situated spatial language, 2023-11-07
 
   * Y. Liu and G. Emerson. [Learning functional distributional semantics with visual data.](https://aclanthology.org/2022.acl-long.275/) In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 3976–3988, Dublin, Ireland, May 2022. Association for Computational Linguistics.
 
   * F. Liu, G. Emerson, and N. Collier. [Visual spatial reasoning.](https://aclanthology.org/2023.tacl-1.37/) Transactions of the Association for Computational Linguistics, 11:635–651, 2023.
 
-  * Participants (23-11-07): Guy (presenter), Elham, Nikolai, Robin, Bill, Staffan, Andreas Johansson, Rasmus and Simon
+  * Participants: Guy (presenter), Elham, Nikolai, Robin, Bill, Staffan, Andreas Johansson, Rasmus and Simon
 
-* Guest: Korentin Kervadec, UPF Barcelona: Bias in VQA reasoning
+* Guest: Korentin Kervadec, UPF Barcelona: Bias in VQA reasoning, 2023-10-20
 
   * C. Kervadec, G. Antipov, M. Baccouche, and C. Wolf. [Roses are red, violets are blue... but should vqa expect them to?](https://ieeexplore.ieee.org/document/9578217) In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pages 2776–2785, June 2021.
 
   * C. Kervadec, T. Jaunet, G. Antipov, M. Baccouche, R. Vuillemot, and C. Wolf. [How transferable are reasoning patterns in vqa?](https://ieeexplore.ieee.org/document/9577924) In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pages 4207–4216, June 2021.
 
-  * Participants (2023-10-20): Corentin (presenter), Elham, Nikolai, Robin, James and Simon
+  * Participants: Corentin (presenter), Elham, Nikolai, Robin, James and Simon
 
-* Guest: Ricardo Muñoz Sánchez, Intrinsic Bias Metrics Do Not Correlate with Application Bias. 
+* Guest: Ricardo Muñoz Sánchez, Intrinsic Bias Metrics Do Not Correlate with Application Bias, 2023-10-06
 
   * Muñoz Sánchez, Ricardo. [Exploring the Relationship Between Intrinsic and Extrinsic Bias in Spanish Word Embeddings](https://github.com/seraphinatarrant/embedding_bias/blob/Ricardo/documents/MSc_Dissertation.pdf). Masters Thesis, The University of Edingburgh, 2020.
 
   * Goldfarb-Tarrant, Seraphina, Rebecca Marchant, Ricardo Muñoz Sánchez, Mugdha Pandya, and Adam Lopez. [Intrinsic Bias Metrics Do Not Correlate with Application Bias](https://aclanthology.org/2021.acl-long.150). In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), 1926–40. Online: Association for Computational Linguistics, 2021.
 
-  * Participants (23-10-06): Ricardo (presenter), Arianna, Herbert, Maria, Felix, Robin, Tom Sjödahl, Simon
+  * Participants: Ricardo (presenter), Arianna, Herbert, Maria, Felix, Robin, Tom Sjödahl, Simon
 
- * Planning after LSD
+ * Planning after LSD, 2023-09-19
 
-   * Participants (2023-09-19): Robin, Elham, Aram, Simon 
+   * Participants: Robin, Elham, Aram, Simon 
   
-   * E. Gualdoni, T. Brochhagen, A. Mädebach, and G. Boleda. [What's in a name? a large-scale computational study on how competition between names affects naming variation](https://psyarxiv.com/t84eu/download). Submitted, 2023. Participants (23-06-16): Nikolai, Vidya, Dominik, Mehdi, Chris, Richardo, Elham, Nikan, Simon, Katya
+* Out to the islands, 2023-06-16
 
-  * R. Chaabouni, E. Kharitonov, D. Bouchacourt, E. Dupoux, and M. Baroni. [Compositionality and generalization in emergent languages](https://aclanthology.org/2020.acl-main.407). In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 4427–4442, Online, July 2020. Association for Computational Linguistics. [Video](http://slideslive.com/38928781). Participants (23-06-02): Dominik, Katya, Aram, Elham, Staffan, Simon, Nikolai
+   * E. Gualdoni, T. Brochhagen, A. Mädebach, and G. Boleda. [What's in a name? a large-scale computational study on how competition between names affects naming variation](https://psyarxiv.com/t84eu/download). Submitted, 2023.
+   
+   * Participants: Nikolai, Vidya, Dominik, Mehdi, Chris, Richardo, Elham, Nikan, Simon, Katya
 
-  * D. Ebert, C. Sun, and E. Pavlick. [Do trajectories encode verb meaning?](https://aclanthology.org/2022.naacl-main.206/) In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 2860–2871, Seattle, United States, July 2022. Association for Computational Linguistics. Participants (23-05-05): Nikolai (leader), Robin, Simon
+  * R. Chaabouni, E. Kharitonov, D. Bouchacourt, E. Dupoux, and M. Baroni. [Compositionality and generalization in emergent languages](https://aclanthology.org/2020.acl-main.407). In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 4427–4442, Online, July 2020. Association for Computational Linguistics. [Video](http://slideslive.com/38928781). Participants: Dominik, Katya, Aram, Elham, Staffan, Simon, Nikolai, 2023-06-02.
 
-  * D. Hudson and C. D. Manning. [Learning by abstraction: The neural state machine](https://proceedings.neurips.cc/paper_files/paper/2019/file/c20a7ce2a627ba838cfbff082db35197-Paper.pdf). In H. Wallach, H. Larochelle, A. Beygelzimer, F. d'Alché-Buc, E. Fox, and R. Garnett, editors, Advances in Neural Information Processing Systems, volume 32. Curran Associates, Inc., 2019. Participants (23-03-24): Simon, Elham, Aram, Nikolai
+  * D. Ebert, C. Sun, and E. Pavlick. [Do trajectories encode verb meaning?](https://aclanthology.org/2022.naacl-main.206/) In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 2860–2871, Seattle, United States, July 2022. Association for Computational Linguistics. Participants: Nikolai (leader), Robin, Simon, 2023-05-05.
 
-  * P. Lison, J. Barnes, and A. Hubin. [skweak: Weak supervision made easy for NLP.](https://aclanthology.org/2021.acl-demo.40) In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations, pages 337–346, Online, Aug. 2021. Association for Computational Linguistics. Participants (23-03-10): Elena, Therese, Sonny, Katya, Nikolai, Aram, Bill, Elham, Simon and Pierre
+  * D. Hudson and C. D. Manning. [Learning by abstraction: The neural state machine](https://proceedings.neurips.cc/paper_files/paper/2019/file/c20a7ce2a627ba838cfbff082db35197-Paper.pdf). In H. Wallach, H. Larochelle, A. Beygelzimer, F. d'Alché-Buc, E. Fox, and R. Garnett, editors, Advances in Neural Information Processing Systems, volume 32. Curran Associates, Inc., 2019. Participants: Simon, Elham, Aram, Nikolai, 2023-03-24.
 
-  * J. Andreas and D. Klein. [Analogs of linguistic structure in deep representations.](https://aclanthology.org/D17-1311) In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pages 2893–2897, Copenhagen, Denmark, Sept. 2017. Association for Computational Linguistics. Participants: Adam, Nikolai, Alex, Vidya and Simon
+  * P. Lison, J. Barnes, and A. Hubin. [skweak: Weak supervision made easy for NLP.](https://aclanthology.org/2021.acl-demo.40) In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations, pages 337–346, Online, Aug. 2021. Association for Computational Linguistics. Participants (23-03-10): Elena, Therese, Sonny, Katya, Nikolai, Aram, Bill, Elham, Simon and Pierre, 2023-03-10.
 
-  * A. Ji, N. Kojima, N. Rush, A. Suhr, W. K. Vong, R. Hawkins, and Y. Artzi. [Abstract visual reasoning with tangram shapes.](https://aclanthology.org/2022.emnlp-main.38) In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, pages 582–601, Abu Dhabi, United Arab Emirates, Dec. 2022. Association for Computational Linguistics. [video](https://youtu.be/hCmX8ZFIVf8) [arXiV](https://arxiv.org/abs/2211.16492) Participants: Nikolai, Adam, Elham, Katya, Elen and Simon
+  * J. Andreas and D. Klein. [Analogs of linguistic structure in deep representations.](https://aclanthology.org/D17-1311) In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pages 2893–2897, Copenhagen, Denmark, Sept. 2017. Association for Computational Linguistics. Participants: Adam, Nikolai, Alex, Vidya and Simon, 2023-02-24.
 
-  * J. Wei, X. Wang, D. Schuurmans, M. Bosma, E. H. Chi, Q. Le, and D. Zhou. [Chain of thought prompting elicits reasoning in large language models.]( https://arxiv.org/pdf/2201.11903.pdf) arXiv, arXiv:2201.11903 [cs.CL]:1–43, 2022. Participants: Alex, Staffan, Vidya and Simon
+  * A. Ji, N. Kojima, N. Rush, A. Suhr, W. K. Vong, R. Hawkins, and Y. Artzi. [Abstract visual reasoning with tangram shapes.](https://aclanthology.org/2022.emnlp-main.38) In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, pages 582–601, Abu Dhabi, United Arab Emirates, Dec. 2022. Association for Computational Linguistics. [video](https://youtu.be/hCmX8ZFIVf8) [arXiV](https://arxiv.org/abs/2211.16492) Participants: Nikolai, Adam, Elham, Katya, Elen and Simon, 2023-02-10
 
-  * J. Andreas. [Language models as agent models.](https://arxiv.org/abs/2212.01681) arXiv, arXiv:2212.01681 [cs.CL], December 3 2022. Suggested by Nikolai. Participants: Aram, Staffan, Robin, Adam, Vidya, Bill, Alex, Simon and Nikolai
+  * J. Wei, X. Wang, D. Schuurmans, M. Bosma, E. H. Chi, Q. Le, and D. Zhou. [Chain of thought prompting elicits reasoning in large language models.]( https://arxiv.org/pdf/2201.11903.pdf) arXiv, arXiv:2201.11903 [cs.CL]:1–43, 2022. Participants: Alex, Staffan, Vidya and Simon, 2023-01-27
+
+  * J. Andreas. [Language models as agent models.](https://arxiv.org/abs/2212.01681) arXiv, arXiv:2212.01681 [cs.CL], December 3 2022. Suggested by Nikolai. Participants: Aram, Staffan, Robin, Adam, Vidya, Bill, Alex, Simon and Nikolai, 2023-01-13
 
   * [(Re)construing meaning in NLP.](https://aclanthology.org/2020.acl-main.462) S. Trott, T. T. Torrent, N. Chang, and N. Schneider. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 5170–5184, Online, July 2020. Association for Computational Linguistics. Participants: Alex, Robin, Vidya, Adam, Katya, Tiago, Simon, Nikolai, Staffan, Dominik. 2022-12-16.
 
   * [Entropy minimization in emergent languages.](https://dl.acm.org/doi/pdf/10.5555/3524938.3525422) E. Kharitonov, R. Chaabouni, D. Bouchacourt, and M. Baroni. In H. D. III and A. Singh, editors, Proceedings of the 37th International Conference on Machine Learning, volume 119 of Proceedings of Machine Learning Research, pages 5220–5230. PMLR, 13–18 Jul 2020. Participants: Adam, Nikolai, Alex, Aram, Robin, Elham, Simon. 2022-11-18.
 
-  * [Norm Participation Grounds Language.](https://arxiv.org/pdf/2206.02885.pdf) David Schlangen, 2022. arXiv pre-print. (suggested by ..., RoM, participants: Staffan, Alex, Elham, Vidya, Amandine, Bill, Chris, Robin, Aram, Simon, Nikolai).
+  * Meeting with COLT, UPF Barcelona. 2022-10-07
+ 
+  * Special session on ethical considerations in practice. 2022-09-23
 
-  * [Using Natural Language and Program Abstractions to Instill Human Inductive Biases in Machines. (2022).](https://arxiv.org/pdf/2205.11558.pdf) Kumar, Sreejan, Carlos G., Correa, Ishita, Dasgupta, Raja, Marjieh, Michael Y., Hu, Robert D., Hawkins, Nathaniel D., Daw, Jonathan D., Cohen, Karthik, Narasimhan, and Thomas L., Griffiths. (suggested by Robin, RoM/LaP, participants: Vidya, Aram, Amandine, Robin, Nikolai, Simon, Elham, 2022-06-03).
+  * [Norm Participation Grounds Language.](https://arxiv.org/pdf/2206.02885.pdf) David Schlangen, 2022. arXiv pre-print. (suggested by ..., RoM, participants: Staffan, Alex, Elham, Vidya, Amandine, Bill, Chris, Robin, Aram, Simon, Nikolai). 2022-06-17
 
-  * Lalchand Pandia, Yan Cong, and Allyson Ettinger. [Pragmatic competence of pre-trained language models through the lens of discourse connectives.](https://aclanthology.org/2021.conll-1.29.pdf). CoNLL 2021. (suggested by Nikolai, RoM, participants: Nikolai, Simon, Bill, Aram, Robin, 2022-05-06).
+  * [Using Natural Language and Program Abstractions to Instill Human Inductive Biases in Machines. (2022).](https://arxiv.org/pdf/2205.11558.pdf) Kumar, Sreejan, Carlos G., Correa, Ishita, Dasgupta, Raja, Marjieh, Michael Y., Hu, Robert D., Hawkins, Nathaniel D., Daw, Jonathan D., Cohen, Karthik, Narasimhan, and Thomas L., Griffiths. (suggested by Robin, RoM/LaP, participants: Vidya, Aram, Amandine, Robin, Nikolai, Simon, Elham, 2022-06-03.
 
-  * Wang, P., Li, X., & Hammer, P. (2018). [Self in NARS, an AGI System.](https://www.frontiersin.org/articles/10.3389/frobt.2018.00020/full) Frontiers in Robotics and AI, 5 (suggested by Vlad, RoM/LaP, participants: Vidya, Aram, Adam, Eleni, Alex, Vlad, Staffan, Ellen, Robin, Nikolai, Bill, 2022-04-22).
+  * Lalchand Pandia, Yan Cong, and Allyson Ettinger. [Pragmatic competence of pre-trained language models through the lens of discourse connectives.](https://aclanthology.org/2021.conll-1.29.pdf). CoNLL 2021. Suggested by Nikolai, RoM, participants: Nikolai, Simon, Bill, Aram, Robin, 2022-05-06.
 
-  * [Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments.](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.pdf) Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel; Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018, pp. 3674-3683 (suggested by Nikolai, LaP, 2022-04-08)
+  * Wang, P., Li, X., & Hammer, P. (2018). [Self in NARS, an AGI System.](https://www.frontiersin.org/articles/10.3389/frobt.2018.00020/full) Frontiers in Robotics and AI, 5 (suggested by Vlad, RoM/LaP, participants: Vidya, Aram, Adam, Eleni, Alex, Vlad, Staffan, Ellen, Robin, Nikolai, Bill, 2022-04-22.
+
+  * [Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments.](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.pdf) Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel; Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018, pp. 3674-3683. Suggested by Nikolai, LaP, 2022-04-08.
 
   * Guy Emerson. 2020. [What are the Goals of Distributional Semantics?.](https://aclanthology.org/2020.acl-main.663.pdf) In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 7436–7453, Online. Association for Computational Linguistics. (suggested by Adam, RoM, 2022-03-25)
 
   * Tzuf Paz-Argaman, Reut Tsarfaty, Gal Chechik, and Yuval Atzmon. 2020. [ZEST: Zero-shot Learning from Text Descriptions using Textual Similarity and Visual Summarization.](https://aclanthology.org/2020.findings-emnlp.50.pdf) In Findings of the Association for Computational Linguistics: EMNLP 2020, pages 569–579, Online. Association for Computational Linguistics. (suggested by Bill and Nikolai, LaP, 2022-03-11)
+
+  * Guest: Elham Alighardash on VQA
 
   * A. Ettinger. [What BERT Is Not: Lessons from a New Suite of Psycholinguistic Diagnostics for Language Models.](https://doi.org/10.1162/tacl\_a\_00298) Transactions of the Association for Computational Linguistics, 8:34–48, 01 2020. (suggested by Adam, RoM, 2022-02-25)
 
@@ -113,7 +123,7 @@ permalink: /meetings/
   * The Singleton Fallacy: Why Current Critiques of Language Models Miss the Point Magnus Sahlgren (AI Sweden, Stockholm, Sweden) and Fredrik Carlsson 
 (RISE, Stockholm, Sweden) https://doi.org/10.3389/frai.2021.682578 (suggested by Robin) RoM 2021-10-08
 
-  * Is it possible for language models to achieve language understanding? Christofer Potts (2020) [blog post](https://chrisgpotts.medium.com/is-it-possible-for-language-models-to-achieve-language-understanding-81df45082ee2) (Recommended by Robin, would like to read: Robin) RoM 2021-10-08
+  * Is it possible for language models to achieve language understanding? Christofer Potts (2020) [blog post](https://chrisgpotts.medium.com/is-it-possible-for-language-models-to-achieve-language-understanding-81df45082ee2) (Recommended by Robin) RoM 2021-10-08
 
   * Trapit Bansal, David Belanger, Andrew McCallum (2016): Ask the GRU: Multi-task Learning for Deep Text Recommendations
 (https://arxiv.org/abs/1609.02116) (recommended by Aram, would like to read: Nikolai) RoM 2021-07-02
