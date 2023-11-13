@@ -5,66 +5,44 @@ permalink: /meetings/
 ---
 
   - The reading group meets on even Fridays 10-12 in the seminar room on the 5th floor of Humanistiska fakulteten, Renströmsgatan 6 and on [on Zoom](https://gu-se.zoom.us/j/726750116).
-
   - Please add here [here](https://github.com/GU-CLASP/language-and-perception/blob/master/papers.bib) any papers you would like to suggest for the reading group.
-
     - Write your name and any other comments in the `Note` field. Papers that have been on the list for a while might be moved to [the attic](papers-attic.md).
-
     - If available, prefer published papers (e.g. ACL) rather than arXiV versions. Papers that are not published online can be uploaded [here](https://linux.dobnik.net/cloud/index.php/s/Z2iPGa28Mexyz24).
-
     - Add a link to the paper in the `Url` field.
-
   - Participating gives you [course credit](https://gu-clasp.github.io/language-and-perception/courses/).
-  
   - Subscribe to [our mailing list](https://listserv.gu.se/sympa/subscribe/cogsys) to follow discussions.
-
   - Contact the organisers, Nikolai, Elham, Ricardo and Simon, at cosy [at] flov [at] gu [dot] se
 
 
 ### Next
 
   * Guest: Amelie Robrecht, University of Bielefeld: RSA,  2023-11-17
-
     * A. Robrecht. and S. Kopp. Snape: [A sequential non-stationary decision process model for adaptive explanation generation.](A. Robrecht. and S. Kopp. Snape: A sequential non-stationary decision process model for adaptive explanation generation. In Proceedings of the 15th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART, pages 48–58. INSTICC, SciTePress, 2023. https://www.scitepress.org/Papers/2023/116713/116713.pdf) In Proceedings of the 15th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART, pages 48–58. INSTICC, SciTePress, 2023.
-
     * Participants: Amelie (presenter)
       
-
 ### Read
 
-* Guest: Guy Emerson, University of Cambridge, Distributional semantics for situated spatial language, 2023-11-07
+  * Guest: Guy Emerson, University of Cambridge, Distributional semantics for situated spatial language, 2023-11-07
+    * Y. Liu and G. Emerson. [Learning functional distributional semantics with visual data.](https://aclanthology.org/2022.acl-long.275/) In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 3976–3988, Dublin, Ireland, May 2022. Association for Computational Linguistics.
+    * F. Liu, G. Emerson, and N. Collier. [Visual spatial reasoning.](https://aclanthology.org/2023.tacl-1.37/) Transactions of the Association for Computational Linguistics, 11:635–651, 2023.
+    * Participants: Guy (presenter), Elham, Nikolai, Robin, Bill, Staffan, Andreas Johansson, Rasmus and Simon
 
-  * Y. Liu and G. Emerson. [Learning functional distributional semantics with visual data.](https://aclanthology.org/2022.acl-long.275/) In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 3976–3988, Dublin, Ireland, May 2022. Association for Computational Linguistics.
+  * Guest: Korentin Kervadec, UPF Barcelona: Bias in VQA reasoning, 2023-10-20
+    * C. Kervadec, G. Antipov, M. Baccouche, and C. Wolf. [Roses are red, violets are blue... but should vqa expect them to?](https://ieeexplore.ieee.org/document/9578217) In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pages 2776–2785, June 2021.
+    * C. Kervadec, T. Jaunet, G. Antipov, M. Baccouche, R. Vuillemot, and C. Wolf. [How transferable are reasoning patterns in vqa?](https://ieeexplore.ieee.org/document/9577924) In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pages 4207–4216, June 2021.
+   * Participants: Corentin (presenter), Elham, Nikolai, Robin, James and Simon
 
-  * F. Liu, G. Emerson, and N. Collier. [Visual spatial reasoning.](https://aclanthology.org/2023.tacl-1.37/) Transactions of the Association for Computational Linguistics, 11:635–651, 2023.
-
-  * Participants: Guy (presenter), Elham, Nikolai, Robin, Bill, Staffan, Andreas Johansson, Rasmus and Simon
-
-* Guest: Korentin Kervadec, UPF Barcelona: Bias in VQA reasoning, 2023-10-20
-
-  * C. Kervadec, G. Antipov, M. Baccouche, and C. Wolf. [Roses are red, violets are blue... but should vqa expect them to?](https://ieeexplore.ieee.org/document/9578217) In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pages 2776–2785, June 2021.
-
-  * C. Kervadec, T. Jaunet, G. Antipov, M. Baccouche, R. Vuillemot, and C. Wolf. [How transferable are reasoning patterns in vqa?](https://ieeexplore.ieee.org/document/9577924) In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pages 4207–4216, June 2021.
-
-  * Participants: Corentin (presenter), Elham, Nikolai, Robin, James and Simon
-
-* Guest: Ricardo Muñoz Sánchez, Intrinsic Bias Metrics Do Not Correlate with Application Bias, 2023-10-06
-
-  * Muñoz Sánchez, Ricardo. [Exploring the Relationship Between Intrinsic and Extrinsic Bias in Spanish Word Embeddings](https://github.com/seraphinatarrant/embedding_bias/blob/Ricardo/documents/MSc_Dissertation.pdf). Masters Thesis, The University of Edingburgh, 2020.
-
-  * Goldfarb-Tarrant, Seraphina, Rebecca Marchant, Ricardo Muñoz Sánchez, Mugdha Pandya, and Adam Lopez. [Intrinsic Bias Metrics Do Not Correlate with Application Bias](https://aclanthology.org/2021.acl-long.150). In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), 1926–40. Online: Association for Computational Linguistics, 2021.
-
-  * Participants: Ricardo (presenter), Arianna, Herbert, Maria, Felix, Robin, Tom Sjödahl, Simon
+  * Guest: Ricardo Muñoz Sánchez, Intrinsic Bias Metrics Do Not Correlate with Application Bias, 2023-10-06
+    * Muñoz Sánchez, Ricardo. [Exploring the Relationship Between Intrinsic and Extrinsic Bias in Spanish Word Embeddings](https://github.com/seraphinatarrant/embedding_bias/blob/Ricardo/documents/MSc_Dissertation.pdf). Masters Thesis, The University of Edingburgh, 2020.
+    * Goldfarb-Tarrant, Seraphina, Rebecca Marchant, Ricardo Muñoz Sánchez, Mugdha Pandya, and Adam Lopez. [Intrinsic Bias Metrics Do Not Correlate with Application Bias](https://aclanthology.org/2021.acl-long.150). In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), 1926–40. Online: Association for Computational Linguistics, 2021.
+    * Participants: Ricardo (presenter), Arianna, Herbert, Maria, Felix, Robin, Tom Sjödahl, Simon
 
   * Planning after LSD, 2023-09-19
-
     * Participants: Robin, Elham, Aram, Simon 
   
   * Out to the islands, 2023-06-16
-
-   * E. Gualdoni, T. Brochhagen, A. Mädebach, and G. Boleda. [What's in a name? a large-scale computational study on how competition between names affects naming variation](https://psyarxiv.com/t84eu/download). Submitted, 2023.
-   
-   * Participants: Nikolai, Vidya, Dominik, Mehdi, Chris, Richardo, Elham, Nikan, Simon, Katya
+    * E. Gualdoni, T. Brochhagen, A. Mädebach, and G. Boleda. [What's in a name? a large-scale computational study on how competition between names affects naming variation](https://psyarxiv.com/t84eu/download). Submitted, 2023.
+    * Participants: Nikolai, Vidya, Dominik, Mehdi, Chris, Richardo, Elham, Nikan, Simon, Katya
 
   * R. Chaabouni, E. Kharitonov, D. Bouchacourt, E. Dupoux, and M. Baroni. [Compositionality and generalization in emergent languages](https://aclanthology.org/2020.acl-main.407). In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 4427–4442, Online, July 2020. Association for Computational Linguistics. [Video](http://slideslive.com/38928781). Participants: Dominik, Katya, Aram, Elham, Staffan, Simon, Nikolai, 2023-06-02.
 
@@ -148,37 +126,37 @@ permalink: /meetings/
 
   * Vig, J., & Belinkov, Y. (2019). [Analyzing the Structure of Attention in a Transformer Language Model.](https://www.aclweb.org/anthology/W19-4808.pdf). In Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP, pages 63-76, Florence, Italy, August 2019. (recommended by Nikolai, would like to read: Axel, Felix, Anna, Simon) 2021-02-12
 
- * Katrin Erk and Aurélie Herbelot (2020) How to Marry a Star: probabilistic constraints for meaning in context, https://arxiv.org/pdf/2009.07936.pdf, [revised version](https://drive.google.com/file/d/1BW9VCFAPZdUcO0qRIUNVSDAx3SQwDuy3/view?usp=sharing) from Katrin (recommended by Robin)
+  * Katrin Erk and Aurélie Herbelot (2020) How to Marry a Star: probabilistic constraints for meaning in context, https://arxiv.org/pdf/2009.07936.pdf, [revised version](https://drive.google.com/file/d/1BW9VCFAPZdUcO0qRIUNVSDAx3SQwDuy3/view?usp=sharing) from Katrin (recommended by Robin)
 
- * ++++++++ J. D. Hwang, C. Bhagavatula, R. L. Bras, J. Da, K. Sakaguchi, A. Bosselut, and Y. Choi. [Comet-atomic 2020: On symbolic and neural commonsense knowledge graphs.](https://arxiv.org/abs/2010.05953) arXiv, arXiv:2010.05953 [cs.CL]:1–17, 2020. [Video of a talk.](https://youtu.be/h2wzQKRAdA8) (Recommended by Nikolai, credit for either APL or ROM, would like to read: Nikolai, Anna, Felix, Axel, Robin, Staffan, Ellen, Simon) 2021-01-29
+  * J. D. Hwang, C. Bhagavatula, R. L. Bras, J. Da, K. Sakaguchi, A. Bosselut, and Y. Choi. [Comet-atomic 2020: On symbolic and neural commonsense knowledge graphs.](https://arxiv.org/abs/2010.05953) arXiv, arXiv:2010.05953 [cs.CL]:1–17, 2020. [Video of a talk.](https://youtu.be/h2wzQKRAdA8) (Recommended by Nikolai, credit for either APL or ROM, would like to read: Nikolai, Anna, Felix, Axel, Robin, Staffan, Ellen, Simon) 2021-01-29
 
- * Conneau, A., Lample, G., Ranzato, M. A., Denoyer, L., & Jégou, H. (2017). [Word translation without parallel data.](https://arxiv.org/pdf/1710.04087.pdf)  (Recommended by Adam, credit for ROM) 2020-12-11
+  * Conneau, A., Lample, G., Ranzato, M. A., Denoyer, L., & Jégou, H. (2017). [Word translation without parallel data.](https://arxiv.org/pdf/1710.04087.pdf)  (Recommended by Adam, credit for ROM) 2020-12-11
  
- * T. Scialom, P. Bordes, P.-A. Dray, J. Staiano, and P. Gallinari. [What BERT sees: Cross-modal transfer for visual question generation.](https://arxiv.org/abs/2002.10832) arXiv, arXiv:2002.10832 [cs.CL]:1–11, November 2 2020. (recommended by Nikolai), 2020-12-04
+  * T. Scialom, P. Bordes, P.-A. Dray, J. Staiano, and P. Gallinari. [What BERT sees: Cross-modal transfer for visual question generation.](https://arxiv.org/abs/2002.10832) arXiv, arXiv:2002.10832 [cs.CL]:1–11, November 2 2020. (recommended by Nikolai), 2020-12-04
 
- * M. Artetxe, G. Labaka, and E. Agirre. [A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings.](https://www.aclweb.org/anthology/P18-1073) In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 789–798, Melbourne, Australia, July 2018. Association for Computational Linguistics. (comes with a video and slides) (Adam)
+  * M. Artetxe, G. Labaka, and E. Agirre. [A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings.](https://www.aclweb.org/anthology/P18-1073) In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 789–798, Melbourne, Australia, July 2018. Association for Computational Linguistics. (comes with a video and slides) (Adam)
     
- * M. Artetxe, G. Labaka, and E. Agirre. [Learning bilingual word embeddings with (almost) no bilingual data.](https://www.aclweb.org/anthology/P17-1042/) In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 451–462, Vancouver, Canada, July 2017. Association for Computational Linguistics. (comes with a video and slides) (recommended by Axel and Adam) 2020-10-16
+  * M. Artetxe, G. Labaka, and E. Agirre. [Learning bilingual word embeddings with (almost) no bilingual data.](https://www.aclweb.org/anthology/P17-1042/) In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 451–462, Vancouver, Canada, July 2017. Association for Computational Linguistics. (comes with a video and slides) (recommended by Axel and Adam) 2020-10-16
 
- * J. Y. Chai, Q. Gao, L. She, S. Yang, S. Saba-Sadiya, and G. Xu. [Language to action: Towards interactive task learning with physical agents.](https://doi.org/10.24963/ijcai.2018/1) In Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence, IJCAI-18, pages 2–9. International Joint Conferences on Artificial Intelligence Organization, 7 2018. 2020-10-02 [Talk](https://slideslive.com/38929802/situated-humanmachine-communication), [workshop with the talk](https://nli-acl2020.github.io/)
+  * J. Y. Chai, Q. Gao, L. She, S. Yang, S. Saba-Sadiya, and G. Xu. [Language to action: Towards interactive task learning with physical agents.](https://doi.org/10.24963/ijcai.2018/1) In Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence, IJCAI-18, pages 2–9. International Joint Conferences on Artificial Intelligence Organization, 7 2018. 2020-10-02 [Talk](https://slideslive.com/38929802/situated-humanmachine-communication), [workshop with the talk](https://nli-acl2020.github.io/)
 
- * J. Pustejovsky and N. Krishnaswamy. [Situated meaning in multimodal dialogue: Human-robot and human-computer interactions.](http://www.voxicon.net/wp-content/uploads/2020/07/TAL_2020-13.pdf) Journal article manuscript, Department of Computer Science, Brandeis University, July 2020. (recommneded by Bill and Nikolai) 2020-09-21 [Talk](https://www.youtube.com/watch?v=IwIvn64mT3U)
+  * J. Pustejovsky and N. Krishnaswamy. [Situated meaning in multimodal dialogue: Human-robot and human-computer interactions.](http://www.voxicon.net/wp-content/uploads/2020/07/TAL_2020-13.pdf) Journal article manuscript, Department of Computer Science, Brandeis University, July 2020. (recommneded by Bill and Nikolai) 2020-09-21 [Talk](https://www.youtube.com/watch?v=IwIvn64mT3U)
 
- * A. Knott and M. Takac. [Roles for event representations in sensorimotor experience, memory formation, and language processing.](https://doi.org/10.1111/tops.12497) Topics in Cognitive Science, 2020. ([local copy](https://slack-files.com/files-pri-safe/TU15D2JSX-F019M7Z47RA/knott-takac-tops20.pdf?c=1598966339-11af60792c469780)) (recommended by Robin) 2020-09-04
+  * A. Knott and M. Takac. [Roles for event representations in sensorimotor experience, memory formation, and language processing.](https://doi.org/10.1111/tops.12497) Topics in Cognitive Science, 2020. ([local copy](https://slack-files.com/files-pri-safe/TU15D2JSX-F019M7Z47RA/knott-takac-tops20.pdf?c=1598966339-11af60792c469780)) (recommended by Robin) 2020-09-04
 
- * Parizi, A. H., & Cook, P. (2020). [Evaluating Sub-word embeddings in cross-lingual models.](https://www.aclweb.org/anthology/2020.lrec-1.330.pdf) Proceedings ofthe 12th Conference on Language Resources and Evaluation (LREC 2020), May, 2712–2719. (recommended by Tewodros) 2020-06-26
+  * Parizi, A. H., & Cook, P. (2020). [Evaluating Sub-word embeddings in cross-lingual models.](https://www.aclweb.org/anthology/2020.lrec-1.330.pdf) Proceedings ofthe 12th Conference on Language Resources and Evaluation (LREC 2020), May, 2712–2719. (recommended by Tewodros) 2020-06-26
 
- * Pezzelle, S., & Fernández, R. (2019). Is the Red Square Big? MALeViC: Modeling Adjectives Leveraging Visual Contexts. arXiv preprint arXiv:1908.10285. [paper](https://arxiv.org/pdf/1908.10285.pdf) (recommended by Staffan) 2020-06-12
+  * Pezzelle, S., & Fernández, R. (2019). Is the Red Square Big? MALeViC: Modeling Adjectives Leveraging Visual Contexts. arXiv preprint arXiv:1908.10285. [paper](https://arxiv.org/pdf/1908.10285.pdf) (recommended by Staffan) 2020-06-12
 
- * Talk: Míriam Sánchez-Alcón: The significance of applying attention to Visual Question Answering  [paper](https://gubox.app.box.com/s/djn8w0k2qlmkgbdsr8yk0dsz22r1fjsj) and  Wu, J., & Mooney, R. J. (2018). Faithful Multimodal Explanation for Visual Question Answering [cs.CL], 2020. [paper](http://arxiv.org/abs/1809.02805) (recommended by Simon) 2020-05-29
+  * Talk: Míriam Sánchez-Alcón: The significance of applying attention to Visual Question Answering  [paper](https://gubox.app.box.com/s/djn8w0k2qlmkgbdsr8yk0dsz22r1fjsj) and  Wu, J., & Mooney, R. J. (2018). Faithful Multimodal Explanation for Visual Question Answering [cs.CL], 2020. [paper](http://arxiv.org/abs/1809.02805) (recommended by Simon) 2020-05-29
 
- * Goodman, N. D., & Frank, M. C. (2016). Pragmatic Language Interpretation as Probabilistic Inference. In Trends in Cognitive Sciences. [paper](http://langcog.stanford.edu/papers_new/goodman-2016-underrev.pdf) (recommended by Bill) 2020-05-15
+  * Goodman, N. D., & Frank, M. C. (2016). Pragmatic Language Interpretation as Probabilistic Inference. In Trends in Cognitive Sciences. [paper](http://langcog.stanford.edu/papers_new/goodman-2016-underrev.pdf) (recommended by Bill) 2020-05-15
 
- * Talk: David Alfter: Visual features in textual complexity classification: a case study on pictograms  [paper](https://gubox.box.com/shared/static/nuyn4p02bcj8pok1lmd9huf54wfmt8an.pdf) and  Y. Bisk, A. Holtzman, J. Thomason, J. Andreas, Y. Bengio, J. Chai, M. Lapata, A. Lazaridou, J. May, A. Nisnevich, N. Pinto, and J. Turian. Experience grounds language. arXiv, arXiv:2004.10151 [cs.CL], 2020. [paper](https://arxiv.org/abs/2004.10151) 2020-04-30
+  * Talk: David Alfter: Visual features in textual complexity classification: a case study on pictograms  [paper](https://gubox.box.com/shared/static/nuyn4p02bcj8pok1lmd9huf54wfmt8an.pdf) and  Y. Bisk, A. Holtzman, J. Thomason, J. Andreas, Y. Bengio, J. Chai, M. Lapata, A. Lazaridou, J. May, A. Nisnevich, N. Pinto, and J. Turian. Experience grounds language. arXiv, arXiv:2004.10151 [cs.CL], 2020. [paper](https://arxiv.org/abs/2004.10151) 2020-04-30
 
-* J. Krause, J. Johnson, R. Krishna, and L. Fei-Fei. A hierarchical approach for generating descriptive image paragraphs. In 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pages 3337–3345, July 21–26 2017. [paper](https://arxiv.org/pdf/1611.06607.pdf) (recommended by Nikolai)
+  * J. Krause, J. Johnson, R. Krishna, and L. Fei-Fei. A hierarchical approach for generating descriptive image paragraphs. In 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pages 3337–3345, July 21–26 2017. [paper](https://arxiv.org/pdf/1611.06607.pdf) (recommended by Nikolai)
 
- * Tai, Kai & Socher, Richard & Manning, Christoper. (2015). Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks. 1. 10.3115/v1/P15-1150. [paper](https://arxiv.org/abs/1503.00075) (recommended by Axel) 2020-04-03
+  * Tai, Kai & Socher, Richard & Manning, Christoper. (2015). Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks. 1. 10.3115/v1/P15-1150. [paper](https://arxiv.org/abs/1503.00075) (recommended by Axel) 2020-04-03
 
   * Cohn-Gordon, R., Goodman, N., & Potts, C. (2018). Pragmatically Informative Image Captioning with Character-Level Inference. [paper](http://arxiv.org/abs/1804.05417) (recommended by Nikolai) 2020-03-20
 
@@ -191,7 +169,7 @@ permalink: /meetings/
 
   * F. Cavicchio, D. Melcher, and M. Poesio. The effect of linguistic and visual salience in visual world studies. Frontiers in Psychology, 5:176, 2014. [paper](https://www.frontiersin.org/article/10.3389/fpsyg.2014.00176) (recommended by Sharid and Simon) 2019-11-15
 
- * S. Kottur, J. M. Moura, D. Parikh, D. Batra, and M. Rohrbach. Visual coreference resolution in visual dialog using neural module networks. In Proceedings of the European Conference on Computer Vision (ECCV), pages 153–169, 2018. (recommended by Sharid and Simon) [link](http://openaccess.thecvf.com/content_ECCV_2018/papers/Satwik_Kottur_Visual_Coreference_Resolution_ECCV_2018_paper.pdf) 2019-10-04
+  * S. Kottur, J. M. Moura, D. Parikh, D. Batra, and M. Rohrbach. Visual coreference resolution in visual dialog using neural module networks. In Proceedings of the European Conference on Computer Vision (ECCV), pages 153–169, 2018. (recommended by Sharid and Simon) [link](http://openaccess.thecvf.com/content_ECCV_2018/papers/Satwik_Kottur_Visual_Coreference_Resolution_ECCV_2018_paper.pdf) 2019-10-04
 
   * J. M. Cano Sant ́ın. Fast visual grounding in interaction: bringing few-shot learning with neural networks to an interactive robot. Masters in language technology (mlt), 30 hec, Department of Philosophy, Lin- guistics and Theory of Science (FLOV), University of Gothenburg, Gothenburg, Sweden, September 18 2019. Supervisor: Simon Dobnik and Mehdi Ghanimifard, examiner: Aarne Ranta. 2019-09-18
 
