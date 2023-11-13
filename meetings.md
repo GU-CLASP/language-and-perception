@@ -7,8 +7,9 @@ permalink: /meetings/
   - The reading group meets on even Fridays 10-12 in the seminar room on the 5th floor of Humanistiska fakulteten, Renströmsgatan 6 and on [on Zoom](https://gu-se.zoom.us/j/726750116).
 
   - Please add here [here](https://github.com/GU-CLASP/language-and-perception/blob/master/papers.bib) any papers you would like to suggest for the reading group.
-    - Write your name and any other comments in the Notes field. Papers that have been on the list for a while might be moved to [the attic](papers-attic.md).
-    - If available, prefer links to the published (e.g. ACL) rather than arXiV versions. Papers that are not published online can be uploaded [here](https://linux.dobnik.net/cloud/index.php/s/Z2iPGa28Mexyz24).
+    - Write your name and any other comments in the `Note` field. Papers that have been on the list for a while might be moved to [the attic](papers-attic.md).
+    - If available, prefer published papers (e.g. ACL) rather than arXiV versions. Papers that are not published online can be uploaded [here](https://linux.dobnik.net/cloud/index.php/s/Z2iPGa28Mexyz24).
+    - Add a link to the paper in the `Url` field.
 
   - Participating gives you [course credit](https://gu-clasp.github.io/language-and-perception/courses/).
   
