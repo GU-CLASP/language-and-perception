@@ -56,11 +56,11 @@ permalink: /meetings/
 
   * Participants: Ricardo (presenter), Arianna, Herbert, Maria, Felix, Robin, Tom Sjödahl, Simon
 
- * Planning after LSD, 2023-09-19
+  * Planning after LSD, 2023-09-19
 
-   * Participants: Robin, Elham, Aram, Simon 
+    * Participants: Robin, Elham, Aram, Simon 
   
-* Out to the islands, 2023-06-16
+  * Out to the islands, 2023-06-16
 
    * E. Gualdoni, T. Brochhagen, A. Mädebach, and G. Boleda. [What's in a name? a large-scale computational study on how competition between names affects naming variation](https://psyarxiv.com/t84eu/download). Submitted, 2023.
    
