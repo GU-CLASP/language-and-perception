@@ -70,7 +70,7 @@ Please add here (bibtex [here](https://github.com/GU-CLASP/language-and-percepti
 * Guest: Guy Emerson, University of Cambridge, Distributional semantics for situated spatial language
   * Y. Liu and G. Emerson. [Learning functional distributional semantics with visual data.](https://aclanthology.org/2022.acl-long.275/) In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 3976–3988, Dublin, Ireland, May 2022. Association for Computational Linguistics.
   * F. Liu, G. Emerson, and N. Collier. [Visual spatial reasoning.](https://aclanthology.org/2023.tacl-1.37/) Transactions of the Association for Computational Linguistics, 11:635–651, 2023.
-  * Participants (23-11-07): Guy (presenter), Elham, Nikolai, Robin, Bill, Staffan, Andreas Johansson, Rasmus and Simon **Note a change of day of the week!**
+  * Participants (23-11-07): Guy (presenter), Elham, Nikolai, Robin, Bill, Staffan, Andreas Johansson, Rasmus and Simon
 
 * Guest: Korentin Kervadec, UPF Barcelona: Bias in VQA reasoning
   * C. Kervadec, G. Antipov, M. Baccouche, and C. Wolf. [Roses are red, violets are blue... but should vqa expect them to?](https://ieeexplore.ieee.org/document/9578217) In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pages 2776–2785, June 2021.
