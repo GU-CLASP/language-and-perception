@@ -50,7 +50,7 @@ Please register for the workshop using the following link (coming soon)
 
 Because of its interactive nature, the workshop will be on-site only. However, future events are planned also for online participation. To be informed about these, please subscribe to our [mailing list](https://listserv.gu.se/sympa/subscribe/ethics-for-nlp). 
 
-You can also join our [Discord server](https://discord.gg/Xh6Nmb4uFe) which we will monitor for questions.
+You can also join our [Discord server](https://discord.gg/fEfkcVu7QG) which we will monitor for questions.
 
 ### Workshop organisers
 
