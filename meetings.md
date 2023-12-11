@@ -16,11 +16,26 @@ permalink: /meetings/
 
 ### Next
 
-  * Guest: Amelie Robrecht, University of Bielefeld: RSA,  2023-11-17
-    * A. Robrecht. and S. Kopp. [Snape: A sequential non-stationary decision process model for adaptive explanation generation.](https://www.scitepress.org/Papers/2023/116713/116713.pdf) In Proceedings of the 15th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART, pages 48–58. INSTICC, SciTePress, 2023.
-    * Participants: Amelie (presenter)
+
+
+### Upcoming
+
+  * Guest: Hsiu-Yu Yang, University of Stuttgart: Procedural knowledge, 2024-01-12 or 2024-02-09
+    * Hsiu-Yu Yang, Carina Silberer. 2023. Implicit Affordance Acquisition via Causal Action–Effect Modeling in the Video Domain. In Proceedings of the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 13th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2023), (to appear).
+    * Participants:
+   
+  * Guest: Letitia Parcalabescu (https://www.cl.uni-heidelberg.de/nlpgroup/person/parcalabescu), University of Heidelberg: TBA, 2024-01-26
+    * Invited talk, papers: TBA
+    * Participants:
       
 ### Read
+
+  * EMNLP 2023, 2023-12-08
+    * Participants: Simon, Nikolai, Aram, Elham
+
+  * Guest: Amelie Robrecht, University of Bielefeld: RSA,  2023-11-17
+    * A. Robrecht. and S. Kopp. [Snape: A sequential non-stationary decision process model for adaptive explanation generation.](https://www.scitepress.org/Papers/2023/116713/116713.pdf) In Proceedings of the 15th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART, pages 48–58. INSTICC, SciTePress, 2023.
+    * Participants: Amelie (presenter), Simon, Alex, Nikolai
 
   * Guest: Guy Emerson, University of Cambridge, Distributional semantics for situated spatial language, 2023-11-07
     * Y. Liu and G. Emerson. [Learning functional distributional semantics with visual data.](https://aclanthology.org/2022.acl-long.275/) In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 3976–3988, Dublin, Ireland, May 2022. Association for Computational Linguistics.
