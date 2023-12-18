@@ -20,18 +20,15 @@ permalink: /meetings/
 
 ### Upcoming
 
-  * 2024-01-12
-  * Guest: Xuan-Son Vu (https://www.umu.se/en/staff/xuan-son-vu/), University of Heidelberg: TBA
+  * 2024-01-12, Guest: Xuan-Son Vu (https://www.umu.se/en/staff/xuan-son-vu/), University of Heidelberg: TBA
     * Invited talk, papers: TBA
     * Participants:
 
-  * 2024-01-26
-  * Guest: Letitia Parcalabescu (https://www.cl.uni-heidelberg.de/nlpgroup/person/parcalabescu), University of Heidelberg: TBA
+  * 2024-01-26, Guest: Letitia Parcalabescu (https://www.cl.uni-heidelberg.de/nlpgroup/person/parcalabescu), University of Heidelberg: TBA
     * Invited talk, papers: TBA
     * Participants:
 
-  * 2024-02-09
-  * Guest: Hsiu-Yu Yang, University of Stuttgart: Procedural knowledge, TTBA
+  * 2024-02-09, Guest: Hsiu-Yu Yang, University of Stuttgart: Procedural knowledge, TTBA
     * Hsiu-Yu Yang, Carina Silberer. 2023. Implicit Affordance Acquisition via Causal Action–Effect Modeling in the Video Domain. In Proceedings of the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 13th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2023), (to appear).
     * Participants:
   
