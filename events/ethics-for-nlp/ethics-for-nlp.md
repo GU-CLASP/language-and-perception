@@ -40,17 +40,17 @@ Please upload your submissions (zipped in a file name.surname.zip) with your ful
 
 * Submission of extended abstracts: 1 December 2023
 * Notification of acceptance: 22 December
-* Registration: 9 January 2024
+* Registration: 8 January 2024
 
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
 ### Registration
 
-Please register for the workshop using the following link (coming soon)
+Please register for the workshop [here](https://forms.office.com/e/jjbe8FK1jE) by 8 January 2024.
 
 Because of its interactive nature, the workshop will be on-site only. However, future events are planned also for online participation. To be informed about these, please subscribe to our [mailing list](https://listserv.gu.se/sympa/subscribe/ethics-for-nlp). 
 
-You can also join our [Discord server](https://discord.gg/fEfkcVu7QG) which we will monitor for questions.
+You are also encouraged yo join our [Discord](https://discord.gg/fEfkcVu7QG) which we intend to become a meeting point for sharing experiences and materials related to teaching and research in ethics for natural language processing before, during and after the workshop.
 
 ### Workshop organisers
 
