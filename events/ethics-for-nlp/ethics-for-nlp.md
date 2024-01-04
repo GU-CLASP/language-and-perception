@@ -14,6 +14,26 @@ Organised by the Stockholm, Uppsala and Umeå interest group in ethics for NLP
 * Address: Renströmsgatan 6, floor 3
 * Room: J335
 
+### Programme (preliminary)
+
+* 10:00 Welcome
+* 10:15 Keynote: [Kristina Knaving](https://www.ri.se/en/kristina-knaving) 
+* 11:00 Break
+* 11:15 Keynote: [Stefan Larsson](https://portal.research.lu.se/en/persons/stefan-larsson)
+* 12:00 Lunch
+* 13:15 Keynote: [Juan Carlos Nieves Sanchez](https://www.umu.se/en/staff/juan-carlos-nieves/)
+* 14:00 Lightning talks
+  * 14:00 - 14:10: Iris Guske: Patterns vs particularities: Merging NLP and case study capabilities and responsibilities in life history research
+  * 14:10 - 14:20: Nikolai Ilinykh: Biases in language-and-vision NLP: where we are and what we might need
+  * 14:20 - 14:30: tbc
+  * 14:30 - 14:40: tbc
+  * 14:40 - 14:50: tbc
+  * 14:50 - 15:00: tbc
+* 15:00 Coffee break
+* 15:30 Group discussions
+* 16:30 Summaries of discussions and final thoughts
+* 17:30 Close
+
 ### Workshop description
 
 AI tasks related to modelling human language and that focus on decision making (such as identification of patient diagnoses and driving) have developed substantially over the last several years. In many areas it has been claimed that AI learning from data alone has achieved human-like performance, sometimes even better, but due to the nature of these models it is very hard to inspect directly what such models have learned. Instead, we can only observe their performance, which might be biased in one or more ways, and which has societal and environmental implications.
