@@ -14,25 +14,25 @@ Organised by the Stockholm, Uppsala and Umeå interest group in ethics for NLP
 * Address: Renströmsgatan 6, floor 3
 * Room: J335
 
-### Programme (preliminary)
+### Programme
 
-* 10:00 Welcome
-* 10:15 Keynote: [Kristina Knaving](https://www.ri.se/en/kristina-knaving) 
-* 11:00 Break
-* 11:15 Keynote: [Stefan Larsson](https://portal.research.lu.se/en/persons/stefan-larsson)
-* 12:00 Lunch
-* 13:15 Keynote: [Juan Carlos Nieves Sanchez](https://www.umu.se/en/staff/juan-carlos-nieves/)
-* 14:00 Lightning talks
-  * 14:00 - 14:10: Iris Guske: Patterns vs particularities: Merging NLP and case study capabilities and responsibilities in life history research
-  * 14:10 - 14:20: Nikolai Ilinykh: Biases in language-and-vision NLP: where we are and what we might need
-  * 14:20 - 14:30: tbc
-  * 14:30 - 14:40: tbc
-  * 14:40 - 14:50: tbc
-  * 14:50 - 15:00: tbc
-* 15:00 Coffee break
-* 15:30 Group discussions
-* 16:30 Summaries of discussions and final thoughts
-* 17:30 Close
+* __10:00__ Welcome
+* __10:15__ Keynote: [Kristina Knaving](https://www.ri.se/en/kristina-knaving) 
+* __11:00__ Break
+* __11:15__ Keynote: [Stefan Larsson](https://portal.research.lu.se/en/persons/stefan-larsson)
+* __12:00__ Lunch
+* __13:15__ Keynote: [Juan Carlos Nieves Sanchez](https://www.umu.se/en/staff/juan-carlos-nieves/)
+* __14:00__ Lightning talks
+  * __14:00__ - 14:10: Iris Guske: Patterns vs particularities: Merging NLP and case study capabilities and responsibilities in life history research
+  * __14:10__ - 14:20: Nikolai Ilinykh: Biases in language-and-vision NLP: where we are and what we might need
+  * __14:20__ - 14:30: tbc
+  * __14:30__ - 14:40: tbc
+  * __14:40__ - 14:50: tbc
+  * __14:50__ - 15:00: tbc
+* __15:00__ Coffee break
+* __15:30__ Group discussions
+* __16:30__ Summaries of discussions and final thoughts
+* __17:30__ Close
 
 ### Workshop description
 
