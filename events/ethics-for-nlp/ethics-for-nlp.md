@@ -25,8 +25,8 @@ Organised by the Stockholm, Uppsala and Umeå interest group in ethics for NLP
 * __14:00__ Lightning talks
   * __14:00__ - 14:10: Iris Guske: Patterns vs particularities: Merging NLP and case study capabilities and responsibilities in life history research
   * __14:10__ - 14:20: Nikolai Ilinykh: Biases in language-and-vision NLP: where we are and what we might need
-  * __14:20__ - 14:30: tbc
-  * __14:30__ - 14:40: tbc
+  * __14:20__ - 14:30: Matilda Arvidsson: Legal discretion and the many meanings of law’s language: Challenges and possibilities for ‘NLP-as-law’s-helping-hand’
+  * __14:30__ - 14:40: Thomas Vakili: tbd
   * __14:40__ - 14:50: tbc
   * __14:50__ - 15:00: tbc
 * __15:00__ Coffee break
@@ -48,7 +48,22 @@ The workshop represents the first forum following the discussions at several Swe
 
 * [Kristina Knaving](https://www.ri.se/en/person/kristina-knaving), RISE
 * [Stefan Larsson](https://portal.research.lu.se/en/persons/stefan-larsson), Lund University
+   * *The Perils of Being Normative: Towards a Socio-Legal Framework on Social Norms and Adaptive Technologies*
+   * While recent progress has been made in several fields of data-intense AI-research, many applications have been shown to be prone to unintendedly reproduce social biases, sexism and stereotyping. As more of design-based, algorithmic or machine learning methodologies, here called adaptive technologies, become embedded in anything from commonly used software to robotics, there is a need for a developed understanding of what role social norms play in the interplay between human expressions and technology, particularly with regards to fairness. In this presentation, Larsson proposes a theoretical framework for the interplay between adaptive technologies and social norms in order to point to the often normative, non-neutral, aspects of developing and implementing adaptive technologies.
+ * *Stefan Larsson* is a senior lecturer and Associate Professor in Technology and Social Change at Lund University, Sweden, Department of Technology and Society at LTH. He is a lawyer and socio-legal researcher that holds a PhD in Sociology of Law as well as a PhD in Spatial Planning. He leads a multidisciplinary research group on AI and Society, that studies the impact of AI-supported technologies in various domains, such as on consumer markets, in the public sector, for health, and social robotics.
 * [Juan Carlos Nieves](https://www.umu.se/personal/juan-carlos-nieves/), Umeå University
+
+
+### Lightning talks
+
+* Iris Guske
+* Nikolai Ilinykh
+* Matilda Arvidsson
+   * *Legal discretion and the many meanings of law’s language: Challenges and possibilities for ‘NLP-as-law’s-helping-hand’*
+   * In my research I have explored questions on legal discretion and decision making (Arvidsson & Noll 2023), the meaning and matter in law’s language (e.g., Arvidsson 2024, Arvidsson 2023), as well as the “human in the loop” (Arvidsson 2020, 2018) in relation to AI. In my brief talk I will relay some of the findings from my previous research and point to challenges and possibilities for using NLP in legal research and practice.
+   * *Matilda Arvidsson* is an associate professor of international law and assistant senior lecturer in jurisprudence at the Department of Law, the University of Gothenburg. Her research interests are interdisciplinary and include AI and law, posthumanism and technology, feminism and ethnography, as well as the embodiment of law in its various forms and in inter-species relations.
+ * Thomas Vakili
+
 
 ### Submissions
 
