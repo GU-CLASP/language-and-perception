@@ -70,6 +70,7 @@ The workshop represents the first forum following the discussions at several Swe
  * Thomas Vakili
    * **Privacy in the era of large language models**
    * The NLP community is seeing widespread use of large language models (LLMs) that consist of vast amounts of parameters trained using enormous amounts of data. This combination of parameter count and training data size poses a risk to the privacy of individuals mentioned in the training data of LLMs. In this talk, I will give an overview of these privacy risks and some proposed mitigation strategies. A particular emphasis will be placed on how automatically pseudonymizing training data can reduce privacy risks while preserving their usefulness.
+   * *Thomas Vakili* is a PhD student at the Department of Computer and Systems Sciences at Stockholm University. The primary focus of his research is understanding the privacy risks of modern natural language processing practices, and exploring how to make these practices safer.
 
 
 ### Submissions
