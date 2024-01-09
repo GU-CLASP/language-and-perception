@@ -26,7 +26,7 @@ Organised by the Stockholm, Uppsala and Umeå interest group in ethics for NLP
   * __14:00__ - 14:10: Iris Guske: Patterns vs particularities: Merging NLP and case study capabilities and responsibilities in life history research
   * __14:10__ - 14:20: Nikolai Ilinykh: Biases in language-and-vision NLP: where we are and what we might need
   * __14:20__ - 14:30: Matilda Arvidsson: Legal discretion and the many meanings of law’s language: Challenges and possibilities for ‘NLP-as-law’s-helping-hand’
-  * __14:30__ - 14:40: Thomas Vakili: tbd
+  * __14:30__ - 14:40: Thomas Vakili: Privacy in the era of large language models
   * __14:40__ - 14:50: tbc
   * __14:50__ - 15:00: tbc
 * __15:00__ Coffee break
@@ -63,6 +63,8 @@ The workshop represents the first forum following the discussions at several Swe
    * In my research I have explored questions on legal discretion and decision making (Arvidsson & Noll 2023), the meaning and matter in law’s language (e.g., Arvidsson 2024, Arvidsson 2023), as well as the “human in the loop” (Arvidsson 2020, 2018) in relation to AI. In my brief talk I will relay some of the findings from my previous research and point to challenges and possibilities for using NLP in legal research and practice.
    * *Matilda Arvidsson* is an associate professor of international law and assistant senior lecturer in jurisprudence at the Department of Law, the University of Gothenburg. Her research interests are interdisciplinary and include AI and law, posthumanism and technology, feminism and ethnography, as well as the embodiment of law in its various forms and in inter-species relations.
  * Thomas Vakili
+   * **Privacy in the era of large language models**
+   * The NLP community is seeing widespread use of large language models (LLMs) that consist of vast amounts of parameters trained using enormous amounts of data. This combination of parameter count and training data size poses a risk to the privacy of individuals mentioned in the training data of LLMs. In this talk, I will give an overview of these privacy risks and some proposed mitigation strategies. A particular emphasis will be placed on how automatically pseudonymizing training data can reduce privacy risks while preserving their usefulness.
 
 
 ### Submissions
