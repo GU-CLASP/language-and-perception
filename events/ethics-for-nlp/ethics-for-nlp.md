@@ -15,7 +15,7 @@ Organised by the Stockholm, Uppsala and Umeå interest group in ethics for NLP
 * Room: J335
 
 
-[[_TOC_]]
+[TOC]
 
 
 ### Programme
