@@ -15,10 +15,20 @@ Organised by the Stockholm, Uppsala and Umeå interest group in ethics for NLP
 * Room: J335
 
 
-[TOC]
+### Table of Contents
+* [Programme](#programme)
+* [Workshop description](#description)
+* [Invited speakers](#speakers)
+* [Lightning talks](#talks)
+* [Submissions](#submissions) - **Note:** the deadline for submissions has already past!
+* [Important dates](#dates)
+* [Registration](#registration)
+* [Workshop Organisers](#workshop_organisers)
+* [Local Organisers](#local_organisers)
+* [Acknowledgements](#acknowledgments)
 
 
-### Programme
+### Programme<a name="programme"></a>
 
 * __10:00__ Welcome
 * __10:15__ Keynote: [Kristina Knaving](https://www.ri.se/en/kristina-knaving) 
@@ -38,7 +48,7 @@ Organised by the Stockholm, Uppsala and Umeå interest group in ethics for NLP
 * __16:30__ Summaries of discussions and final thoughts
 * __17:30__ Close
 
-### Workshop description
+### Workshop description<a name="description"></a>
 
 AI tasks related to modelling human language and that focus on decision making (such as identification of patient diagnoses and driving) have developed substantially over the last several years. In many areas it has been claimed that AI learning from data alone has achieved human-like performance, sometimes even better, but due to the nature of these models it is very hard to inspect directly what such models have learned. Instead, we can only observe their performance, which might be biased in one or more ways, and which has societal and environmental implications.
 
@@ -48,7 +58,7 @@ Intended participants are researchers, university teachers, masters and PhD stud
 
 The workshop represents the first forum following the discussions at several Swedish language technology ämnesdagar. Topics that have been addressed there are biases in training data, biases in computational models, personal integrity (anonymisation and pseudonymisation of data), intellectual property rights, using language technology tools to detect non-ethical language use, utilising language technology in under-resourced domains and communities (e.g. minority languages), legal aspects of using language technology, philosophical questions and others. The purpose of the workshop is to further discuss these points from the research perspective and later develop as a short (e.g. 2.5 hec) online course for students of language technology and related fields at the participating sites, as well as general public interested in this area.
 
-### Invited speakers
+### Invited speakers<a name="speakers"></a>
 
 * [Kristina Knaving](https://www.ri.se/en/person/kristina-knaving), RISE
    * Generative AI, like ChatGPT, DALL-E, and Midjourney, has recently changed our view of what AI can do by entering a traditionally human domain - creativity. What can we truly expect from AI, and what do we want to expect? Kristina will be doing a contemporary and future outlook on AI and generative AI in creative work and society as a whole. There are many opportunities, but also concerns and questions about ethics, democracy, and privacy.
@@ -63,7 +73,7 @@ The workshop represents the first forum following the discussions at several Swe
    * *Juan Carlos Nieves* is an associate professor at the Department of Computing Science, Umeå University (UMU) (Sweden).  He is the programme Director of the MSc programme in Artificial Intelligence at UMU. He is the research leader of the Formal Methods for Trustworthy Hybrid Intelligence group, and an affiliated member of the Responsible Artificial Intelligence group at UMU.  He has been serving as an external (Ethical) advisor/reviewer in different EU projects. He has also served as an expert reviewer for different European national research councils. He has been an AI-ethical advisor for European initiatives such as EU BonAPPS and for American initiatives such as fAIr LAC  of the Inter-American Development Bank.
 
 
-### Lightning talks
+### Lightning talks<a name="talks"></a>
 
 * Iris Guske
    * **The Case for Merging NLP and Case Study Capabilities in Life History Research**
@@ -87,40 +97,40 @@ The workshop represents the first forum following the discussions at several Swe
    * *Tom Södahl Bladsjö* is a master's student of language technology at University of Gothenburg. His research interests include bias and fairness in AI, subjectivity in ground truthing, and the relationship between model and training data. 
 
 
-### Submissions
+### Submissions<a name="submissions"></a>
 
 Submissions of up to 4 pages should follow [the ACL formatting template](https://2023.aclweb.org/calls/style_and_formatting/), should be in English and contain full contact information of the presenter(s). Authors are also encouraged to submit any other information that they would like to discuss and share about this topic, in particular if it is relevant for the preparation of the course.
 
 Please upload your submissions (zipped in a file name.surname.zip) with your full contact details [here](https://linux.dobnik.net/cloud/s/dwn7nmY68aEjatK).
 
-### Important dates
+### Important dates<a name="dates"></a>
 
-* Submission of extended abstracts: 1 December 2023
-* Notification of acceptance: 22 December
-* Registration: 8 January 2024
+* Submission of extended abstracts: ~~1 December 2023~~
+* Notification of acceptance: ~~22 December~~
+* Registration: ~~8 January 2024~~ It is still possible to sign up to be added to the waiting list!
 
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
-### Registration
+### Registration<a name="registration"></a>
 
-Please register for the workshop [here](https://forms.office.com/e/jjbe8FK1jE) by 8 January 2024.
+Please register for the workshop [here](https://forms.office.com/e/jjbe8FK1jE) by 8 January 2024. Note that even though the deadline is past, it is still possible to register to be added to the waiting list.
 
 Because of its interactive nature, the workshop will be on-site only. However, future events are planned also for online participation. To be informed about these, please subscribe to our [mailing list](https://listserv.gu.se/sympa/subscribe/ethics-for-nlp). 
 
 You are also encouraged yo join our [Discord](https://discord.gg/fEfkcVu7QG) which we intend to become a meeting point for sharing experiences and materials related to teaching and research in ethics for natural language processing before, during and after the workshop.
 
-### Workshop organisers
+### Workshop organisers<a name="workshop_organisers"></a>
 
   - [Hannah Devinney](https://www.umu.se/en/staff/hannah-devinney/), Umeå University
   - [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik), University of Gothenburg (contact person)
   - [Beáta Megyesi](https://www.su.se/english/profiles/beba5639-1.468162), Stockholm University
 
-### Local organisers  
+### Local organisers<a name="local_organisers"></a>
   
   - [Ricardo Muñoz Sánchez](https://www.gu.se/en/about/find-staff/ricardomunozsanchez), University of Gothenburg
   - [Maria Irena Szawerna](https://www.gu.se/en/about/find-staff/mariaszawerna), University of Gothenburg
 
-### Acknowledgements
+### Acknowledgements<a name="acknowledgements"></a>
 
 We are grateful for the financial support from:
 
