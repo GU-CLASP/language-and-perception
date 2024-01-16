@@ -14,6 +14,10 @@ Organised by the Stockholm, Uppsala and Umeå interest group in ethics for NLP
 * Address: Renströmsgatan 6, floor 3
 * Room: J335
 
+
+[[_TOC_]]
+
+
 ### Programme
 
 * __10:00__ Welcome
