@@ -27,7 +27,7 @@ Organised by the Stockholm, Uppsala and Umeå interest group in ethics for NLP
   * __14:10__ - 14:20: Nikolai Ilinykh: Biases in language-and-vision NLP: where we are and what we might need
   * __14:20__ - 14:30: Matilda Arvidsson: Legal discretion and the many meanings of law’s language: Challenges and possibilities for ‘NLP-as-law’s-helping-hand’
   * __14:30__ - 14:40: Thomas Vakili: Privacy in the era of large language models
-  * __14:40__ - 14:50: tbc
+  * __14:40__ - 14:50: Tom Södahl Bladsjö: All humans are human, but some ethnicities are more ethnic than others: On model reporting bias with regards to marginalized groups
   * __14:50__ - 15:00: tbc
 * __15:00__ Coffee break
 * __15:30__ Group discussions
@@ -74,6 +74,10 @@ The workshop represents the first forum following the discussions at several Swe
    * **Privacy in the era of large language models**
    * The NLP community is seeing widespread use of large language models (LLMs) that consist of vast amounts of parameters trained using enormous amounts of data. This combination of parameter count and training data size poses a risk to the privacy of individuals mentioned in the training data of LLMs. In this talk, I will give an overview of these privacy risks and some proposed mitigation strategies. A particular emphasis will be placed on how automatically pseudonymizing training data can reduce privacy risks while preserving their usefulness.
    * *Thomas Vakili* is a PhD student at the Department of Computer and Systems Sciences at Stockholm University. The primary focus of his research is understanding the privacy risks of modern natural language processing practices, and exploring how to make these practices safer.
+* Tom Södahl Bladsjö
+   * **All humans are human, but some ethnicities are more ethnic than others: On model reporting bias with regards to marginalized groups**
+   * Human reporting bias is the tendency to omit unnecessary or obvious information while mentioning things that are considered relevant or surprising. This phenomenon affects what a model will learn when trained on human language. In this talk I will discuss how reporting bias relates to and interacts with social biases, and how this phenomenon can help us understand what perspectives, and what norms, are being encoded in models -- in other words, whose language we are modeling when we model language. I will present some preliminary findings on reporting bias with regards to marginalized ethnicities in image captioning models, which support the hypothesis that models encode a perspective where whiteness is considered the default for humans.
+   * *Tom Södahl Bladsjö* is a master's student of language technology at University of Gothenburg. His research interests include bias and fairness in AI, subjectivity in ground truthing, and the relationship between model and training data. 
 
 
 ### Submissions
