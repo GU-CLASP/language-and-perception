@@ -23,6 +23,7 @@ Organised by the Stockholm, Uppsala and Umeå interest group in ethics for NLP
 * [Submissions](#submissions) - **Note:** the deadline for submissions has already past!
 * [Important dates](#dates)
 * [Registration](#registration)
+* [Instructions for presenters](#instructions)
 * [Workshop Organisers](#workshop_organisers)
 * [Local Organisers](#local_organisers)
 * [Acknowledgements](#acknowledgments)
@@ -42,7 +43,7 @@ Organised by the Stockholm, Uppsala and Umeå interest group in ethics for NLP
   * __14:20__ - 14:30: Matilda Arvidsson: Legal discretion and the many meanings of law’s language: Challenges and possibilities for ‘NLP-as-law’s-helping-hand’
   * __14:30__ - 14:40: Thomas Vakili: Privacy in the era of large language models
   * __14:40__ - 14:50: Tom Södahl Bladsjö: All humans are human, but some ethnicities are more ethnic than others: On model reporting bias with regards to marginalized groups
-  * __14:50__ - 15:00: tbc
+  * __14:50__ - 15:00: Q&A session for the lightning talks speakers
 * __15:00__ Coffee break
 * __15:30__ Group discussions
 * __16:30__ Summaries of discussions and final thoughts
@@ -118,6 +119,24 @@ Please register for the workshop [here](https://forms.office.com/e/jjbe8FK1jE) b
 Because of its interactive nature, the workshop will be on-site only. However, future events are planned also for online participation. To be informed about these, please subscribe to our [mailing list](https://listserv.gu.se/sympa/subscribe/ethics-for-nlp). 
 
 You are also encouraged yo join our [Discord](https://discord.gg/fEfkcVu7QG) which we intend to become a meeting point for sharing experiences and materials related to teaching and research in ethics for natural language processing before, during and after the workshop.
+
+
+### Instructions for presenters<a name="instructions"></a>
+
+* Keynote talks will be 45 minutes.
+  * 10 minutes of these are intended for questions.
+* Lightining talks will be 10 minutes each.
+  * After each presentation we will take questions during the change of speakers
+  * After the lightning talks there will be 10 minutes for questions for all speakers.
+* We hope that additional discussions will take place during the group discussion in the second half of the workshop.
+
+To enable quicker speaker switching, please upload your presentations slides before the talk as pdf to [this shared folder](https://www.dobnik.net/cloud/s/dwn7nmY68aEjatK).
+* The folder as well as the slides will be accessible from the presentation computer in the room.
+* If you would like to update your slides, simply upload a new version with the same filename.
+* Please name your slides as lastname_title.pdf to make it easier for us to know which presentation belongs to who.
+
+If you have have any additional presentation requirements, e.g. slides that are not in pdf, playing video and sound, etc., please [contact Ricardo](mailto:ricardo.munoz.sanchez@gu.se) in advance.
+
 
 ### Workshop organisers<a name="workshop_organisers"></a>
 
