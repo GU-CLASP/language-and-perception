@@ -17,6 +17,7 @@ Organised by the Stockholm, Uppsala and Umeå interest group in ethics for NLP
 
 ### Table of Contents
 * [Programme](#programme)
+* [How to find us](#map)
 * [Workshop description](#description)
 * [Invited speakers](#speakers)
 * [Lightning talks](#talks)
@@ -48,6 +49,10 @@ Organised by the Stockholm, Uppsala and Umeå interest group in ethics for NLP
 * __15:30__ Group discussions
 * __16:30__ Summaries of discussions and final thoughts
 * __17:30__ Close
+
+### How to find us<a name="map"></a>
+<img align="center" width="480" src="venue_map.png"/>
+
 
 ### Workshop description<a name="description"></a>
 
