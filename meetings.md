@@ -16,14 +16,12 @@ permalink: /meetings/
 
 ### Next
 
-
-
-### Upcoming
-
   * 2024-01-26, Guest: Letitia Parcalabescu (https://www.cl.uni-heidelberg.de/nlpgroup/person/parcalabescu), University of Heidelberg: faithfulness and multi-modality in language models
     * Letitia Parcalabescu and Anette Frank. 2023. [On Measuring Faithfulness of Natural Language Explanations.](https://arxiv.org/pdf/2311.07466.pdf)
     * Letitia Parcalabescu and Anette Frank. 2023. [MM-SHAP: A Performance-agnostic Metric for Measuring Multimodal Contributions in Vision and Language Models & Tasks.](https://aclanthology.org/2023.acl-long.223.pdf) In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 4032–4059, Toronto, Canada. Association for Computational Linguistics.
     * Participants:
+
+### Upcoming
 
   * 2024-02-09, Guest: Hsiu-Yu Yang, University of Stuttgart: Procedural knowledge, TBA
     * Hsiu-Yu Yang, Carina Silberer. 2023. Implicit Affordance Acquisition via Causal Action–Effect Modeling in the Video Domain. In Proceedings of the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 13th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2023), (to appear).
