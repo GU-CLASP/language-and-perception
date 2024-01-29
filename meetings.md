@@ -17,7 +17,7 @@ permalink: /meetings/
 ### Next
 
   * 2024-02-09, Guest: Hsiu-Yu Yang, University of Stuttgart: Procedural knowledge, TBA
-    * Hsiu-Yu Yang, Carina Silberer. 2023. [Implicit Affordance Acquisition via Causal Action–Effect Modeling in the Video Domain.](https://arxiv.org/pdf/2312.11345.pdf) In Proceedings of the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 13th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2023), (to appear).
+    * Hsiu-Yu Yang, Carina Silberer. 2023. [Implicit Affordance Acquisition via Causal Action–Effect Modeling in the Video Domain.](http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.55.pdf) In Proceedings of the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 13th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2023), (to appear).
     * Participants:
 
 ### Upcoming
