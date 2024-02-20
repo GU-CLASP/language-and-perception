@@ -16,19 +16,19 @@ permalink: /meetings/
 
 ### Next
 
-  * 2024-02-09, Guest: Hsiu-Yu Yang, University of Stuttgart: Procedural knowledge
-    * Hsiu-Yu Yang, Carina Silberer. 2023. [Implicit Affordance Acquisition via Causal Action–Effect Modeling in the Video Domain.](http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.55.pdf) In Proceedings of the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 13th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2023), (to appear).
-    * Participants:
-
-### Upcoming
-   
   * 2024-02-23, Guest: Yasaman Saffari: Reinforcement Learning, dialogue, RL-based dialogue system with structural state representation
     * In my upcoming presentation, I plan to delve into RL-based task-oriented dialogue systems. I will elaborate on various DQN variants within the dialogue system context. Moreover, I aim to showcase the integration of benefits from both value-based and policy-based methods, demonstrating their modification for optimal utilization in dialogue systems. Additionally, I will discuss attentional and graph-based structural state representation within our framework.
     * [Actor Double Critic Architecture for Dialogue System](https://doi.org/10.22061/jecei.2023.9346.614)
     * Participants:
+
+### Upcoming
   
       
 ### Read
+
+  * 2024-02-09, Guest: Hsiu-Yu Yang, University of Stuttgart: Procedural knowledge
+    * Hsiu-Yu Yang, Carina Silberer. 2023. [Implicit Affordance Acquisition via Causal Action–Effect Modeling in the Video Domain.](http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.55.pdf) In Proceedings of the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 13th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2023), (to appear).
+    * Participants: Simon, Robin, Michael, Adam, Nikolai, Viktoria, Eleni
 
   * 2024-01-26, Guest: Letitia Parcalabescu (https://www.cl.uni-heidelberg.de/nlpgroup/person/parcalabescu), University of Heidelberg: faithfulness and multi-modality in language models
     * Letitia Parcalabescu and Anette Frank. 2023. [On Measuring Faithfulness of Natural Language Explanations.](https://arxiv.org/pdf/2311.07466.pdf)
