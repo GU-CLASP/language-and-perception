@@ -70,7 +70,7 @@ permalink: /meetings/
 
   * D. Hudson and C. D. Manning. [Learning by abstraction: The neural state machine](https://proceedings.neurips.cc/paper_files/paper/2019/file/c20a7ce2a627ba838cfbff082db35197-Paper.pdf). In H. Wallach, H. Larochelle, A. Beygelzimer, F. d'Alché-Buc, E. Fox, and R. Garnett, editors, Advances in Neural Information Processing Systems, volume 32. Curran Associates, Inc., 2019. Participants: Simon, Elham, Aram, Nikolai, 2023-03-24.
 
-  * P. Lison, J. Barnes, and A. Hubin. [skweak: Weak supervision made easy for NLP.](https://aclanthology.org/2021.acl-demo.40) In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations, pages 337–346, Online, Aug. 2021. Association for Computational Linguistics. Participants (23-03-10): Elena, Therese, Sonny, Katya, Nikolai, Aram, Bill, Elham, Simon and Pierre, 2023-03-10.
+  * P. Lison, J. Barnes, and A. Hubin. [skweak: Weak supervision made easy for NLP.](https://aclanthology.org/2021.acl-demo.40) In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations, pages 337–346, Online, Aug. 2021. Association for Computational Linguistics. Participants (23-03-10): Elena, Therese, Sonny, Katya, Nikolai, Aram, Bill, Elham, Adam, Simon and Pierre, 2023-03-10.
 
   * J. Andreas and D. Klein. [Analogs of linguistic structure in deep representations.](https://aclanthology.org/D17-1311) In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pages 2893–2897, Copenhagen, Denmark, Sept. 2017. Association for Computational Linguistics. Participants: Adam, Nikolai, Alex, Vidya and Simon, 2023-02-24.
 
@@ -181,7 +181,7 @@ permalink: /meetings/
   * Cohn-Gordon, R., Goodman, N., & Potts, C. (2018). Pragmatically Informative Image Captioning with Character-Level Inference. [paper](http://arxiv.org/abs/1804.05417) (recommended by Nikolai) 2020-03-20
 
   * Anonymous (2020), Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data.
-[paper](https://openreview.net/forum?id=GKTvAcb12b) (recommended by Mehdi) 2020-03-06 
+[paper](https://openreview.net/forum?id=GKTvAcb12b) (recommended by Mehdi), participants Adam, ... 2020-03-06 
 
   * X. Yu, H. Zhang, Y. Song, Y. Song, and C. Zhang. What you see is what you get: Visual pronoun coreference resolution in dialogues. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), pages 5122–5131, Hong Kong, China, Nov. 2019. Association for Computational Linguistics. [paper](https://www.aclweb.org/anthology/D19-1516) (recommended by Sharid and Simon) 2019-12-13 
   
@@ -207,7 +207,7 @@ permalink: /meetings/
 
   * B. Landau and R. Jackendoff. “what” and “where” in spatial language and spatial cognition. Behavioral and Brain Sciences, 16(2):217–238, 255–265, 1993. Background: B. Landau. Update on “what” and “where” in spatial language: A new division of labor for spatial terms. Cognitive Science, 41(2):321–350, 2016. (recommended by Mehdi) 2018-11-22
 
-  * A. Conneau, G. Kruszewski, G. Lample, L. Barrault, and M. Baroni. What you can cram into a single vector: Probing sentence embeddings for linguistic properties. arXiv, arXiv:1805.01070 [cs.CL], 2018. (recommended by Bill) [link](https://arxiv.org/pdf/1805.01070.pdf) 2018-11-02 
+  * A. Conneau, G. Kruszewski, G. Lample, L. Barrault, and M. Baroni. What you can cram into a single vector: Probing sentence embeddings for linguistic properties. arXiv, arXiv:1805.01070 [cs.CL], 2018. (recommended by Bill), participants: Adam, ... [link](https://arxiv.org/pdf/1805.01070.pdf) 2018-11-02 
 
   * W. Monroe, R. X. D. Hawkins, N. D. Goodman, and C. Potts. Colors in context: A pragmatic neural model for grounded language understanding. Transactions of the Association for Computational Linguistics, 5:325–338, 2017. 2018-10-15  (recommended by Simon and Mehdi) [link](http://www.aclweb.org/anthology/Q17-1023)
 
