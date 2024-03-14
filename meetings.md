@@ -16,15 +16,21 @@ permalink: /meetings/
 
 ### Next
 
-  * 2024-02-23, Guest: Yasaman Saffari: Reinforcement Learning, dialogue, RL-based dialogue system with structural state representation
-    * In my upcoming presentation, I plan to delve into RL-based task-oriented dialogue systems. I will elaborate on various DQN variants within the dialogue system context. Moreover, I aim to showcase the integration of benefits from both value-based and policy-based methods, demonstrating their modification for optimal utilization in dialogue systems. Additionally, I will discuss attentional and graph-based structural state representation within our framework.
-    * [Actor Double Critic Architecture for Dialogue System](https://doi.org/10.22061/jecei.2023.9346.614)
-    * Participants:
+  * 2024-03-22,
 
 ### Upcoming
   
       
 ### Read
+
+  * 2024-03-08, Nikolai Ilinykh: a discussion about studies on language-and-vision and multi-modal models
+    * The meeting was around studies that will be included in Nikolai's thesis.
+    * Participants: Nikolai, Simon, Michael, Aram, Staffan.
+
+  * 2024-02-23, Guest: Yasaman Saffari: Reinforcement Learning, dialogue, RL-based dialogue system with structural state representation
+    * In my upcoming presentation, I plan to delve into RL-based task-oriented dialogue systems. I will elaborate on various DQN variants within the dialogue system context. Moreover, I aim to showcase the integration of benefits from both value-based and policy-based methods, demonstrating their modification for optimal utilization in dialogue systems. Additionally, I will discuss attentional and graph-based structural state representation within our framework.
+    * [Actor Double Critic Architecture for Dialogue System](https://doi.org/10.22061/jecei.2023.9346.614)
+    * Participants: Nikolai, Simon, Alex, Robin, Chara, (Vidya, Ellen, David).
 
   * 2024-02-09, Guest: Hsiu-Yu Yang, University of Stuttgart: Procedural knowledge
     * Hsiu-Yu Yang, Carina Silberer. 2023. [Implicit Affordance Acquisition via Causal Action–Effect Modeling in the Video Domain.](http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.55.pdf) In Proceedings of the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 13th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2023), (to appear).
