@@ -14,6 +14,9 @@ header_pages:
   - path: events.md
     sub_pages:
       - events/ethics-for-nlp/ethics-for-nlp.md
+  - path: projects.md
+    sub_pages:
+      - projects/utopia/cc.md
   - path: masters-projects.md
     sub_pages:
       - masters-projects/situated-agents.md
