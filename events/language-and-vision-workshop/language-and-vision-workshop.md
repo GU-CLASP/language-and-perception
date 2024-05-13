@@ -5,7 +5,7 @@ short_title: LVWorkshop
 permalink: /events/language-and-vision-workshop/
 ---
 
-<img align="centre" width="480" src="website-image.jpg"/>
+<img align="centre" width="900" src="website-image.jpg"/>
 <br>
 <br>
 
