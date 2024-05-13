@@ -43,14 +43,14 @@ Co-located with the doctoral thesis defence of Nikolai Ilinykh for Ph.D. in Comp
 * __13:05__ Welcome
 * __13:15__ - __13:45__ [Jörg Tiedemann](https://researchportal.helsinki.fi/en/persons/jörg-tiedemann)
 * __13:45__ - __13:50__ QA
-* __13:50__ - __14:20__ [Ece Takmaz](https://ecekt.github.io)
+* __13:50__ - __14:20__ [Ece Takmaz](https://ecekt.github.io) (online)
 * __14:20__ - __14:25__ QA
 * __14:25__ - __14:55__ [Carina Silberer](https://sites.google.com/view/carinasilberer/home)
 * __14:55__ - __15:00__ QA
 * __15:00__ - __15:30__ Break
 * __15:30__ - __16:00__ [Desmond Elliott](https://elliottd.github.io)
 * __16:00__ - __16:05__ QA
-* __16:05__ - __16:35__ [Mario Guilianelli](https://glnmario.github.io)
+* __16:05__ - __16:35__ [Mario Guilianelli](https://glnmario.github.io) (online)
 * __16:35__ - __16:40__ QA
 * __16:40__ - __16:45__ Closing
 
