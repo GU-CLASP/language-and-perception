@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Workshop on language-and-vision
-short_title: LVWorkshop
+title: Workshop on Language-and-Vision
+short_title: Lang&Vis
 permalink: /events/language-and-vision-workshop/
 ---
 
