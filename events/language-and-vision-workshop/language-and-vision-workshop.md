@@ -13,15 +13,19 @@ Organised by the Language and Perception research group at CLASP, University of 
 
 Co-located with the doctoral thesis defence of Nikolai Ilinykh for Ph.D. in Computational Linguistics at the Faculty of Humanities, Department of Philosophy, Linguistics and Theory of Science, [official announcement](https://www.gu.se/en/event/nikolai-ilinykh-computational-models-of-language-and-vision-studies-of-neural-models-as-learners-of-multi-modal-knowledge).
 
-* Date: 10th June 2024
-* Location: Humanisten, [Department of Philosophy, Linguistics and Theory of Science (FLoV)](https://www.gu.se/flov/om-oss/kontakt), University of Gothenburg
-* Address: Renströmsgatan 6, floor 3
-* Room: J336
+* <b>Date</b>: 10th June 2024
+
+* <b>Location</b>: Humanisten, [Department of Philosophy, Linguistics and Theory of Science (FLoV)](https://www.gu.se/flov/om-oss/kontakt), University of Gothenburg
+* <b>Address</b>: Renströmsgatan 6, floor 3
+* <b>Room</b>: J336
+
 
 ### Table of Contents
-* [Programme](#programme)
-* [Room Location](#map)
 * [Workshop Description](#description)
+* [Room Location](#map)
+* [Programme](#programme)
+* [Zoom Link](#zoomlink)
+* [How to get to the venue](#howtoget)
 * [Workshop Organisers](#workshop_organisers)
 * [Acknowledgements](#acknowledgments)
 
@@ -38,6 +42,10 @@ Each talk is followed by a short Q&A session.
 The workshop ends with a dinner.
 The day after the workshop, we will have a doctoral thesis defense that everyone is welcome to attend!
 
+
+### Zoom Link<a name="zoomlink"></a>
+
+To be added!
 
 
 ### Programme<a name="programme"></a>
@@ -98,6 +106,29 @@ To enable quicker speaker switching, please upload your presentations slides bef
 
 If you have have any additional presentation requirements, e.g. slides that are not in pdf, playing video and sound, etc., please [contact Ricardo](mailto:ricardo.munoz.sanchez@gu.se) in advance.
 -->
+
+### How to get to the venue<a name="howtoget"></a>
+
+#### Conference Venue
+
+The Humanisten building is located at Näckrosdammen, near the tram/bus stop Korsvägen. The facility is handicap-accessible and environmentally certified.
+
+#### Train station
+
+The Gothenburg Centralstation is located approximately 2km from the Humanisten building; you can either choose to walk or take the tram number 2 or 4 (direction: Mölndal) and get off at tram stop Korsvägen. For timetables and tickets, we recommend the app Västtrafik To Go, a simple way to purchase tickets with your mobile phone.
+
+#### Airport
+
+Landvetter Airport is located 25km from Gothenburg. The airport shuttle service to Gothenburg city departs about every 15 minutes and is very convenient. Get off at bus stop Korsvägen for the conference venue or Nils Ericson Terminalen (Göteborg C) for Gothenburg city. A one-way ticket costs 119 SEK. For schedule and ticket information, please see [here](https://www.flygbussarna.se/en/landvetter). 
+
+#### Taxi
+
+The journey from the airport to the city takes 30 minutes and costs around 700 SEK. We recommend [Taxi Göteborg](https://www.taxigoteborg.se/en/booking).
+
+
+#### About Sweden
+
+Note that the use of cash is rare in Sweden. Payments by card are preferred and possible everywhere, with cash not even accepted in many stores.  https://sweden.se/life/society/a-cashless-society
 
 
 ### Workshop Organisers<a name="workshop_organisers"></a>
