@@ -15,31 +15,36 @@ Co-located with the doctoral thesis defence of Nikolai Ilinykh for Ph.D. in Comp
 
 * Date: 10th June 2024
 * Location: Humanisten, [Department of Philosophy, Linguistics and Theory of Science (FLoV)](https://www.gu.se/flov/om-oss/kontakt), University of Gothenburg
-* Address: Renströmsgatan 6, floor X
-* Room: X
+* Address: Renströmsgatan 6, floor 3
+* Room: J336
 
-<!--
 ### Table of Contents
 * [Programme](#programme)
-* [How to find us](#map)
-* [Workshop description](#description)
-* [Invited speakers](#speakers)
-* [Lightning talks](#talks)
-* [Submissions](#submissions) - **Note:** the deadline for submissions has already past!
-* [Important dates](#dates)
-* [Registration](#registration)
-* [Instructions for presenters](#instructions)
+* [Room Location](#map)
+* [Workshop Description](#description)
 * [Workshop Organisers](#workshop_organisers)
-* [Local Organisers](#local_organisers)
 * [Acknowledgements](#acknowledgments)
--->
 
 
-### Workshop description<a name="description"></a>
+### Workshop Description<a name="description"></a>
+
+We welcome you to the one-day workshop on language and vision!
+
+Tasks and computational models developed in the language-and-vision domain (e.g., describing an image, finding an object, having a dialogue about the environment) have been at the center of attention in both the research community and the general public. Researchers have extensively studied methods for interpreting the decisions made by such models, the representations captured by them, and methods for their evaluation. The general public has recently been provided with access to some models and tools that can generate texts and images. Many questions and problems are still unanswered and unresolved. Multi-modal NLP is developing very fast, and our workshop aims to bring together researchers who are interested in these problems.
+
+The workshop is a forum to discuss many different topics such as language-and-vision tasks, models, and evaluation methods. We also welcome discussions about relevant insights from human perception and language.
+The program consists of five talks given by the invited speakers.
+Each talk is followed by a short Q&A session.
+The workshop ends with a dinner.
+The day after the workshop, we will have a doctoral thesis defense that everyone is welcome to attend!
+
 
 
 ### Programme<a name="programme"></a>
 
+To be announced!
+
+<!--
 * __13:05__ Welcome
 * __13:15__ - __13:45__ [Jörg Tiedemann](https://researchportal.helsinki.fi/en/persons/jörg-tiedemann)
 * __13:45__ - __13:50__ QA
@@ -47,17 +52,18 @@ Co-located with the doctoral thesis defence of Nikolai Ilinykh for Ph.D. in Comp
 * __14:20__ - __14:25__ QA
 * __14:25__ - __14:55__ [Carina Silberer](https://sites.google.com/view/carinasilberer/home)
 * __14:55__ - __15:00__ QA
-* __15:00__ - __15:30__ Break
+* __15:00__ - __15:30__ Coffee break
 * __15:30__ - __16:00__ [Desmond Elliott](https://elliottd.github.io)
 * __16:00__ - __16:05__ QA
 * __16:05__ - __16:35__ [Mario Guilianelli](https://glnmario.github.io) (online)
 * __16:35__ - __16:40__ QA
 * __16:40__ - __16:45__ Closing
-
-<!--
-### How to find us<a name="map"></a>
-<img align="center" width="480" src="venue_map.png"/>
+* __18:30__ - --------- Dinner at X
 -->
+
+
+### Room Location <a name="map"></a>
+<img align="center" width="480" src="venue_map.png"/>
 
 <!--
 ### Invited speakers<a name="speakers"></a>
@@ -94,7 +100,7 @@ If you have have any additional presentation requirements, e.g. slides that are 
 -->
 
 
-### Workshop organisers<a name="workshop_organisers"></a>
+### Workshop Organisers<a name="workshop_organisers"></a>
 
   - [Nikolai Ilinykh](https://www.gu.se/en/about/find-staff/nikolaiilinykh), University of Gothenburg (contact person)
   - [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik), University of Gothenburg
@@ -105,5 +111,6 @@ If you have have any additional presentation requirements, e.g. slides that are 
 We are grateful for the financial support from:
 
   - [Department of Philosophy, Linguistics and Theory of Science (FLoV)](https://www.gu.se/flov/), University of Gothenburg
+  - [Centre for Linguistic Theory and Studies in Probability](https://gu-clasp.github.io)
 
 Image from [Reddit](https://www.reddit.com/r/mildlyinteresting/comments/6s98n8/this_chicken_has_the_same_hair_style_as_andy/)
