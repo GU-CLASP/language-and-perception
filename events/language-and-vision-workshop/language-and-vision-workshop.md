@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Workshop on Language-and-Vision
-short_title: Lang&Vis
+title: Workshop on Uni-Modal and Multi-Modal NLP
+short_title: Uni-/Multi-Modal NLP
 permalink: /events/language-and-vision-workshop/
 ---
 
@@ -32,41 +32,35 @@ Co-located with the doctoral thesis defence of Nikolai Ilinykh for Ph.D. in Comp
 
 ### Workshop Description<a name="description"></a>
 
-We welcome you to the one-day workshop on language and vision!
+We welcome you to the one-day workshop on NLP and multi-modality!
 
-Tasks and computational models developed in the language-and-vision domain (e.g., describing an image, finding an object, having a dialogue about the environment) have been at the center of attention in both the research community and the general public. Researchers have extensively studied methods for interpreting the decisions made by such models, the representations captured by them, and methods for their evaluation. The general public has recently been provided with access to some models and tools that can generate texts and images. Many questions and problems are still unanswered and unresolved. Multi-modal NLP is developing very fast, and our workshop aims to bring together researchers who are interested in these problems.
+AI, particularly Natural Language Processing (NLP), has received attention from both the general public and the research community. For the general public, interest has recently peaked because NLP has become an important part of many people's lives, with many existing tools and models frequently discussed and debated. This public interest aligns with a recent surge in research focused on building larger neural models that are effective across various computational tasks. However, these end-to-end models are difficult to interpret.
 
-The workshop is a forum to discuss many different topics such as language-and-vision tasks, models, and evaluation methods. We also welcome discussions about relevant insights from human perception and language.
-The program consists of five talks given by the invited speakers.
-Each talk is followed by a short Q&A session.
-The workshop ends with a dinner.
-The day after the workshop, we will have a doctoral thesis defense that everyone is welcome to attend!
+While they primarily learn from text, an important research direction is multi-modality, i.e., models working with texts, images, and other types of data like audio. The attention on NLP and multi-modality is encouraging, but it also introduces numerous challenges and unresolved questions. For instance, what exactly happens inside our NLP models? Can we interpret their processes? Perhaps, splitting a model into multiple, more interpretable parts is the way to go? Other critical questions include: Do these models learn information from text and other modalities to a sufficient degree? How should we represent this information to the models? How do we evaluate these models, and what are the limitations of current benchmarks? How much can we rely on automatic, human, or other types of evaluation? Finally, what can we say about these models in terms of how "human-like" they are?
+
+The workshop aims to bring together researchers who study computational models in both uni-modal (text-only) and multi-modal (text-and-image) domains. It is a forum to discuss many different topics, including language-only and language-and-vision tasks, models, and evaluation methods. We also welcome discussions about relevant insights from studies on human cognition.
+
+The program consists of six talks given by the invited speakers. The day after the workshop, we will have a doctoral thesis defense that everyone is welcome to attend!
 
 
 ### Zoom Link<a name="zoomlink"></a>
 
-To be added!
-
+[Zoom](https://gu-se.zoom.us/j/726750116)
 
 ### Programme<a name="programme"></a>
 
 To be announced!
 
 <!--
-* __13:05__ Welcome
-* __13:15__ - __13:45__ [Jörg Tiedemann](https://researchportal.helsinki.fi/en/persons/jörg-tiedemann)
-* __13:45__ - __13:50__ QA
-* __13:50__ - __14:20__ [Ece Takmaz](https://ecekt.github.io) (online)
-* __14:20__ - __14:25__ QA
-* __14:25__ - __14:55__ [Carina Silberer](https://sites.google.com/view/carinasilberer/home)
-* __14:55__ - __15:00__ QA
-* __15:00__ - __15:30__ Coffee break
-* __15:30__ - __16:00__ [Desmond Elliott](https://elliottd.github.io)
-* __16:00__ - __16:05__ QA
-* __16:05__ - __16:35__ [Mario Guilianelli](https://glnmario.github.io) (online)
-* __16:35__ - __16:40__ QA
-* __16:40__ - __16:45__ Closing
-* __18:30__ - --------- Dinner at X
+13:05: Welcome
+13:15 - 13:45: Jörg Tiedemann
+13:45 - 14:15: Ece Takmaz (online)
+14:15 - 14:45: Carina Silberer
+14:45 - 15:00: Coffee break
+15:00 - 15:30: Desmond Elliott
+15:30 - 16:00: Mario Guilianelli (online)
+16:00 - 16:30: Bill Noble
+16:30: Closing
 -->
 
 
