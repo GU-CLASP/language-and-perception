@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshop on Uni-Modal and Multi-Modal NLP
+title: Workshop on Uni-/Multi-Modal NLP
 short_title: Uni-/Multi-Modal NLP
 permalink: /events/language-and-vision-workshop/
 ---
@@ -14,7 +14,6 @@ Organised by the Language and Perception research group at CLASP, University of 
 Co-located with the doctoral thesis defence of Nikolai Ilinykh for Ph.D. in Computational Linguistics at the Faculty of Humanities, Department of Philosophy, Linguistics and Theory of Science, [official announcement](https://www.gu.se/en/event/nikolai-ilinykh-computational-models-of-language-and-vision-studies-of-neural-models-as-learners-of-multi-modal-knowledge).
 
 * <b>Date</b>: 10th June 2024
-
 * <b>Location</b>: Humanisten, [Department of Philosophy, Linguistics and Theory of Science (FLoV)](https://www.gu.se/flov/om-oss/kontakt), University of Gothenburg
 * <b>Address</b>: Renströmsgatan 6, floor 3
 * <b>Room</b>: J336
