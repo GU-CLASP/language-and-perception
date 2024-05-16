@@ -121,7 +121,7 @@ The journey from the airport to the city takes 30 minutes and costs around 700 S
 
 #### About Sweden
 
-Note that the use of cash is rare in Sweden. Payments by card are preferred and possible everywhere, with cash not even accepted in many stores.  https://sweden.se/life/society/a-cashless-society
+Note that the use of cash is rare in Sweden. Payments by card are preferred and possible everywhere, with cash not even accepted in many stores. [More information is here](https://sweden.se/life/society/a-cashless-society)
 
 
 ### Workshop Organisers<a name="workshop_organisers"></a>
