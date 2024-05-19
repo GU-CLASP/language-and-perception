@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Workshop on Uni-/Multi-Modal NLP
-short_title: Uni-/Multi-Modal NLP
+title: Workshop on NLP and Multi-Modality
+short_title: NLP and Multi-Modality
 permalink: /events/language-and-vision-workshop/
 ---
 
