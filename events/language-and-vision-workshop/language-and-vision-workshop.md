@@ -31,15 +31,27 @@ Co-located with the doctoral thesis defence of Nikolai Ilinykh for Ph.D. in Comp
 
 ### Workshop Description<a name="description"></a>
 
-We welcome you to the one-day workshop on NLP and multi-modality!
+We welcome you to the workshop on NLP and multi-modality!
 
-AI, particularly Natural Language Processing (NLP), has received attention from both the general public and the research community. For the general public, interest has recently peaked because NLP has become an important part of many people's lives, with many existing tools and models frequently discussed and debated. This public interest aligns with a recent surge in research focused on building larger neural models that are effective across various computational tasks. However, these end-to-end models are difficult to interpret.
+Developments in AI and NLP in recent years have been substantial and have resulted in many computational models of language that are often claimed to achieve human-level performance across different tasks.
+However, it is difficult to interpret such models and understand the processes behind the decisions they make.
+While many models of language primarily learn from text, an important research direction is multi-modality, i.e., models working with texts, images, and other types of data like audio.
+The attention on NLP and multi-modality is encouraging, but it also introduces numerous challenges and unresolved questions.
+For instance, what exactly happens inside our NLP models?
+Can we interpret their processes?
+Perhaps, splitting a model into multiple, more interpretable parts is the way to go?
+Other critical questions include the following: Do these models learn information from text and other modalities to a sufficient degree?
+How should we represent this information to the models?
+How do we evaluate these models, and what are the limitations of current benchmarks?
+How much can we rely on automatic, human, or other types of evaluation?
+Finally, what can we say about these models in terms of how "human-like" they are?
 
-While they primarily learn from text, an important research direction is multi-modality, i.e., models working with texts, images, and other types of data like audio. The attention on NLP and multi-modality is encouraging, but it also introduces numerous challenges and unresolved questions. For instance, what exactly happens inside our NLP models? Can we interpret their processes? Perhaps, splitting a model into multiple, more interpretable parts is the way to go? Other critical questions include: Do these models learn information from text and other modalities to a sufficient degree? How should we represent this information to the models? How do we evaluate these models, and what are the limitations of current benchmarks? How much can we rely on automatic, human, or other types of evaluation? Finally, what can we say about these models in terms of how "human-like" they are?
+The workshop aims to bring together researchers who study computational models in both uni-modal (text-only) and multi-modal (text-and-image) domains.
+It is a forum to discuss many different topics, including language-only and language-and-vision tasks, models, and evaluation methods.
+We also welcome discussions about relevant insights from studies on human cognition.
 
-The workshop aims to bring together researchers who study computational models in both uni-modal (text-only) and multi-modal (text-and-image) domains. It is a forum to discuss many different topics, including language-only and language-and-vision tasks, models, and evaluation methods. We also welcome discussions about relevant insights from studies on human cognition.
-
-The program consists of six talks given by the invited speakers. The day after the workshop, we will have a doctoral thesis defense that everyone is welcome to attend!
+The program consists of X talks given by the invited speakers.
+The day after the workshop, we will have a doctoral thesis defense that everyone is welcome to attend!
 
 
 ### Zoom Link<a name="zoomlink"></a>
