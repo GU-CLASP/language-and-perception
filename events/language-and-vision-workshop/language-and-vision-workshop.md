@@ -60,19 +60,26 @@ The day after the workshop, we will have a doctoral thesis defense that everyone
 
 ### Programme<a name="programme"></a>
 
-To be announced!
-
-<!--
 13:05: Welcome
-13:15 - 13:45: Jörg Tiedemann
-13:45 - 14:15: Ece Takmaz (online)
-14:15 - 14:45: Carina Silberer
+
+13:15 - 13:45: [Jörg Tiedemann](https://researchportal.helsinki.fi/en/persons/jörg-tiedemann), University of Helsinki
+
+13:45 - 14:15: [Ece Takmaz](https://ecekt.github.io), Utrecht University (online)
+
+14:15 - 14:45: [Carina Silberer](https://sites.google.com/view/carinasilberer/home), University of Stuttgart
+
 14:45 - 15:00: Coffee break
-15:00 - 15:30: Desmond Elliott
-15:30 - 16:00: Mario Guilianelli (online)
-16:00 - 16:30: Bill Noble
+
+15:00 - 15:30: [Desmond Elliott](https://elliottd.github.io), University of Copenhagen
+   * **Title**: Some Recent Experiments in Retrieval-Augmented Image Captioning
+   * **Abstract**: Retrieval-augmentation has proven useful in a wide-range of classification and generation tasks, and it is now powering the next generation of Large Language Models. In this talk, I will present recent research on applying retrieval-augmentation to the multimodal task of image caption generation. I will start by outlining how retrieval-augmentation can work in this task, and present a parameter-efficient image captioning model that can describe images from a variety of domains by hot-swapping the contents in the retrieval data store without retraining the model. Then I will describe two approaches to multilingual image captioning: one based on prompting an LLM without any training, the other based on supervised training with either multilingual or monolingual data. Finally, I will speak about our efforts to  understand and explain the success and failure modes of retrieval-augmented image captioning.
+
+15:30 - 16:00: [Mario Guilianelli](https://glnmario.github.io), ETH Zürich (online)
+
+16:00 - 16:30: [Bill Noble](https://winobes.github.io), University of Gothenburg
+
 16:30: Closing
--->
+
 
 
 ### Room Location <a name="map"></a>
