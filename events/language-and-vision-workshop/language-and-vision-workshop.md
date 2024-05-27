@@ -93,8 +93,8 @@ The day after the workshop, we will have a doctoral thesis defense that everyone
 
 16:00 - 16:30: [Bill Noble](https://winobes.github.io), University of Gothenburg
 
-  * **Title**:
-  * **Abstract**:
+  * **Title**: Effing the ineffable: Action and perception at the limits of language
+  * **Abstract**: In formal semantics, truth conditional theories of meaning seek a relation between linguistic expressions and possible worlds (or states of affairs). Inferentialist approaches instead couch meaning as a relation between pairs of linguistic expressions. Akin to text-based distributional semantics, inferentialism appears to insulate linguistic theory from the need for a comprehensive world model. But this picture ignores the fact that language is part of the world and subject to change through interaction between linguistic agents. In several case studies, this talk will present formal accounts of action, perception and change as a lens through which to view multi-modality in computational semantics.
 
 16:30: Closing
 
