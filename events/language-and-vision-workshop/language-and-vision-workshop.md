@@ -66,6 +66,9 @@ The day after the workshop, we will have a doctoral thesis defense that everyone
 
 13:45 - 14:15: [Ece Takmaz](https://ecekt.github.io), Utrecht University (online)
 
+  * **Title**: Quantifying and Predicting the Variation in Human Signals during Visuo-Linguistic Processes
+  * **Abstract**: There is an intricate relation between the properties of an image and how humans behave while describing the image. This behavior shows ample variation, as manifested in human signals such as eye movements and when humans start to describe the image. Despite the value of such signals of visuo-linguistic variation, they are virtually disregarded in the training of current pretrained models, which motivates further investigation. Using a corpus of image descriptions with concurrently collected eye-tracking data, we explore the nature of the variation in visuo-linguistic signals, and whether image representations encoded by pretrained vision encoders can capture such variation. I will also talk about another work where we use CLIP to quantify the degree of descriptiveness (how well an utterance describes an image in isolation) and discriminativeness (to what extent an utterance is effective in picking out a single image among similar images) of human referring utterances within multimodal dialogues. These works open up the possibility of using pretrained multimodal encoders to quantify patterns in human data and shed light on the underlying cognitive mechanisms, as well as identifying the shortcomings of such encoders.
+
 14:15 - 14:45: [Carina Silberer](https://sites.google.com/view/carinasilberer/home), University of Stuttgart
 
 14:45 - 15:00: Coffee break
