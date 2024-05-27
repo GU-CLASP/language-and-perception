@@ -50,7 +50,7 @@ The workshop aims to bring together researchers who study computational models i
 It is a forum to discuss many different topics, including language-only and language-and-vision tasks, models, and evaluation methods.
 We also welcome discussions about relevant insights from studies on human cognition.
 
-The program consists of X talks given by the invited speakers.
+The program consists of **6** talks given by the invited speakers.
 The day after the workshop, we will have a doctoral thesis defense that everyone is welcome to attend!
 
 
@@ -59,6 +59,8 @@ The day after the workshop, we will have a doctoral thesis defense that everyone
 [Zoom](https://gu-se.zoom.us/j/726750116)
 
 ### Programme<a name="programme"></a>
+
+11:45 - 12:45: Lunch in [Näckrosen](https://www.hors.se/goteborg/17/6/restaurang-nackrosen/) (at your own cost)
 
 13:05: Welcome
 
