@@ -8,10 +8,10 @@ Organised by the Language and Perception research group at CLASP, University of 
 
 Co-located with the doctoral thesis defence of Nikolai Ilinykh in Computational Linguistics https://www.gu.se/en/event/nikolai-ilinykh-computational-models-of-language-and-vision-studies-of-neural-models-as-learners-of-multi-modal-knowledge 
 
-    - Date: 10th June 2024
-    - Location: Humanisten, Department of Philosophy, Linguistics and Theory of Science (FLoV), University of Gothenburg
-    - Address: Renströmsgatan 6, floor 3
-    - Room: J336 and Zoom: https://gu-se.zoom.us/j/726750116 
+  - Date: 10th June 2024
+  - Location: Humanisten, Department of Philosophy, Linguistics and Theory of Science (FLoV), University of Gothenburg
+  - Address: Renströmsgatan 6, floor 3
+  - Room: J336 and Zoom: https://gu-se.zoom.us/j/726750116 
 
 Programme
 
