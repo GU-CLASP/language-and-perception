@@ -60,7 +60,7 @@ The day after the workshop, we will have a doctoral thesis defense that everyone
 
 ### Programme<a name="programme"></a>
 
-11:45 - 12:45: Lunch in [Näckrosen](https://www.hors.se/goteborg/17/6/restaurang-nackrosen/)
+11:45 - 12:45: Lunch in [Näckrosen](https://www.hors.se/goteborg/17/6/restaurang-nackrosen/). Sign up [https://linux.dobnik.net/cloud/apps/forms/s/4YNXPxLq3zN3rSdr2eCRfHb4](here) by Sunday 9 June if you are coming.
 
 13:05: Welcome
 
@@ -98,7 +98,7 @@ The day after the workshop, we will have a doctoral thesis defense that everyone
 
 16:30: Closing
 
-18:30: [Berzelius Bar & Matsal, menu](https://www.berzeliusbar.se/eventmeny/). All needs can be accomodated (e.g., gluten-free, allergies).
+18:30: [Berzelius Bar & Matsal, menu](https://www.berzeliusbar.se/eventmeny/). Sign up [https://linux.dobnik.net/cloud/apps/forms/s/4YNXPxLq3zN3rSdr2eCRfHb4](here) by Sunday 9 June if you are coming. 
 
 
 
