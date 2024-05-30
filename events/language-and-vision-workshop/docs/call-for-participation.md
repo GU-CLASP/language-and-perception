@@ -1,4 +1,4 @@
-Sending to: cogsys@listserv.gu.se, staff@flov.gu.se, clasp-research@listserv.gu.se, clasp@gu.se, ethics-for-nlp@listserv.gu.se, language@listserv.gu.se, clt-members@listserv.gu.se, clt-news@listserv.gu.se, nordlingnet@uib.no, resourceful-2023@listserv.gu.se, sprakteknologi@listserv.gu.se, sb-ot@listserv.gu.se, eutopia-haicc@listserv.gu.se, nodali@helsinki.fi
+Sending to: cogsys@listserv.gu.se, staff@flov.gu.se, clasp-research@listserv.gu.se, clasp@gu.se, ethics-for-nlp@listserv.gu.se, language@listserv.gu.se, clt-members@listserv.gu.se, clt-news@listserv.gu.se, chalmers-ml-seminars@googlegroups.com, nordlingnet@uib.no, resourceful-2023@listserv.gu.se, sprakteknologi@listserv.gu.se, sb-ot@listserv.gu.se, eutopia-haicc@listserv.gu.se, nodali@helsinki.fi
 
 (Please edit as appropriate, move to exclude below if necessary...)
 
