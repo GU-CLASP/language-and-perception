@@ -33,7 +33,7 @@ Programme
   - 16:30: Closing
   - 18:30: Dinner at Berzelius Bar & Matsal
 
-If you would like to join the speakers for lunch or dinner, please sign up by Sunday 9 June at: https://linux.dobnik.net/cloud/apps/forms/s/4YNXPxLq3zN3rSdr2eCRfHb4 
+If you would like to join the speakers for lunch or dinner, please sign up by Friday 7 June at: https://linux.dobnik.net/cloud/apps/forms/s/4YNXPxLq3zN3rSdr2eCRfHb4 
 
 Please see the workshop website for abstracts of the talks and other practical details: https://gu-clasp.github.io/language-and-perception/events/language-and-vision-workshop/ 
 
