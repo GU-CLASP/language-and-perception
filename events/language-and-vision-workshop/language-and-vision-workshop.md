@@ -60,7 +60,7 @@ The day after the workshop, we will have a doctoral thesis defense that everyone
 
 ### Programme<a name="programme"></a>
 
-11:45 - 12:45: Lunch in [Näckrosen](https://www.hors.se/goteborg/17/6/restaurang-nackrosen/). Sign up [https://www.dobnik.net/cloud/apps/forms/s/4YNXPxLq3zN3rSdr2eCRfHb4 ](here) by Friday 7th June if you are coming.
+11:45 - 12:45: Lunch in [Näckrosen](https://www.hors.se/goteborg/17/6/restaurang-nackrosen/). Sign up [here](https://www.dobnik.net/cloud/apps/forms/s/4YNXPxLq3zN3rSdr2eCRfHb4) by Friday 7th June if you are coming.
 
 13:05: Welcome
 
