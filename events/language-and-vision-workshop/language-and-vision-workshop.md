@@ -98,7 +98,7 @@ The day after the workshop, we will have a doctoral thesis defense that everyone
 
 16:30: Closing
 
-18:30: [Berzelius Bar & Matsal, menu](https://www.berzeliusbar.se/eventmeny/). Sign up [https://www.dobnik.net/cloud/apps/forms/s/4YNXPxLq3zN3rSdr2eCRfHb4](here) by Friday 7th June if you are coming. 
+18:30: [Berzelius Bar & Matsal, menu](https://www.berzeliusbar.se/eventmeny/). Sign up [here](https://www.dobnik.net/cloud/apps/forms/s/4YNXPxLq3zN3rSdr2eCRfHb4) by Friday 7th June if you are coming. 
 
 
 
