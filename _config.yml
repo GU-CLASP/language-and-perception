@@ -15,6 +15,7 @@ header_pages:
     sub_pages:
       - events/language-and-vision-workshop/language-and-vision-workshop.md
       - events/ethics-for-nlp/ethics-for-nlp.md
+      - events/out-to-the-islands/out-to-the-islands.md
   - path: projects.md
     sub_pages:
       - projects/utopia/cc.md
