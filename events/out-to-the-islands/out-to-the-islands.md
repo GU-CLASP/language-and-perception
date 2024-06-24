@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Out-to-the-islands: A workshop on developing cognitive systems and AI
+title: Out to the islands: A workshop on developing cognitive systems and AI
 short_title: Ethics4NLP
 permalink: /events/out-to-the-islands/
 ---
