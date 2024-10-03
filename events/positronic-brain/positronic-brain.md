@@ -24,7 +24,8 @@ All deadlines are 11:59PM CET-00:00
 
 When people hear Artificial Intelligence they often imagine something like Isaac Asimov's Positronic Brain: a brain built out of mathematics, logic, and wires which functions in many respects like a human brain and follows human-like behaviour. It is attached to a body and it can perceive and interact with the world. It has sophisticated language capabilities, speaking about its perception, action and reasoning. However, a common approach to Artificial Intelligence has been to treat language, perception, and action as separate fields with separate goals and problems. Consequently, most systems that we build do not live-up to the beliefs and expectations of every-day users. Integration of several modalities and constructions of agents that can act in sophisticated ways in the world is therefore our next big challenege if we want to approximate human-like robotic agents that Sci-fi authors love. 
 
-In this workshop we invite researchers at all levels to participate in a fun and relaxed workshop where we discuss ideas around muli-modality, interaction, and embodiment in regards to AI and language technology. We hope to provide a space for people to discuss their current work and ideas but also to raise their sights towards the horizon, to imagine what direction language technology might take in the future. We are interested in talks related to the following and similar topics:
+This workshop invites researchers and students in the fields of natural language processing, computer science, language technology, computational linguistics, cognitive computing, AI, computer vision, machine learning, robotics, linguistics, cognitive science, and related fields to participate in an open, community-building forum where we discuss current work, challenges, and future directions related to multi-modality, interaction, embodiment, language technology, and AI.  
+We encourage contributions in the following and similar topics:
 * Grounded language understanding and generation
 * Multi-modal or embodied interaction
 * Incremental or Online Learning
@@ -33,9 +34,7 @@ In this workshop we invite researchers at all levels to participate in a fun and
 * Multimodal Dialogue
 * Interactive Task Learning
 
-This workshop invites researchers in the fields of natural language processing, computer science, language technology, computational linguistics, cognitive computing, AI, computer vision, machine learning, robotics, linguistics, cognitive science, and related fields interested in answering questions related to how we can forge ahead in the quest for robots that can interact with humans. 
-
-Intended participants are researchers, university teachers, masters and PhD students from diverse backgrounds that touch upon the questions related to development and applications of language technology. We foresee an interactive workshop with plenty of time for discussion, complemented with invited talks and presentations of on-going or completed research. To engage participation of students and to foster research in the student community we will organise a special session on student learning with tutorials of practical research methods and applications. Participants are encouraged to submit extended abstracts for both research talks / posters and student tutorials as well as other materials that will be shared with others during the workshop.
+We foresee an interactive workshop with plenty of time for discussion, complemented with invited talks and presentations of on-going or completed research.
 
 <!-- **Invited speakers** -->
 
