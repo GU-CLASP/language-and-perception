@@ -5,12 +5,12 @@
 Organised by Mattias Appelgren and Simon Dobnik
 
 * Date: Friday, 29 November
-* Location: SLTC
+* Location: [SLTC](https://sltc2024.github.io), Linköping University, Sweden
 <!-- * Address: TBD
 * Room: TBD 
 * Zoom: TBD -->
 
-Website: https://gu-clasp.github.io/language-and-perception/events/positronic-brain
+<!-- Website: https://gu-clasp.github.io/language-and-perception/events/positronic-brain -->
 
 **Important dates:**
 
@@ -22,7 +22,7 @@ All deadlines are 11:59PM CET-00:00
 
 **Workshop description**
 
-When the public imagines Artificial Intelligence they often imagine something like Isaac Asimov's Positronic Brain: a brain built out of mathematics, logic, and wires which functions in many respects like a human brain. It is generally attached to a body and it can perceive and interact with the world. It also has sophisticated language capabilities, speaking about its perception and reasoning about the world. However, the dominant approach to Artificial Intelligence has tackled language, perception, and action in separate fields with separate goals and problems. The systems that we build do not function in that general AI way that maybe many in the public believe. However, there is still interest, and it is growing, in building systems which integrate several different modalities and that can act in sophisticated ways in the world, that might function more like those human-like robotic agents that Sci-fi authors love. 
+When people hear Artificial Intelligence they often imagine something like Isaac Asimov's Positronic Brain: a brain built out of mathematics, logic, and wires which functions in many respects like a human brain and follows human-like behaviour. It is attached to a body and it can perceive and interact with the world. It has sophisticated language capabilities, speaking about its perception, action and reasoning. However, a common approach to Artificial Intelligence has been to treat language, perception, and action as separate fields with separate goals and problems. Consequently, most systems that we build do not live-up to the beliefs and expectations of every-day users. Integration of several modalities and constructions of agents that can act in sophisticated ways in the world is therefore our next big challenege if we want to approximate human-like robotic agents that Sci-fi authors love. 
 
 In this workshop we invite researchers at all levels to participate in a fun and relaxed workshop where we discuss ideas around muli-modality, interaction, and embodiment in regards to AI and language technology. We hope to provide a space for people to discuss their current work and ideas but also to raise their sights towards the horizon, to imagine what direction language technology might take in the future. We are interested in talks related to the following and similar topics:
 * Grounded language understanding and generation
