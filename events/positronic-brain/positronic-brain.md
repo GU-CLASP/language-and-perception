@@ -22,7 +22,7 @@ All deadlines are 11:59PM CET-00:00
 
 **Workshop description**
 
-When people hear Artificial Intelligence they often imagine something like Isaac Asimov's Positronic Brain: a brain built out of mathematics, logic, and wires which functions in many respects like a human brain and follows human-like behaviour. It is attached to a body and it can perceive and interact with the world. It has sophisticated language capabilities, speaking about its perception, action and reasoning. However, a common approach to Artificial Intelligence has been to treat language, perception, and action as separate fields with separate goals and problems. Consequently, most systems that we build do not live-up to the beliefs and expectations of every-day users. Integration of several modalities and constructions of agents that can act in sophisticated ways in the world is therefore our next big challenege if we want to approximate human-like robotic agents that Sci-fi authors love. But are such agents wanted and needed by end-users and they assist are knowledge and communication?
+When people hear Artificial Intelligence they often imagine something like Isaac Asimov's Positronic Brain: a brain built out of mathematics, logic, and wires which functions in many respects like a human brain and follows human-like behaviour. It is attached to a body and it can perceive and interact with the world. It has sophisticated language capabilities, speaking about its perception, action and reasoning. However, a common approach to Artificial Intelligence has been to treat language, perception, and action as separate fields with separate goals and problems. Consequently, most systems that we build do not live-up to the beliefs and expectations of every-day users. Integration of several modalities and constructions of agents that can act in sophisticated ways in the world is therefore our next big challenege if we want to approximate human-like robotic agents that Sci-fi authors love. But are such agents actaully wanted and needed by end-users and they assist our collection of knowledge and communication? What aspects of multi-modality should (different) systems integrate?
 
 This workshop invites researchers and students in the fields of natural language processing, computer science, language technology, computational linguistics, cognitive computing, AI, computer vision, machine learning, robotics, linguistics, cognitive science, and related fields to participate in an open, community-building forum where we discuss current work, challenges, and future directions related to multi-modality, interaction, embodiment, language technology, and AI.  
 We encourage contributions in the following and similar topics:
@@ -34,7 +34,7 @@ We encourage contributions in the following and similar topics:
 * Multimodal Dialogue
 * Interactive Task Learning
 
-We foresee an interactive workshop with plenty of time for discussion, complemented with invited talks and presentations of on-going or completed research.
+We foresee an open, interactive workshop with plenty of time for discussion, complemented with invited talks and presentations of on-going or completed research.
 
 <!-- **Invited speakers** -->
 
