@@ -7,7 +7,7 @@ permalink: /masters-projects/
 
 ## Suggestions
 
-Here are some ideas for projects related to what we have been working on or have planned. However, we are also very much interested in hearing your projects ideas which are related to these and togethwer we can formulate interesting research questions. For a more general descriptions of topics that we are interested in please see _Summary_ below.
+Here are some ideas for projects related to what we have been working on or have planned. We are also very much interested in hearing your ideas. From these we can can formulate interesting research questions together. For a more general descriptions of topics see _Summary_ below.
 
   - [Summary](https://docs.google.com/presentation/d/11yz2oHr0RpWXRoksFgb5ianzAZ3wN3iL6k1EAnCMP7U/edit)
   - [Situated interactive agents](/masters-projects/situated-agents.md)
