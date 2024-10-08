@@ -10,6 +10,7 @@ permalink: /masters-projects/
   - [Summary](https://docs.google.com/presentation/d/11yz2oHr0RpWXRoksFgb5ianzAZ3wN3iL6k1EAnCMP7U/edit)
   - [Situated interactive agents](/masters-projects/situated-agents.md)
   - [Computational modelling of spatial descriptions](/masters-projects/spatial-language.md)
+  - [Perspective and spatial language](/masters-projects/spatial-perspective.md)
   - [Reference and co-reference resolution in visual dialogue](/masters-projects/co-reference.md)
   - [Explainable NLP](/masters-projects/explainable-ai.md)
   - [Biases, ethics and multi-modality](/masters-projects/biases.md)
