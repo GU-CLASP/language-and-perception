@@ -11,10 +11,8 @@ permalink: /masters-projects/
   - [Situated interactive agents](/masters-projects/situated-agents.md)
   - [Computational modelling of spatial descriptions](/masters-projects/spatial-language.md)
   - [Reference and co-reference resolution in visual dialogue](/masters-projects/co-reference.md)
-  - [Virtual assistants: Standsbibliotek and SKANDIBOT](/masters-projects/virtual-assistants.md)
   - [Explainable NLP](/masters-projects/explainable-ai.md)
   - [Biases, ethics and multi-modality](/masters-projects/biases.md)
-
 
 ## Forthcoming
 
@@ -45,3 +43,9 @@ permalink: /masters-projects/
   - Jacob Coles: examining the effect of different geometric representations (2D vs 3D) for the task of image captioning and generation of longer texts
   - Linea Strand: dialogue turn topic classification on an under-resourced corpus of conversations of patrons with librarians in the Gothenburg City Library [paper](https://gup.ub.gu.se/publication/294807?lang=en)
   - Robert Rhys Thomas: application of corpus augmentation techniques to deal with a low-resource scenario of the library corpus [paper](https://gup.ub.gu.se/publication/294797?lang=en)
+
+## Older proposals
+
+Projects that are no longer running but could be restarted, depending on the interest.
+
+  - [Virtual assistants: Standsbibliotek and SKANDIBOT](/masters-projects/virtual-assistants.md)
