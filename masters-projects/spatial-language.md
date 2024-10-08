@@ -52,4 +52,4 @@ A potential candidate should be comfortable in programming with Python, machine 
 
 ## Supervisors
 
-Simon Dobnik and Nikolai Ilinykh
+Simon Dobnik, Mattias Appelgren and others
