@@ -16,7 +16,7 @@ permalink: /masters-projects/
 
 ## Forthcoming
 
-- Viktoria Filippatou. Finding meaning in a haystack: On How Vision and Language Models Process Figurative Language. Masters in language technology (mlt), 30 hec, Department of Philosophy, Linguistics and Theory of Science (FLOV), University of Gothenburg, Gothenburg, Sweden. Supervisor: Simon Dobnik. [full text]().
+- Viktoria Filippatou. Finding meaning in a haystack: On How Vision and Language Models Process Figurative Language. Masters in language technology (mlt), 30 hec, Department of Philosophy, Linguistics and Theory of Science (FLOV), University of Gothenburg, Gothenburg, Sweden. Supervisor: Simon Dobnik. [full text]() comging soon.
 
 ## Recently completed
 
