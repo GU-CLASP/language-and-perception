@@ -1,4 +1,9 @@
-Perspective and Spatial Language
+---
+layout: page
+title: Perspective and Spatial Language
+short_title: Perspective
+---
+
 When people hold conversations we are constantly speaking about things which has an implicit or explicit point of view. E.g. if I say “there’s a cup to the left of the plate” this might be from my point of view, your point of view, an intrinsic point of view, etc. In dialogue the point of view being used is constantly shifting, as noted e.g. by the CUPS dataset. There they found that point of view information can shift without any explicit linguistic markers, but that sometimes it is not clear which point of view is being used and thus interlocutors ask clarifying questions or mark it explicitly.
 
 The current state of the arg in grounded language understanding does not handle this problem explicitly.  Mostly we ask models to speak about images taken from a single perspective and we do not think much about the problems that arise when we act in the real world with a human or other agent in the same space.
