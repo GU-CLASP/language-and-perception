@@ -38,7 +38,7 @@ permalink: /masters-projects/
   - S. Chesney. TF-REL: Linguistically motivated term weighting: From relevance to keyword extraction. Master’s thesis, Department of Philosophy, Linguistics and Theory of Science. University of Gothen- burg, Gothenburg, Sweden, June, 13 2016. Examiner: Lars Borin; supervisors: Simon Dobnik, Magnus Sahlgren; opponent: Tessa Koelewijn.
   - S. Rødven Eide. Meaningful connections: On prolog, pengines and the semantic web. Master’s thesis, Department of Philosophy, Linguistics and Theory of Science. University of Gothenburg, Gothenburg, Sweden, June, 13 2016. Examiner: Staffan Larsson; supervisors: Torbjörn Lager, Simon Dobnik; opponent: Anna Ehrlemark.
 
-## To be completed / paused
+## Paused
 
   - Jacob Coles: examining the effect of different geometric representations (2D vs 3D) for the task of image captioning and generation of longer texts
   - Linea Strand: dialogue turn topic classification on an under-resourced corpus of conversations of patrons with librarians in the Gothenburg City Library [paper](https://gup.ub.gu.se/publication/294807?lang=en)
