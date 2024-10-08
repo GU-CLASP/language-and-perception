@@ -18,16 +18,14 @@ permalink: /masters-projects/
 
 ## Forthcoming
 
-  - Bérénice Le Glouanec: improving embodied question answering models by making them focused on salient objects in the scene
-  - Kamaneh Akhavan: focusing on spatial top-down and bottom-up representations about the environment in embodied question answering task and examining their contribution to model's accuracy
-  - Jacob Coles: examining the effect of different geometric representations (2D vs 3D) for the task of image captioning and generation of longer texts
-
-  - Linea Strand: dialogue turn topic classification on an under-resourced corpus of conversations of patrons with librarians in the Gothenburg City Library [paper](https://gup.ub.gu.se/publication/294807?lang=en)
-  - Robert Rhys Thomas: application of corpus augmentation techniques to deal with a low-resource scenario of the library corpus [paper](https://gup.ub.gu.se/publication/294797?lang=en)
+- Viktoria Filippatou. Finding meaning in a haystack: On How Vision and Language Models Process Figurative Language. Masters in language technology (mlt), 30 hec, Department of Philosophy, Linguistics and Theory of Science (FLOV), University of Gothenburg, Gothenburg, Sweden. Supervisor: Simon Dobnik. [full text]().
 
 ## Recently completed
 
-  - Y. Emampoor.There’s a Microwave in the Hallway. Masters in language technology (mlt), 30 hec, Department of Philosophy, Linguistics and Theory of Science (FLOV), University of Gothenburg, Gothenburg, Sweden. Supervisor: Simon Dobnik and Nikolai Ilinykh. [full text](https://hdl.handle.net/2077/71400)https://gupea.ub.gu.se/handle/2077/71400
+  - Dominik Künkele: Emergence of referring expressions through language games. Masters in language technology (mlt), 30 hec, Department of Philosophy, Linguistics and Theory of Science (FLOV), University of Gothenburg, Gothenburg, Sweden. Supervisor: Simon Dobnik. [full text]() coming soon.
+  - Kamaneh Akhavan: Generating route descriptions. Automatic generation of route descriptions with visual elements from graph. Masters in language technology (mlt), 30 hec, Department of Philosophy, Linguistics and Theory of Science (FLOV), University of Gothenburg, Gothenburg, Sweden. Supervisor: Simon Dobnik and Nikolai Ilinykh. [full text]() coming soon.
+  - Bérénice Le Glouanec. "Move towards the big black piano": how fine-grained features affect the goal of navigation. Improving salient landmark features in an end-to-end system. Masters in language technology (mlt), 30 hec, Department of Philosophy, Linguistics and Theory of Science (FLOV), University of Gothenburg, Gothenburg, Sweden. Supervisor: Simon Dobnik and Nikolai Ilinykh. [full text]().
+  - Y. Emampoor.There’s a Microwave in the Hallway. Masters in language technology (mlt), 30 hec, Department of Philosophy, Linguistics and Theory of Science (FLOV), University of Gothenburg, Gothenburg, Sweden. Supervisor: Simon Dobnik and Nikolai Ilinykh. [full text](https://hdl.handle.net/2077/71400) and [here](https://gupea.ub.gu.se/handle/2077/71400)
   - A. Aruqi. Embodied question answering in robotic environment: Automatic generation of a synthetic question-answer data-set. Masters in language technology (mlt), 30 hec, Department of Philosophy, Linguistics and Theory of Science (FLOV), University of Gothenburg, Gothenburg, Sweden, October 28 2021. Supervisor: Simon Dobnik and Nikolai Ilinykh, examiner: Staffan Larsson, opponent: Catherine Viloria. [full text](http://hdl.handle.net/2077/70001)
   - P. Pilipiec. Evaluating natural language processing (nlp) methods to extract knowledge from interview data for nlp project management. Masters in language technology (mlt), 30 hec, Department of Philos- ophy, Linguistics and Theory of Science. University of Gothenburg, Gothenburg, Sweden, July 2 2021. Examiner: Simon Dobnik; supervisors: Eleni Gregoromichelaki; opponent: Axel Almqvist.
   - T. Hoffmann. Quantum models for word- sense disambiguation. Master thesis, Department of Physics, Chalmers University of Technology, Gothenburg, Sweden, January 12 2021. Supervisor: Mats Granath, Simon Dobnik, and David Fitzek. [full text](https://hdl.handle.net/20.500.12380/302687)
@@ -41,3 +39,9 @@ permalink: /masters-projects/
   - E. de Graaf. Learning objects and spatial relations with Kinect. Master’s thesis, Department of Philosophy, Linguistics and Theory of Science. University of Gothenburg, Gothenburg, Sweden, June, 8th 2016. Supervisor: Simon Dobnik, examiner: Richard Johansson, opponent: Lorena Llozhi. [full text](http://hdl.handle.net/2077/66207), [paper](https://gup.ub.gu.se/publication/253950) and [paper](https://gup.ub.gu.se/publication/255374)
   - S. Chesney. TF-REL: Linguistically motivated term weighting: From relevance to keyword extraction. Master’s thesis, Department of Philosophy, Linguistics and Theory of Science. University of Gothen- burg, Gothenburg, Sweden, June, 13 2016. Examiner: Lars Borin; supervisors: Simon Dobnik, Magnus Sahlgren; opponent: Tessa Koelewijn.
   - S. Rødven Eide. Meaningful connections: On prolog, pengines and the semantic web. Master’s thesis, Department of Philosophy, Linguistics and Theory of Science. University of Gothenburg, Gothenburg, Sweden, June, 13 2016. Examiner: Staffan Larsson; supervisors: Torbjörn Lager, Simon Dobnik; opponent: Anna Ehrlemark.
+
+## To be completed / paused
+
+  - Jacob Coles: examining the effect of different geometric representations (2D vs 3D) for the task of image captioning and generation of longer texts
+  - Linea Strand: dialogue turn topic classification on an under-resourced corpus of conversations of patrons with librarians in the Gothenburg City Library [paper](https://gup.ub.gu.se/publication/294807?lang=en)
+  - Robert Rhys Thomas: application of corpus augmentation techniques to deal with a low-resource scenario of the library corpus [paper](https://gup.ub.gu.se/publication/294797?lang=en)
