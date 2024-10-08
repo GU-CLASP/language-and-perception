@@ -29,3 +29,7 @@ https://www.semanticscholar.org/paper/EGG%3A-a-toolkit-for-research-on-Emergence
 https://www.semanticscholar.org/paper/Learning-to-Compose-Spatial-Relations-with-Grounded-Ghanimifard-Dobnik/d56fda7043eb683ecfcdd62277e82480e75b9f14 
 
 https://www.semanticscholar.org/paper/A-computational-analysis-of-the-apprehension-of-Logan-Sadler/52d48cf7ccbe0b95808be7de1157e27f9a4e9d88 
+
+## Supervisors
+
+Mattias Appelgren and Simon Dobnik
