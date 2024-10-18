@@ -1,6 +1,9 @@
-** Towards The Positronic Brain? - Workshop on Situated and Embodied Language Processing and Multimodal Interaction**
-
-## Call for participation and extended abstracts
+---
+layout: page
+title: Towards The Positronic Brain? - Workshop on Situated and Embodied Language Processing and Multimodal Interaction
+short_title: Positronic brain
+permalink: /events/positronic-brain/
+---
 
 * Date: Friday, 29 November (morning)
 * Location: [SLTC](https://sltc2024.github.io), Linköping University, Sweden
