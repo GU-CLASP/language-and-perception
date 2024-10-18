@@ -48,7 +48,7 @@ We foresee an open, interactive workshop with plenty of time for discussion, com
 
 Submissions of up to 2 pages (excluding references) should follow [the ACL formatting template][2], should be in English and contain full contact information of the presenter(s). Authors are also encouraged to submit any other information and materials that they would like to discuss and share with the community about these topics.
 
-Please upload your submissions (zipped in a file name.surname.zip) with your full contact details (names of authors, presenting author, affiliation(s), physical address, email and personal website) at the following [link][https://sigmoid.flov.gu.se/index.php/s/cHEPCyncm99d2S6]
+Please upload your submissions (zipped in a file name.surname.zip) with your full contact details (names of authors, presenting author, affiliation(s), physical address, email and personal website) at the following [link][3]
 
 The abstracts will be published on the workshop webpage.
 
@@ -58,8 +58,11 @@ Please register for the workshop using the following link (coming soon)
 
 **Workshop organisers**
 
-\* [Mattias Appelgren](https://www.gu.se/om-universitetet/hitta-person/mattiasappelgren) (contact)
-\* [Simon Dobnik](https://www.gu.se/om-universitetet/hitta-person/simondobnik)
+\* [Mattias Appelgren] (contact)
+\* [Simon Dobnik][5]
 
-[1]:	www.gu.se/en/research/language-and-perception-research-group-lp
-[2]:	https://2023.aclweb.org/calls/style_and_formatting/
+[1]: https://www.gu.se/en/research/language-and-perception-research-group-lp
+[2]: https://2023.aclweb.org/calls/style_and_formatting/
+[3]: https://sigmoid.flov.gu.se/index.php/s/cHEPCyncm99d2S6
+[4]: https://www.gu.se/om-universitetet/hitta-person/mattiasappelgren
+[5]: https://www.gu.se/om-universitetet/hitta-person/simondobnik
