@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Towards The Positronic Brain? - Workshop on Situated and Embodied Language Processing and Multimodal Interaction
+title: Towards The Positronic Brain? Workshop on Situated and Embodied Language Processing and Multimodal Interaction
 short_title: Positronic brain
 permalink: /events/positronic-brain/
 ---
