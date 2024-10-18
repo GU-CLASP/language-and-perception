@@ -7,6 +7,7 @@ permalink: /events/positronic-brain/
 
 * Date: Friday, 29 November (morning)
 * Location: [SLTC](https://sltc2024.github.io), Linköping University, Sweden
+
 <!-- * Address: TBD
 * Room: TBD 
 * Zoom: TBD -->
