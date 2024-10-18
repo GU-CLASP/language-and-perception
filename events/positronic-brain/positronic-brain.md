@@ -1,4 +1,4 @@
-** Towards The Positronic Brain: Workshop on Embodied Language Processing and Multimodal Interaction**
+** Towards The Positronic Brain? - Workshop on Situated and Embodied Language Processing and Multimodal Interaction**
 
 ## Call for participation and extended abstracts
 
@@ -26,7 +26,7 @@ However, a common approach to Artificial Intelligence has been to treat language
 
 This workshop invites researchers in the fields of natural language processing, computer science, language technology, computational linguistics,  computer vision, machine learning, AI, robotics, linguistics, cognitive science, and related fields to participate in an open, community-building forum where we discuss current work, challenges, and future directions related to multi-modality, interaction, embodiment, language technology, and AI in general.
 
-In particular we would like to explore the following questions: (i) what modalities are required for human linguistic and non-linguistic behaviour, how they can be represented as data and how they interact; (i) how can these be modelled in artificial systems and learned, (iii) what are the needs and applications of multi-modal systems - are all modelities always required and are completely embodied agents wanted by end-users, (iv) what are privacy and general ethical consideration both in terms of collecting data for training and subsequently using multi-modal systems? 
+In particular we would like to explore the following questions: (i) what modalities are required for human linguistic and non-linguistic behaviour, how they interact and how they can be represented and their data collected for computational use; (ii) how can modalities be modelled in artificial systems and learned, (iii) to what degree are different modalities used by the current systems and these are capable of multi-modal inference, (iv) what are practical needs for applications of multi-modal systems - are all modelities always required and are completely embodied agents wanted by end-users, (v) what are ethical considerations related to both collecting and training multi-modal data subsequent usage of multi-modal systems? 
 
 In particular, we encourage contributions in the following and similar topics:
 * Grounded language understanding and generation
