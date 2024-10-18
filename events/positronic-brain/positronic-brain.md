@@ -15,11 +15,11 @@ permalink: /events/positronic-brain/
 
 **Important dates:**
 
-* Submission of extended abstracts: 29 Oktober 2024
+* Submission of extended abstracts: 29 October 2024
 * Notification of acceptance: 7 November 2024
 * Camera Ready: 15 November 2024
 
-All deadlines are 11:59PM CET-00:00 
+All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
 **Workshop description**
 
@@ -57,12 +57,12 @@ The abstracts will be published on the workshop webpage.
 
 **Registration**
 
-Please register for the workshop using the following link (coming soon)
+Please register for SLTC to attend the workshop using the following [link](https://www.trippus.net/sltc2024_delegate).
 
 **Workshop organisers**
 
-\* [Mattias Appelgren] (contact)
-\* [Simon Dobnik][5]
+* [Mattias Appelgren][4] (contact)
+* [Simon Dobnik][5]
 
 [1]: https://www.gu.se/en/research/language-and-perception-research-group-lp
 [2]: https://2023.aclweb.org/calls/style_and_formatting/
