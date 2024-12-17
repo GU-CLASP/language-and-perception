@@ -211,23 +211,23 @@ permalink: /meetings/
 
   * J. M. Cano Sant ́ın. Fast visual grounding in interaction: bringing few-shot learning with neural networks to an interactive robot. Masters in language technology (mlt), 30 hec, Department of Philosophy, Lin- guistics and Theory of Science (FLOV), University of Gothenburg, Gothenburg, Sweden, September 18 2019. Supervisor: Simon Dobnik and Mehdi Ghanimifard, examiner: Aarne Ranta. 2019-09-18
 
-  * Peters, Matthew E., et al. "Dissecting contextual word embeddings: Architecture and representation." Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, pages 1499–1509 Brussels, Belgium, October 31 - November 4, 2018. [link](https://aclweb.org/anthology/D18-1179) (recommended by Felix) 2019-05-03
+  * Peters, Matthew E., et al. "Dissecting contextual word embeddings: Architecture and representation." Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, pages 1499–1509 Brussels, Belgium, October 31 - November 4, 2018. [link](https://aclweb.org/anthology/D18-1179) (recommended by Felix), Felix (presenter), Mehdi, Bill, Simon, 2019-05-03
 
-  * Pragst, Louisa, et al. “On the Vector Representation of Utterances in Dialogue Context.” Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC-2018), European Language Resource Association, 2018. [link](http://aclweb.org/anthology/L18-1124) (recommended by Bill Nobel) 2019-04-05
+  * Pragst, Louisa, et al. “On the Vector Representation of Utterances in Dialogue Context.” Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC-2018), European Language Resource Association, 2018. [link](http://aclweb.org/anthology/L18-1124) (recommended by Bill Noble), Bill (presenter), Robin, Felix and Simon 2019-04-05
 
   * Forestier S, Oudeyer P-Y.  (2017)  A Unified Model of Speech and Tool Use Early Development. Proceedings of the 39th Annual Meeting of the Cognitive Science Society. [link](http://sforestier.com/node/32) (recommended by Sylvie Saget) 2019-03-08
 
-  * Li, J., Chen, X., Hovy, E., & Jurafsky, D. (2016). Visualizing and Understanding Neural Models in NLP. In Proceedings of NAACL-HLT (pp. 681-691). [link](http://www.aclweb.org/anthology/N16-1082) (recommended by Felix Morger) 2019-02-22
+  * Li, J., Chen, X., Hovy, E., & Jurafsky, D. (2016). Visualizing and Understanding Neural Models in NLP. In Proceedings of NAACL-HLT (pp. 681-691). [link](http://www.aclweb.org/anthology/N16-1082) (recommended by Felix Morger), Felix (presenter), Mehdi, Robin, Bill and Simon, 2019-02-22
 
   * G. Collell, L. V. Gool, and M. Moens. Acquiring common sense spatial knowledge through implicit spatial templates. arXiv, arXiv:1711.06821 [cs.AI]:1–8, 2017. [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16232/16259) 2019-02-08
 
-  * N. Schneider, J. D. Hwang, V. Srikumar, J. Prange, A. Blodgett, S. R. Moeller, A. Stern, A. Bitan, and O. Abend. Comprehensive supersense disambiguation of English prepositions and possessives. arXiv, arXiv:1805.04905 [cs.CL], 2018. (recommended by Bill) 2018-12-06
+  * N. Schneider, J. D. Hwang, V. Srikumar, J. Prange, A. Blodgett, S. R. Moeller, A. Stern, A. Bitan, and O. Abend. Comprehensive supersense disambiguation of English prepositions and possessives. arXiv, arXiv:1805.04905 [cs.CL], 2018. Participants: Bill (presenter), Mehdi and Felix (recommended by Bill) 2018-12-06
 
   * B. Landau and R. Jackendoff. “what” and “where” in spatial language and spatial cognition. Behavioral and Brain Sciences, 16(2):217–238, 255–265, 1993. Background: B. Landau. Update on “what” and “where” in spatial language: A new division of labor for spatial terms. Cognitive Science, 41(2):321–350, 2016. (recommended by Mehdi) 2018-11-22
 
-  * A. Conneau, G. Kruszewski, G. Lample, L. Barrault, and M. Baroni. What you can cram into a single vector: Probing sentence embeddings for linguistic properties. arXiv, arXiv:1805.01070 [cs.CL], 2018. (recommended by Bill), participants: Adam, ... [link](https://arxiv.org/pdf/1805.01070.pdf) 2018-11-02 
+  * A. Conneau, G. Kruszewski, G. Lample, L. Barrault, and M. Baroni. What you can cram into a single vector: Probing sentence embeddings for linguistic properties. arXiv, arXiv:1805.01070 [cs.CL], 2018. (recommended by Bill), participants: Bill (presenter), Mehdi, Felix, Adam [link](https://arxiv.org/pdf/1805.01070.pdf) 2018-11-02 
 
-  * W. Monroe, R. X. D. Hawkins, N. D. Goodman, and C. Potts. Colors in context: A pragmatic neural model for grounded language understanding. Transactions of the Association for Computational Linguistics, 5:325–338, 2017. 2018-10-15  (recommended by Simon and Mehdi) [link](http://www.aclweb.org/anthology/Q17-1023)
+  * W. Monroe, R. X. D. Hawkins, N. D. Goodman, and C. Potts. Colors in context: A pragmatic neural model for grounded language understanding. Transactions of the Association for Computational Linguistics, 5:325–338, 2017. 2018-10-15  (recommended by Simon and Mehdi), Mehdi (presenter), Felix, Bill, Vlad, Sylvie [link](http://www.aclweb.org/anthology/Q17-1023)
 
   * I. Vulić and N. Mrkšić. Specialising word vectors for lexical entailment. In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers), pages 1134–1145. Association for Computational Linguistics, 2018 (recommended by Bill) 2018-10-08 [link](http://aclweb.org/anthology/N18-1103)
 
