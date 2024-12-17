@@ -16,11 +16,8 @@ permalink: /meetings/
 
 ### Next
 
-  * 2024-03-22,
+  * 2025-01-09, Casey Kennigton
 
-### Upcoming
-  
-      
 ### Read
 
   * 2024-11-15, Boshko Koloski: Boshko Koloski, University of Ljubljana: Graph networks and NLP, [research website](https://bkolosk1.github.io)
@@ -76,7 +73,7 @@ permalink: /meetings/
   * Guest: Ricardo Muñoz Sánchez, Intrinsic Bias Metrics Do Not Correlate with Application Bias, 2023-10-06
     * Muñoz Sánchez, Ricardo. [Exploring the Relationship Between Intrinsic and Extrinsic Bias in Spanish Word Embeddings](https://github.com/seraphinatarrant/embedding_bias/blob/Ricardo/documents/MSc_Dissertation.pdf). Masters Thesis, The University of Edingburgh, 2020.
     * Goldfarb-Tarrant, Seraphina, Rebecca Marchant, Ricardo Muñoz Sánchez, Mugdha Pandya, and Adam Lopez. [Intrinsic Bias Metrics Do Not Correlate with Application Bias](https://aclanthology.org/2021.acl-long.150). In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), 1926–40. Online: Association for Computational Linguistics, 2021.
-    * Participants: Ricardo (presenter), Arianna, Herbert, Maria, Felix, Robin, Tom Sjödahl, Simon
+    * Participants: Ricardo (presenter), Arianna, Herbert, Maria, , Robin, Tom Sjödahl, Simon
 
   * Planning after LSD, 2023-09-19
     * Participants: Robin, Elham, Aram, Simon 
@@ -137,7 +134,7 @@ permalink: /meetings/
 
   * Spliethöver, M., & Wachsmuth, H. (2020). [Argument from Old Man's View: Assessing Social Bias in Argumentation.](https://aclanthology.org/2020.argmining-1.9.pdf) In Proceedings of the 7th Workshop on Argument Mining (pp. 76–87). Association for Computational Linguistics. (suggested by Anna/Simon) RoM 2021-11-05
 
-  * Felix Hill, Olivier Tieleman, Tamara von Glehn, Nathaniel Wong, Hamza Merzic, & Stephen Clark (2021). [Grounded Language Learning Fast and Slow.](https://openreview.net/forum?id=wpSWuz_hyqA) In International Conference on Learning Representations. (suggested by Nikolai) LaP/RoM 2021-10-22
+  *  Hill, Olivier Tieleman, Tamara von Glehn, Nathaniel Wong, Hamza Merzic, & Stephen Clark (2021). [Grounded Language Learning Fast and Slow.](https://openreview.net/forum?id=wpSWuz_hyqA) In International Conference on Learning Representations. (suggested by Nikolai) LaP/RoM 2021-10-22
 
   * The Singleton Fallacy: Why Current Critiques of Language Models Miss the Point Magnus Sahlgren (AI Sweden, Stockholm, Sweden) and Fredrik Carlsson 
 (RISE, Stockholm, Sweden) https://doi.org/10.3389/frai.2021.682578 (suggested by Robin) RoM 2021-10-08
@@ -151,7 +148,7 @@ permalink: /meetings/
 
   * Yuchen Liang, Chaitanya Ryali, Benjamin Hoover, Saket Navlakha, Leopold Grinberg, Mohammed J Zaki, Dmitry Krotov [Can a Fruit Fly Learn Word Embeddings?](https://arxiv.org/pdf/2101.06887.pdf) (Recommended by Adam, would like to read: Robin, Anna, Adam) 2021-06-04  
 
-  * Vulić, Ivan, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš, and Anna Korhonen. (2020) "Probing pretrained language models for lexical semantics." https://www.aclweb.org/anthology/2020.emnlp-main.586.pdf (Recommended by Felix, would like to read: Simon, Nikolai) 2021-05-21  
+  * Vulić, Ivan, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš, and Anna Korhonen. (2020) "Probing pretrained language models for lexical semantics." https://www.aclweb.org/anthology/2020.emnlp-main.586.pdf (Recommended by , would like to read: Simon, Nikolai) 2021-05-21  
 
   * William Merrill, Yoav Goldberg, Roy Schwartz, & Noah A. Smith. (2021). Provable Limitations of Acquiring Meaning from Ungrounded Form: What will Future Language Models Understand? [paper](https://arxiv.org/pdf/2104.10809.pdf) TACL (Recommended by Nikolai, would like to read: Nikolai) 2021-05-07  
 
