@@ -23,10 +23,25 @@ permalink: /meetings/
       
 ### Read
 
+  * 2024-11-15, Boshko Koloski: Boshko Koloski, University of Ljubljana: Graph networks and NLP, [research website](https://bkolosk1.github.io)
+    * Participants: Mattias, Robin, Simon, Xiumei
+
+  * 2024-11-04, J. Kocon ́, I. Cichecki, O. Kaszyca, M. Kochanek, D. Szydlo, J. Baran, J. Bielaniewicz, M. Gruza, A. Janz, K. Kanclerz, A. Kocon ́, B. Koptyra, W. Mieleszczenko-Kowszewicz, P. Milkowski, M. Oleksy, M. Piasecki, L. Radlin ́ski, K. Wojtasik, S. Wo ́zniak, and P. Kazienko. [Chatgpt: Jack of all trades, master of none.](https://www.sciencedirect.com/science/article/pii/S156625352300177X) Information Fusion, 99:101861, 2023.
+    * Participants: Felix Morger (presenter), Ana, Simon, Mattias, Staffan, Ricardo, Arianna
+
+  * 2024-10-18, Staffan Larsson and Robin Cooper: The BROMELIAS project: BRain-Oriented Meaning Emergence in muLtimodal InterActionS
+    * Participants: Mattias, Staffan, Chris, Robin, Bill and Simon 
+
+  * 2024-06-27, Out to the islands, [programme](https://github.com/GU-CLASP/cogsys-wiki/blob/main/meeting-notes/2024-06-27-out-to-the-islands.md)
+    * Participants: Simon, Mattias, Nikolai, Bill, Hélder and Dawit 
+
+  * 2024-03-22, Gijs Wijnholds: A look at structural ambiguity and vision-language models, [paper](https://aclanthology.org/2023.conll-1.11/)
+    * Participants: Gijs, Robin, Bill, Nikolai and Simon   
+
   * 2024-03-08, Nikolai Ilinykh: a discussion about studies on language-and-vision and multi-modal models
     * The meeting was around studies that will be included in Nikolai's thesis.
     * Participants: Nikolai, Simon, Michael, Aram, Staffan.
-
+      
   * 2024-02-23, Guest: Yasaman Saffari: Reinforcement Learning, dialogue, RL-based dialogue system with structural state representation
     * In my upcoming presentation, I plan to delve into RL-based task-oriented dialogue systems. I will elaborate on various DQN variants within the dialogue system context. Moreover, I aim to showcase the integration of benefits from both value-based and policy-based methods, demonstrating their modification for optimal utilization in dialogue systems. Additionally, I will discuss attentional and graph-based structural state representation within our framework.
     * [Actor Double Critic Architecture for Dialogue System](https://doi.org/10.22061/jecei.2023.9346.614)
