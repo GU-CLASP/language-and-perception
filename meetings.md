@@ -11,7 +11,7 @@ permalink: /meetings/
     - Add a link to the paper in the `Url` field.
   - Participating gives you [course credit](https://gu-clasp.github.io/language-and-perception/courses/).
   - Subscribe to [our mailing list](https://listserv.gu.se/sympa/subscribe/cogsys) to follow discussions.
-  - Contact the organisers, Nikolai, Elham, Ricardo and Simon, at cosy [at] flov [at] gu [dot] se
+  - Contact the organisers, Mattias and Simon at cosy [at] flov [at] gu [dot] se
 
 
 ### Next
@@ -23,7 +23,7 @@ permalink: /meetings/
   * 2024-11-15, Boshko Koloski: Boshko Koloski, University of Ljubljana: Graph networks and NLP, [research website](https://bkolosk1.github.io)
     * Participants: Mattias, Robin, Simon, Xiumei
 
-  * 2024-11-04, J. Kocon ́, I. Cichecki, O. Kaszyca, M. Kochanek, D. Szydlo, J. Baran, J. Bielaniewicz, M. Gruza, A. Janz, K. Kanclerz, A. Kocon ́, B. Koptyra, W. Mieleszczenko-Kowszewicz, P. Milkowski, M. Oleksy, M. Piasecki, L. Radlin ́ski, K. Wojtasik, S. Wo ́zniak, and P. Kazienko. [Chatgpt: Jack of all trades, master of none.](https://www.sciencedirect.com/science/article/pii/S156625352300177X) Information Fusion, 99:101861, 2023.
+  * 2024-11-04, J. Kocoń, I. Cichecki, O. Kaszyca, M. Kochanek, D. Szydlo, J. Baran, J. Bielaniewicz, M. Gruza, A. Janz, K. Kanclerz, A. Kocon ́, B. Koptyra, W. Mieleszczenko-Kowszewicz, P. Milkowski, M. Oleksy, M. Piasecki, L. Radlin ́ski, K. Wojtasik, S. Wózniak, and P. Kazienko. [Chatgpt: Jack of all trades, master of none.](https://www.sciencedirect.com/science/article/pii/S156625352300177X) Information Fusion, 99:101861, 2023.
     * Participants: Felix Morger (presenter), Ana, Simon, Mattias, Staffan, Ricardo, Arianna
 
   * 2024-10-18, Staffan Larsson and Robin Cooper: The BROMELIAS project: BRain-Oriented Meaning Emergence in muLtimodal InterActionS
@@ -33,7 +33,7 @@ permalink: /meetings/
     * Participants: Simon, Mattias, Nikolai, Bill, Hélder and Dawit 
 
   * 2024-03-22, Gijs Wijnholds: A look at structural ambiguity and vision-language models, [paper](https://aclanthology.org/2023.conll-1.11/)
-    * Participants: Gijs, Robin, Bill, Nikolai and Simon   
+    * Participants: Gijs, Robin, Bill, Nikolai and Simon
 
   * 2024-03-08, Nikolai Ilinykh: a discussion about studies on language-and-vision and multi-modal models
     * The meeting was around studies that will be included in Nikolai's thesis.
@@ -148,9 +148,9 @@ permalink: /meetings/
 
   * Yuchen Liang, Chaitanya Ryali, Benjamin Hoover, Saket Navlakha, Leopold Grinberg, Mohammed J Zaki, Dmitry Krotov [Can a Fruit Fly Learn Word Embeddings?](https://arxiv.org/pdf/2101.06887.pdf) (Recommended by Adam, would like to read: Robin, Anna, Adam) 2021-06-04  
 
-  * Vulić, Ivan, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš, and Anna Korhonen. (2020) "Probing pretrained language models for lexical semantics." https://www.aclweb.org/anthology/2020.emnlp-main.586.pdf (Recommended by , would like to read: Simon, Nikolai) 2021-05-21  
+  * Vulić, Ivan, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš, and Anna Korhonen. (2020) "Probing pretrained language models for lexical semantics." https://www.aclweb.org/anthology/2020.emnlp-main.586.pdf (Recommended by , would like to read: Simon, Nikolai). Participants: Felix (presenter), Simon, Anna, Nikolai. 2021-05-21.
 
-  * William Merrill, Yoav Goldberg, Roy Schwartz, & Noah A. Smith. (2021). Provable Limitations of Acquiring Meaning from Ungrounded Form: What will Future Language Models Understand? [paper](https://arxiv.org/pdf/2104.10809.pdf) TACL (Recommended by Nikolai, would like to read: Nikolai) 2021-05-07  
+  * William Merrill, Yoav Goldberg, Roy Schwartz, & Noah A. Smith. (2021). Provable Limitations of Acquiring Meaning from Ungrounded Form: What will Future Language Models Understand? [paper](https://arxiv.org/pdf/2104.10809.pdf) TACL (Recommended by Nikolai, would like to read: Nikolai) 2021-05-07
 
   * Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. (http://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf) (Recommended by Anna, would like to read: Anna, Felix) 2021-04-23 
 
@@ -160,15 +160,15 @@ permalink: /meetings/
 
   * Nguyen, Phi & Joty, Shafiq & Hoi, Steven & Socher, Richard. (2020). Tree-structured Attention with Hierarchical Accumulation. [paper](https://openreview.net/forum?id=HJxK5pEYvr) (recommended by Axel, would like to read: Robin, Axel, Simon, Adam)
 
-  * Gao, J., Peng, B., Li, C., Li, J., Shayandeh, S., Liden, L., & Shum, H. Y. (2020). Robust conversational ai with grounded text generation. arXiv preprint arXiv:2009.03457. https://arxiv.org/abs/2009.03457 (Recommended by Staffan, would like to read: Robin, Nikolai, Simon, Anna)
+  * Gao, J., Peng, B., Li, C., Li, J., Shayandeh, S., Liden, L., & Shum, H. Y. (2020). Robust conversational AI with grounded text generation. arXiv preprint arXiv:2009.03457. https://arxiv.org/abs/2009.03457 (Recommended by Staffan, would like to read: Robin, Nikolai, Simon, Anna). Participants: Felix, Nikolai, Simon, Anna, Robin. 2021-02-26.
 
-  * Vig, J., & Belinkov, Y. (2019). [Analyzing the Structure of Attention in a Transformer Language Model.](https://www.aclweb.org/anthology/W19-4808.pdf). In Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP, pages 63-76, Florence, Italy, August 2019. (recommended by Nikolai, would like to read: Axel, Felix, Anna, Simon) 2021-02-12
+  * Vig, J., & Belinkov, Y. (2019). [Analyzing the Structure of Attention in a Transformer Language Model.](https://www.aclweb.org/anthology/W19-4808.pdf). In Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP, pages 63-76, Florence, Italy, August 2019. (recommended by Nikolai, would like to read: Axel, Felix, Anna, Simon). Participants: Nikolai, Adam, Anna, Felix, Aram, and Simon. 2021-02-12
 
   * Katrin Erk and Aurélie Herbelot (2020) How to Marry a Star: probabilistic constraints for meaning in context, https://arxiv.org/pdf/2009.07936.pdf, [revised version](https://drive.google.com/file/d/1BW9VCFAPZdUcO0qRIUNVSDAx3SQwDuy3/view?usp=sharing) from Katrin (recommended by Robin)
 
-  * J. D. Hwang, C. Bhagavatula, R. L. Bras, J. Da, K. Sakaguchi, A. Bosselut, and Y. Choi. [Comet-atomic 2020: On symbolic and neural commonsense knowledge graphs.](https://arxiv.org/abs/2010.05953) arXiv, arXiv:2010.05953 [cs.CL]:1–17, 2020. [Video of a talk.](https://youtu.be/h2wzQKRAdA8) (Recommended by Nikolai, credit for either APL or ROM, would like to read: Nikolai, Anna, Felix, Axel, Robin, Staffan, Ellen, Simon) 2021-01-29
+  * J. D. Hwang, C. Bhagavatula, R. L. Bras, J. Da, K. Sakaguchi, A. Bosselut, and Y. Choi. [Comet-atomic 2020: On symbolic and neural commonsense knowledge graphs.](https://arxiv.org/abs/2010.05953) arXiv, arXiv:2010.05953 [cs.CL]:1–17, 2020. [Video of a talk.](https://youtu.be/h2wzQKRAdA8) (Recommended by Nikolai, credit for either APL or ROM, would like to read: Nikolai, Anna, Felix, Axel, Robin, Staffan, Ellen, Simon). Participants: Anna, Felix, Axel, Nikolai. 2021-01-29
 
-  * Conneau, A., Lample, G., Ranzato, M. A., Denoyer, L., & Jégou, H. (2017). [Word translation without parallel data.](https://arxiv.org/pdf/1710.04087.pdf)  (Recommended by Adam, credit for ROM) 2020-12-11
+  * Conneau, A., Lample, G., Ranzato, M. A., Denoyer, L., & Jégou, H. (2017). [Word translation without parallel data.](https://arxiv.org/pdf/1710.04087.pdf)  (Recommended by Adam, credit for ROM). Participants: Axel, Felix, Adam, and Simon. 2020-12-11
  
   * T. Scialom, P. Bordes, P.-A. Dray, J. Staiano, and P. Gallinari. [What BERT sees: Cross-modal transfer for visual question generation.](https://arxiv.org/abs/2002.10832) arXiv, arXiv:2002.10832 [cs.CL]:1–11, November 2 2020. (recommended by Nikolai), 2020-12-04
 
@@ -221,7 +221,7 @@ permalink: /meetings/
 
   * G. Collell, L. V. Gool, and M. Moens. Acquiring common sense spatial knowledge through implicit spatial templates. arXiv, arXiv:1711.06821 [cs.AI]:1–8, 2017. [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16232/16259) 2019-02-08
 
-  * N. Schneider, J. D. Hwang, V. Srikumar, J. Prange, A. Blodgett, S. R. Moeller, A. Stern, A. Bitan, and O. Abend. Comprehensive supersense disambiguation of English prepositions and possessives. arXiv, arXiv:1805.04905 [cs.CL], 2018. Participants: Bill (presenter), Mehdi and Felix (recommended by Bill) 2018-12-06
+  * N. Schneider, J. D. Hwang, V. Srikumar, J. Prange, A. Blodgett, S. R. Moeller, A. Stern, A. Bitan, and O. Abend. Comprehensive supersense disambiguation of English prepositions and possessives. arXiv, arXiv:1805.04905 [cs.CL], 2018. Participants: Bill (presenter), Mehdi and Felix (recommended by Bill). Participants: Bill (presenter), Mehdi and Felix 2018-12-06
 
   * B. Landau and R. Jackendoff. “what” and “where” in spatial language and spatial cognition. Behavioral and Brain Sciences, 16(2):217–238, 255–265, 1993. Background: B. Landau. Update on “what” and “where” in spatial language: A new division of labor for spatial terms. Cognitive Science, 41(2):321–350, 2016. (recommended by Mehdi) 2018-11-22
 
