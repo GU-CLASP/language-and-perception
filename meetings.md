@@ -227,7 +227,7 @@ permalink: /meetings/
 
   * A. Conneau, G. Kruszewski, G. Lample, L. Barrault, and M. Baroni. What you can cram into a single vector: Probing sentence embeddings for linguistic properties. arXiv, arXiv:1805.01070 [cs.CL], 2018. (recommended by Bill), participants: Bill (presenter), Mehdi, Felix, Adam [link](https://arxiv.org/pdf/1805.01070.pdf) 2018-11-02 
 
-  * W. Monroe, R. X. D. Hawkins, N. D. Goodman, and C. Potts. Colors in context: A pragmatic neural model for grounded language understanding. Transactions of the Association for Computational Linguistics, 5:325–338, 2017. 2018-10-15  (recommended by Simon and Mehdi), Mehdi (presenter), Felix, Bill, Vlad, Sylvie [link](http://www.aclweb.org/anthology/Q17-1023)
+  * W. Monroe, R. X. D. Hawkins, N. D. Goodman, and C. Potts. Colors in context: A pragmatic neural model for grounded language understanding. Transactions of the Association for Computational Linguistics, 5:325–338, 2017. 2018-10-19  (recommended by Simon and Mehdi), Mehdi (presenter), Felix, Bill, Vlad, Sylvie [link](http://www.aclweb.org/anthology/Q17-1023)
 
   * I. Vulić and N. Mrkšić. Specialising word vectors for lexical entailment. In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers), pages 1134–1145. Association for Computational Linguistics, 2018 (recommended by Bill) 2018-10-08 [link](http://aclweb.org/anthology/N18-1103)
 
