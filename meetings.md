@@ -16,12 +16,18 @@ permalink: /meetings/
 
 ### Next
 
-  * 2025-01-09, Casey Kennigton
+  
 
-### Read
+### Previous
 
-  * 2024-11-15, Boshko Koloski: Boshko Koloski, University of Ljubljana: Graph networks and NLP, [research website](https://bkolosk1.github.io)
+  * 2025-04-24, **talk**, Amelie Robrecht: SNAPE-PM: Using Dynamic Partner Models to Generate Adaptive Explanations in Non-Stationary Human-Agent Interaction
+    * __Abstract:__ When humans explain, they build a model of their conversation partner based on both explicit and implicit cues. This partner model is dynamically updated throughout the interaction, and its current state helps in planning and adapting the explanation. We aim to transfer this interaction dynamics to human-agent explanations by introducing SNAPE-PM, an agent that transparently builds, updates, and utilizes the partner model to adapt its explanations in real-time. The talk will introduce the agent's modular architecture, showcase some demonstration videos, and discuss relevant findings from previous studies.
+
+  * 2025-01-09, **talk** Casey Kennigton
+
+  * 2024-11-15, **talk**, Boshko Koloski: Boshko Koloski, University of Ljubljana: Graph networks and NLP, [research website](https://bkolosk1.github.io)
     * Participants: Mattias, Robin, Simon, Xiumei
+
 
   * 2024-11-04, J. Kocoń, I. Cichecki, O. Kaszyca, M. Kochanek, D. Szydlo, J. Baran, J. Bielaniewicz, M. Gruza, A. Janz, K. Kanclerz, A. Kocon ́, B. Koptyra, W. Mieleszczenko-Kowszewicz, P. Milkowski, M. Oleksy, M. Piasecki, L. Radlin ́ski, K. Wojtasik, S. Wózniak, and P. Kazienko. [Chatgpt: Jack of all trades, master of none.](https://www.sciencedirect.com/science/article/pii/S156625352300177X) Information Fusion, 99:101861, 2023.
     * Participants: Felix Morger (presenter), Ana, Simon, Mattias, Staffan, Ricardo, Arianna
