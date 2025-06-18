@@ -15,7 +15,8 @@ permalink: /meetings/
 
 
 ### Next
-
+  * 2025-06-27, **talk**, Anna Lindahl:  Gpt-4o as an annotator of argumentation.
+    * Argumentation annotation has proven to be a challenging task for human annotators, often resulting in moderate agreement. In recent years, pre-trained large language models (LLMs) have excelled in increasingly complex tasks. Because of this, this paper investigates how well GPT-4o can annotate three different types of argumentation in Swedish data and how it compares to human annotators. For this purpose, the model was prompted using the full annotation guidelines. The datasets are annotated for argumentation schemes, argumentative spans and attitude, respectively. We find that GPT-4o agrees similarly to humans in two of the datasets, but annotates fewer tokens and instances.   
   
 
 ### Previous
@@ -27,7 +28,6 @@ permalink: /meetings/
 
   * 2024-11-15, **talk**, Boshko Koloski: Boshko Koloski, University of Ljubljana: Graph networks and NLP, [research website](https://bkolosk1.github.io)
     * Participants: Mattias, Robin, Simon, Xiumei
-
 
   * 2024-11-04, J. Kocoń, I. Cichecki, O. Kaszyca, M. Kochanek, D. Szydlo, J. Baran, J. Bielaniewicz, M. Gruza, A. Janz, K. Kanclerz, A. Kocon ́, B. Koptyra, W. Mieleszczenko-Kowszewicz, P. Milkowski, M. Oleksy, M. Piasecki, L. Radlin ́ski, K. Wojtasik, S. Wózniak, and P. Kazienko. [Chatgpt: Jack of all trades, master of none.](https://www.sciencedirect.com/science/article/pii/S156625352300177X) Information Fusion, 99:101861, 2023.
     * Participants: Felix Morger (presenter), Ana, Simon, Mattias, Staffan, Ricardo, Arianna
